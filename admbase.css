@@ -3,6 +3,9 @@ body {
 	/* font-family: Courier New; */
 	font-family: Consolas;
 	text-shadow: hsla(200, 20%, 90%, 1) 1px 0 5px;
+
+	background: #f0f0f0;
+
 }
 
 pre {
@@ -153,6 +156,48 @@ li::before {
 }
 
 li.todo::before {
-	content: "\2714 ";
+	/* content: "\2714 "; */
+	content: "\21E2";
 	/* font-weight: bold; */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS - Cascading Style Sheet */
+/* Palette color codes */
+/* Palette URL: 	 */
+/* Feel free to copy&paste color codes to your application */
+/* As hex codes */
+.color-primary-0 { color: #2A4F6E }	/* Main Primary color */
+.color-primary-1 { color: #6C7E8D }
+.color-primary-2 { color: #48657D }
+.color-primary-3 { color: #123B5E }
+.color-primary-4 { color: #042D4E }
+
+/* As RGBa codes */
+.rgba-primary-0 { color: rgba( 42, 79,110,1) }	/* Main Primary color */
+.rgba-primary-1 { color: rgba(108,126,141,1) }
+.rgba-primary-2 { color: rgba( 72,101,125,1) }
+.rgba-primary-3 { color: rgba( 18, 59, 94,1) }
+.rgba-primary-4 { color: rgba(  4, 45, 78,1) }
+
