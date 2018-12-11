@@ -22,6 +22,7 @@ pre {
 	margin-bottom: 20px;
 	margin-left: 5px;
 	border-bottom: 1px solid hsla(200, 50%, 90%, 0.5);
+	text-align: center;
 }
 
 .heading-level2 {
@@ -160,23 +161,9 @@ li.todo::before {
 	/* font-weight: bold; */
 }
 
-
-
-
-
-
-
-
-
 ul {
   list-style: none;
 }
-
-
-
-
-
-
 
 
 
@@ -197,3 +184,10 @@ ul {
 .rgba-primary-2 { color: rgba( 72,101,125,1) }
 .rgba-primary-3 { color: rgba( 18, 59, 94,1) }
 .rgba-primary-4 { color: rgba(  4, 45, 78,1) }
+
+
+
+
+.text {
+	margin-left: 35px;
+}
