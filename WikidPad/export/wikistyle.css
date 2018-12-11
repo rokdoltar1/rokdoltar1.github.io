@@ -17,35 +17,41 @@ pre {
 }
 
 .heading-level1 {
-	margin-top: 20px;
-	font-size: 32px;
-	margin-bottom: 20px;
+	/* margin-top: 20px;
 	margin-left: 5px;
-	border-bottom: 1px solid hsla(200, 50%, 90%, 0.5);
+	margin-bottom: 20px; */
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
+	font-size: 32px;
+	border-bottom: 1px solid hsla(200, 50%, 90%, 0.5);
+	/* border-bottom: 1px solid #8cbfd9; */
 }
 
 .heading-level2 {
-	margin-top: 15px;
-	font-size: 15px;
+	/* margin-top: 15px;
 	margin-bottom: 15px;
-	margin-left: 15px;
+	margin-left: 15px; */
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 15px;
 	border-bottom: 1px solid hsla(200, 50%, 90%, 0.5);
 }
 
 .heading-level3 {
 	margin-top: 10px;
-	font-size: 14px;
 	margin-bottom: 10px;
 	margin-left: 25px;
+	font-size: 14px;
 	border-bottom: 1px solid hsla(200, 50%, 90%, 0.5);
 }
 
 .heading-level4 {
 	margin-top: 5px;
-	font-size: 12px;
 	margin-bottom: 5px;
 	margin-left: 35px;
+	font-size: 12px;
 }
 
 .heading-level5 {
@@ -189,5 +195,13 @@ ul {
 
 
 .text {
-	margin-left: 35px;
+	text-align: center;
+}
+
+.plan {
+	width: max-content;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px dashed #AAA;
+	padding: 0px 30px 20px 30px;
 }
