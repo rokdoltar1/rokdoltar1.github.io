@@ -1,0 +1,5896 @@
+# Copyright (C) wikidPads COPYRIGHT HOLDER
+# This file is distributed under the same license as wikidPad.
+msgid ""
+msgstr ""
+"Project-Id-Version: WikidPad 2.3\n"
+"POT-Creation-Date: 2016-04-13 14:40+0800\n"
+"PO-Revision-Date: 2016-04-13 14:52+0800\n"
+"Last-Translator: 郁曉旭 <yuxiaoxu@msn.com>\n"
+"Language-Team: yuxiaoxu <yuxiaoxu@msn.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5mod\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: WikidPad.xrc:0
+msgid "  Context characters"
+msgstr "上下文相關字符"
+
+#: WikidPad.xrc:0
+msgid "  Defaults"
+msgstr "默認值"
+
+#: WikidPad.xrc:0
+msgid " &Delete "
+msgstr "刪除(&D)"
+
+#: WikidPad.xrc:0
+msgid " &Find "
+msgstr "查找(&F)"
+
+#: WikidPad.xrc:0
+msgid " &Replace "
+msgstr "替換(&R)"
+
+#: WikidPad.xrc:0
+msgid " &Test "
+msgstr "測試(&T)"
+
+#: WikidPad.xrc:0
+msgid " Close "
+msgstr " 關閉"
+
+#: WikidPad.xrc:0
+msgid " Find &Next "
+msgstr "查找下一個(&N)"
+
+#: WikidPad.xrc:0
+msgid " Replace &All "
+msgstr "全部替換(&A)"
+
+#: WikidPad.xrc:0
+msgid "&Case sensitive"
+msgstr "區分大小寫(&C)"
+
+#: WikidPad.xrc:0
+msgid "&Create"
+msgstr "創建(&C)"
+
+#: WikidPad.xrc:0
+msgid "&Delete All"
+msgstr "全刪(&D)"
+
+#: WikidPad.xrc:0
+msgid "&Delete Export(s)"
+msgstr "刪除導出內容(&D)"
+
+#: WikidPad.xrc:0
+msgid "&Delete Search(es)"
+msgstr "清除搜索結果(&D)"
+
+#: WikidPad.xrc:0
+msgid "&Ignore"
+msgstr "忽略(&I)"
+
+#: WikidPad.xrc:0
+msgid "&Load Export"
+msgstr "裝載導出(&L)"
+
+#: WikidPad.xrc:0
+msgid "&Load Search"
+msgstr "裝載檢索(&L)"
+
+#: WikidPad.xrc:0
+msgid "&New Tab"
+msgstr "新建標簽頁(&N)"
+
+#: WikidPad.xrc:0
+msgid "&Options"
+msgstr "選項(&O)"
+
+#: WikidPad.xrc:0
+msgid "&Page names"
+msgstr "頁面名(&P)"
+
+#: WikidPad.xrc:0
+msgid "&Replace"
+msgstr "替換(&R)"
+
+#: WikidPad.xrc:0
+msgid "&Restore"
+msgstr "還原(&R)"
+
+#: WikidPad.xrc:0
+msgid "&Save Export"
+msgstr "保存導出(&S)"
+
+#: WikidPad.xrc:0
+msgid "&Save Search"
+msgstr "保存搜索(&S)"
+
+#: WikidPad.xrc:0
+msgid "&Search:"
+msgstr "檢索(&S):"
+
+#: WikidPad.xrc:0
+msgid "&Strip leading/trailing spaces"
+msgstr "前綴/后綴空間(&S)"
+
+#: WikidPad.xrc:0
+msgid "&Whole word"
+msgstr "整個單詞(&W)"
+
+#: WikidPad.xrc:0
+msgid "&beginning"
+msgstr "開始(&B)"
+
+#: WikidPad.xrc:0
+msgid "(0: worst, 100: best)"
+msgstr "(0: 最差, 100: 最好)"
+
+#: WikidPad.xrc:0
+msgid "(Use selected defaults if you are unsure)"
+msgstr "(不確信時使用已選默認值)"
+
+#: WikidPad.xrc:0
+msgid "* Needs WikidPad restart"
+msgstr "WikidPad需要重啟才能生效* "
+
+#: WikidPad.xrc:0
+msgid "0"
+msgstr "0"
+
+#: WikidPad.xrc:0
+msgid ""
+"0: Never complete version; 1: Always complete v.;\n"
+"10: Every tenth v. is complete"
+msgstr ""
+"0: 未完成版本; 1: 總是完成 v.;\n"
+"10: 每十分之一v.完成"
+
+#: WikidPad.xrc:0
+msgid "1 (since 1.9beta6)"
+msgstr "1 (自1.9beta6)"
+
+#: WikidPad.xrc:0
+msgid "Above"
+msgstr "向上"
+
+#: WikidPad.xrc:0
+msgid "Absolute URL"
+msgstr "絕對URL"
+
+#: WikidPad.xrc:0
+msgid "Action on paste:"
+msgstr "粘貼時進行："
+
+#: WikidPad.xrc:0
+msgid "Active link color:"
+msgstr "活動超鏈接顏色:"
+
+#: WikidPad.xrc:0
+msgid "Add"
+msgstr "增加"
+
+#: WikidPad.xrc:0
+msgid "Add &Globally"
+msgstr "全局增加(&G)"
+
+#: WikidPad.xrc:0
+msgid "Add &Locally"
+msgstr "本地增加(&L)"
+
+#: WikidPad.xrc:0
+msgid "Add Wiki to Favorites"
+msgstr "添加維基到收藏夾"
+
+#: WikidPad.xrc:0
+msgid "Add spaces"
+msgstr "添加空格"
+
+#: WikidPad.xrc:0
+msgid "After:"
+msgstr "之后:"
+
+#: WikidPad.xrc:0
+msgid "All Pages"
+msgstr "所有頁"
+
+#: WikidPad.xrc:0
+msgid "Allow everything"
+msgstr "全部允許"
+
+#: WikidPad.xrc:0
+msgid "Allow index search"
+msgstr "允許索引查找"
+
+#: WikidPad.xrc:0
+msgid "Alphabetically"
+msgstr "按字母順序"
+
+#: WikidPad.xrc:0
+msgid "Alphabetically reverse"
+msgstr "按字母降序"
+
+#: WikidPad.xrc:0
+msgid "Also rename subpages"
+msgstr "同時修改子頁面"
+
+#: WikidPad.xrc:0
+msgid "Always"
+msgstr "總是"
+
+#: WikidPad.xrc:0
+msgid "Always show import table"
+msgstr "始終顯示導入表"
+
+#: WikidPad.xrc:0
+msgid "App-bound hotkey:"
+msgstr "應用綁定熱鍵:"
+
+#: WikidPad.xrc:0
+msgid "Append after clipboard snippet:"
+msgstr "插入剪貼板片段:"
+
+#: WikidPad.xrc:0
+msgid "Append after links:"
+msgstr "鏈接后插入:"
+
+#: WikidPad.xrc:0
+msgid "Append closing bracket on auto-complete"
+msgstr "自動完成追加閉合括號"
+
+#: WikidPad.xrc:0
+msgid "Append wiki word"
+msgstr "追加維基字"
+
+#: WikidPad.xrc:0
+msgid "As &Tab"
+msgstr "作為標簽頁(&T)"
+
+#: WikidPad.xrc:0
+msgid "As &is"
+msgstr "原樣(&I)"
+
+#: WikidPad.xrc:0
+msgid "As Res&ultlist"
+msgstr "作為結果列表(&U)"
+
+#: WikidPad.xrc:0
+msgid "As Tree"
+msgstr "作為樹"
+
+#: WikidPad.xrc:0
+msgid "As is"
+msgstr "原樣"
+
+#: WikidPad.xrc:0
+msgid "As list"
+msgstr "作為列表"
+
+#: WikidPad.xrc:0
+msgid "As tree"
+msgstr "作為樹"
+
+#: WikidPad.xrc:0
+msgid "Ask"
+msgstr "詢問"
+
+#: WikidPad.xrc:0
+msgid "Ask before deletion of wiki word"
+msgstr "刪除維基字前詢問"
+
+#: WikidPad.xrc:0
+msgid "Ask for creation when opening non-existing word"
+msgstr "當打開不存在關鍵字，是否詢問創建。"
+
+#: WikidPad.xrc:0
+msgid "Ask settings on each paste"
+msgstr "每次粘貼前詢問設置"
+
+#: WikidPad.xrc:0
+msgid "At position:"
+msgstr "位于:"
+
+#: WikidPad.xrc:0
+msgid "Attribute/script color:"
+msgstr "屬性/腳本顏色："
+
+#: WikidPad.xrc:0
+msgid "Attrs. to"
+msgstr "屬性用于"
+
+#: WikidPad.xrc:0
+msgid "Auto-hide"
+msgstr "自動隱藏"
+
+#: WikidPad.xrc:0
+msgid "Auto-hide log window"
+msgstr "自動隱藏日志窗口"
+
+#: WikidPad.xrc:0
+msgid "Auto-hide structure window"
+msgstr "自動隱藏結構窗口"
+
+#: WikidPad.xrc:0
+msgid "Auto-show log window"
+msgstr "自動顯示日志窗口"
+
+#: WikidPad.xrc:0
+msgid "Auto-unbullets"
+msgstr "撤消自動編號"
+
+#: WikidPad.xrc:0
+msgid "Autosave active"
+msgstr "激活自動保存"
+
+#: WikidPad.xrc:0
+msgid "Avoid doubled snippets"
+msgstr "避免重復粘貼"
+
+#: WikidPad.xrc:0
+msgid "Background color:"
+msgstr "背景色:"
+
+#: WikidPad.xrc:0
+msgid "Background image:"
+msgstr "背景圖片:"
+
+#: WikidPad.xrc:0
+msgid "Basic wiki settings"
+msgstr "維基基本設置"
+
+#: WikidPad.xrc:0
+msgid "Before:"
+msgstr "之前:"
+
+#: WikidPad.xrc:0
+msgid "Below"
+msgstr "下列"
+
+#: WikidPad.xrc:0
+msgid "Between links:"
+msgstr "鏈接間："
+
+#: WikidPad.xrc:0
+msgid "Bookmark"
+msgstr "書簽"
+
+#: WikidPad.xrc:0
+msgid "Bool&ean regex"
+msgstr "布爾正則表達式"
+
+#: WikidPad.xrc:0
+msgid "Bottom"
+msgstr "底部"
+
+#: WikidPad.xrc:0
+msgid "C"
+msgstr "C"
+
+#: WikidPad.xrc:0
+msgid "Cancel"
+msgstr "取消"
+
+#: WikidPad.xrc:0
+msgid "Change these only if you know what you are doing!"
+msgstr "改變這些僅當明知需要做什么！"
+
+#: WikidPad.xrc:0
+msgid "Choose Wiki Word"
+msgstr "選擇維基字"
+
+#: WikidPad.xrc:0
+msgid "Choose date format"
+msgstr "選擇日期格式"
+
+#: WikidPad.xrc:0
+msgid "Choose plain text font"
+msgstr "選擇普通文本字體"
+
+#: WikidPad.xrc:0
+msgid "Chronological View"
+msgstr "時序圖"
+
+#: WikidPad.xrc:0
+msgid "Clear"
+msgstr "清除"
+
+#: WikidPad.xrc:0
+msgid "Clear List"
+msgstr "清除列表"
+
+#: WikidPad.xrc:0
+msgid "Clone tab"
+msgstr "克隆標簽頁"
+
+#: WikidPad.xrc:0
+msgid "Close tab"
+msgstr "關閉標簽頁"
+
+#: WikidPad.xrc:0
+msgid "Collapse whole tree"
+msgstr "全部折疊"
+
+#: WikidPad.xrc:0
+msgid "Collector page:"
+msgstr "收藏頁："
+
+#: WikidPad.xrc:0
+msgid "Colorize search fragments of links separately"
+msgstr "鏈接檢索參數分別使用顏色標記"
+
+#: WikidPad.xrc:0
+msgid "Compatibility"
+msgstr "兼容性"
+
+#: WikidPad.xrc:0
+msgid "Compatible filenames"
+msgstr "兼容文件名"
+
+#: WikidPad.xrc:0
+msgid "Config. dir."
+msgstr "配置文件目錄"
+
+#: WikidPad.xrc:0
+msgid "Copy URL to clipboard"
+msgstr "復制URL到剪貼板"
+
+#: WikidPad.xrc:0
+msgid "Copy into file storage"
+msgstr "復制到文件存儲區"
+
+#: WikidPad.xrc:0
+msgid "Copy to clipboard:"
+msgstr "復制到剪貼板"
+
+#: WikidPad.xrc:0
+msgid "Count Occurrences up to max.:"
+msgstr "匹配次數上限:"
+
+#: WikidPad.xrc:0
+msgid "Create wiki lock file"
+msgstr "創建維基文件鎖"
+
+#: WikidPad.xrc:0
+msgid "Current subtree"
+msgstr "當前子樹"
+
+#: WikidPad.xrc:0
+msgid "Current wiki page"
+msgstr "當前維基頁"
+
+#: WikidPad.xrc:0
+msgid "Custom..."
+msgstr "自定義..."
+
+#: WikidPad.xrc:0
+msgid "DOCTYPE:"
+msgstr "文檔類型:"
+
+#: WikidPad.xrc:0
+msgid "Database"
+msgstr "數據庫"
+
+#: WikidPad.xrc:0
+msgid "Database type:"
+msgstr "數據庫類型:"
+
+#: WikidPad.xrc:0
+msgid "Date format:"
+msgstr "日期格式:"
+
+#: WikidPad.xrc:0
+msgid "Default action:"
+msgstr "默認操作："
+
+#: WikidPad.xrc:0
+msgid "Default export dir.:"
+msgstr "默認導出目錄:"
+
+#: WikidPad.xrc:0
+msgid "Default open/new dir.:"
+msgstr "默認打開/創建目錄:"
+
+#: WikidPad.xrc:0
+msgid "Defaults"
+msgstr "默認值"
+
+#: WikidPad.xrc:0
+msgid "Del"
+msgstr "刪除"
+
+#: WikidPad.xrc:0
+msgid "Delay after key pressed:"
+msgstr "按鍵時滯:"
+
+#: WikidPad.xrc:0
+msgid "Delay after page dirty:"
+msgstr "臟頁延遲:"
+
+#: WikidPad.xrc:0
+msgid "Delay before auto-close:"
+msgstr "自動關閉延遲"
+
+#: WikidPad.xrc:0
+msgid "Details"
+msgstr "細節"
+
+#: WikidPad.xrc:0
+msgid "Done"
+msgstr "完成"
+
+#: WikidPad.xrc:0
+msgid "Down"
+msgstr "向下"
+
+#: WikidPad.xrc:0
+msgid "Dropping files with CTRL:"
+msgstr "按CTRL拖曳文件:"
+
+#: WikidPad.xrc:0
+msgid "Dropping files with SHIFT:"
+msgstr "按SHIFT拖曳文件:"
+
+#: WikidPad.xrc:0
+msgid "Dropping files:"
+msgstr "拖曳文件:"
+
+#: WikidPad.xrc:0
+msgid "Editor timing"
+msgstr "編輯器定時"
+
+#: WikidPad.xrc:0
+msgid "Encoding:"
+msgstr "編碼:"
+
+#: WikidPad.xrc:0
+msgid "Export"
+msgstr "導出"
+
+#: WikidPad.xrc:0
+msgid "Export to:"
+msgstr "導出到:"
+
+#: WikidPad.xrc:0
+msgid "Fast search defaults"
+msgstr "快速查找默認參數"
+
+#: WikidPad.xrc:0
+msgid "File cleanup"
+msgstr "文件清理"
+
+#: WikidPad.xrc:0
+msgid "File pasting/dropping"
+msgstr "文件粘貼/丟棄"
+
+#: WikidPad.xrc:0
+msgid "File signature"
+msgstr "文件簽名"
+
+#: WikidPad.xrc:0
+msgid "File storage identity check"
+msgstr "文件存儲區身份檢查"
+
+#: WikidPad.xrc:0
+msgid "File type:"
+msgstr "文件類型:"
+
+#: WikidPad.xrc:0
+msgid "Filename must match"
+msgstr "文件名必須匹配"
+
+#: WikidPad.xrc:0
+msgid "Filename prefix:"
+msgstr "文件擴展名:"
+
+#: WikidPad.xrc:0
+msgid "First word at startup:"
+msgstr "啟動顯示窗口標題前綴:"
+
+#: WikidPad.xrc:0
+msgid "Font name for HTML preview:"
+msgstr "HTML預覽字體名稱:"
+
+#: WikidPad.xrc:0
+msgid "Font:"
+msgstr "字體:"
+
+#: WikidPad.xrc:0
+msgid "Forbid cancel on search"
+msgstr "檢索時禁止取消"
+
+#: WikidPad.xrc:0
+msgid "Force ScratchPad visibility in tree"
+msgstr "樹中強制顯示便箋內容"
+
+#: WikidPad.xrc:0
+msgid "Force editor to write platform dependent files"
+msgstr "強制編輯器編寫跨平臺文件"
+
+#: WikidPad.xrc:0
+msgid "Format version"
+msgstr "格式版本"
+
+#: WikidPad.xrc:0
+msgid "Fully (not recommended)"
+msgstr "全量（不推薦）"
+
+#: WikidPad.xrc:0
+msgid "General"
+msgstr "一般"
+
+#: WikidPad.xrc:0
+msgid "Given:"
+msgstr "給定："
+
+#: WikidPad.xrc:0
+msgid "Go to next page"
+msgstr "轉至下一頁"
+
+#: WikidPad.xrc:0
+msgid "Graceful handling of missing page files"
+msgstr "完美處理丟失頁面文件"
+
+#: WikidPad.xrc:0
+msgid "Heading level:"
+msgstr "標題類型："
+
+#: WikidPad.xrc:0
+msgid "Heading of new pages"
+msgstr "新頁面文件標題"
+
+#: WikidPad.xrc:0
+msgid "Heading prefix:"
+msgstr "標題前綴："
+
+#: WikidPad.xrc:0
+msgid "Headings as aliases"
+msgstr "標題作為別名"
+
+#: WikidPad.xrc:0
+msgid "Height:"
+msgstr "高度："
+
+#: WikidPad.xrc:0
+msgid "Hidden"
+msgstr "隱藏"
+
+#: WikidPad.xrc:0
+msgid "Hide Log"
+msgstr "隱藏日志"
+
+#: WikidPad.xrc:0
+msgid "Hide undefined wiki words in Tree"
+msgstr "樹中隱藏未定義維基字"
+
+#: WikidPad.xrc:0
+msgid "Highlight start delay:"
+msgstr "高亮啟動延遲:"
+
+#: WikidPad.xrc:0
+msgid "I&ndex"
+msgstr "索引(&N)"
+
+#: WikidPad.xrc:0
+msgid "Icon:"
+msgstr "圖標:"
+
+#: WikidPad.xrc:0
+msgid "Ig&nore All"
+msgstr "忽略所有(&N)"
+
+#: WikidPad.xrc:0
+msgid "Ignore wiki lock file"
+msgstr "忽略維基文件鎖"
+
+#: WikidPad.xrc:0
+msgid "Image pasting"
+msgstr "粘貼圖像"
+
+#: WikidPad.xrc:0
+msgid "Image preview tooltips for local URLs"
+msgstr "圖像預覽本地URL鏈接提示"
+
+#: WikidPad.xrc:0
+msgid "Import format:"
+msgstr "導入格式:"
+
+#: WikidPad.xrc:0
+msgid "Import questions"
+msgstr "導入問題"
+
+#: WikidPad.xrc:0
+msgid "Incremental search"
+msgstr "增量檢索"
+
+#: WikidPad.xrc:0
+msgid "Internal"
+msgstr "內部"
+
+#: WikidPad.xrc:0
+msgid "Intersect"
+msgstr "交集"
+
+#: WikidPad.xrc:0
+msgid "JPEG"
+msgstr "JPEG"
+
+#: WikidPad.xrc:0
+msgid "Just bring to front if open already"
+msgstr "如已打開，置于最前"
+
+#: WikidPad.xrc:0
+msgid "Keeping directory in filestorage keeps everything in it"
+msgstr "保留存儲區目錄中全部內容"
+
+#: WikidPad.xrc:0
+msgid "Left"
+msgstr "向左"
+
+#: WikidPad.xrc:0
+msgid "Left double click in preview:"
+msgstr "預覽區左鍵雙擊:"
+
+#: WikidPad.xrc:0
+msgid "Link color:"
+msgstr "超鏈接顏色:"
+
+#: WikidPad.xrc:0
+msgid "Links in brackets"
+msgstr "鏈接位于括號中"
+
+#: WikidPad.xrc:0
+msgid "Load and R&un Export"
+msgstr "裝載運行導出(&U)"
+
+#: WikidPad.xrc:0
+msgid "Load and R&un Search"
+msgstr "裝載運行檢索(&U)"
+
+#: WikidPad.xrc:0
+msgid "Margin color:"
+msgstr "邊界色:"
+
+#: WikidPad.xrc:0
+msgid "Max. characters on each tab:"
+msgstr "每個標簽最大字符數:"
+
+#: WikidPad.xrc:0
+msgid "Max. entries:"
+msgstr "最大條目："
+
+#: WikidPad.xrc:0
+msgid "Max. length of page file name:"
+msgstr "頁面文件名最大長度："
+
+#: WikidPad.xrc:0
+msgid "Max. number of entries:"
+msgstr "最大條目數："
+
+#: WikidPad.xrc:0
+msgid "Middle button with CTRL:"
+msgstr "按鼠標中鍵同時按CTRL:"
+
+#: WikidPad.xrc:0
+msgid "Middle button without CTRL:"
+msgstr "按鼠標中鍵:"
+
+#: WikidPad.xrc:0
+msgid "Middle click on tab:"
+msgstr "鼠標中鍵單擊標簽頁:"
+
+#: WikidPad.xrc:0
+msgid "Minimize on close button"
+msgstr "關閉時最小化"
+
+#: WikidPad.xrc:0
+msgid "Minimize to Tray"
+msgstr "最小化至托盤"
+
+#: WikidPad.xrc:0
+msgid "Miscellanous"
+msgstr "其他"
+
+#: WikidPad.xrc:0
+msgid "Missing files"
+msgstr "丟失文件"
+
+#: WikidPad.xrc:0
+msgid "Modif. date is enough"
+msgstr "修改日期是否足夠"
+
+#: WikidPad.xrc:0
+msgid "Modif. date must match"
+msgstr "修改日期必須匹配"
+
+#: WikidPad.xrc:0
+msgid "Modify all links to the wiki word"
+msgstr "修改指向該維基字的所有鏈接"
+
+#: WikidPad.xrc:0
+msgid "Move into file storage"
+msgstr "移動到文件存儲區"
+
+#: WikidPad.xrc:0
+msgid "N. T. &Backgr."
+msgstr "新標簽頁在后臺(&B)"
+
+#: WikidPad.xrc:0
+msgid "Name clash"
+msgstr "名稱沖突"
+
+#: WikidPad.xrc:0
+msgid "Name collision:"
+msgstr "命名沖突："
+
+#: WikidPad.xrc:0
+msgid "Natural"
+msgstr "固有"
+
+#: WikidPad.xrc:0
+msgid "New Window"
+msgstr "新窗口"
+
+#: WikidPad.xrc:0
+msgid "New tab in background"
+msgstr "后臺新建標簽頁"
+
+#: WikidPad.xrc:0
+msgid "New tab in foreground"
+msgstr "前臺新建標簽頁"
+
+#: WikidPad.xrc:0
+msgid "New tab with edit"
+msgstr "新標簽頁（編輯）"
+
+#: WikidPad.xrc:0
+msgid "New window on wiki URL"
+msgstr "維基鏈接打開新窗口"
+
+#: WikidPad.xrc:0
+msgid "Newest visited"
+msgstr "最新訪問"
+
+#: WikidPad.xrc:0
+msgid "No change"
+msgstr "沒有變化"
+
+#: WikidPad.xrc:0
+msgid "No cycles in tree"
+msgstr "樹無循環"
+
+#: WikidPad.xrc:0
+msgid "No global.import_scripts"
+msgstr "所有頁執行import_scripts，不執行global.import_scripts"
+
+#: WikidPad.xrc:0
+msgid "No import_scripts"
+msgstr "當前打開頁執行import_scripts，其他頁不執行。"
+
+#: WikidPad.xrc:0
+msgid "No scripts"
+msgstr "無腳本"
+
+#: WikidPad.xrc:0
+msgid "No title"
+msgstr "無標題"
+
+#: WikidPad.xrc:0
+msgid "None"
+msgstr "沒有"
+
+#: WikidPad.xrc:0
+msgid "Not at all"
+msgstr "全不"
+
+#: WikidPad.xrc:0
+msgid "Nothing"
+msgstr "沒有"
+
+#: WikidPad.xrc:0
+msgid "OK"
+msgstr "確定"
+
+#: WikidPad.xrc:0
+msgid "Oldest visited"
+msgstr "最久訪問"
+
+#: WikidPad.xrc:0
+msgid "Open in ..."
+msgstr "打開..."
+
+#: WikidPad.xrc:0
+msgid "Open in new window"
+msgstr "新窗口打開"
+
+#: WikidPad.xrc:0
+msgid "Options"
+msgstr "選項"
+
+#: WikidPad.xrc:0
+msgid "Options for file cleanup"
+msgstr "文件清理選項"
+
+#: WikidPad.xrc:0
+msgid "Options page:"
+msgstr "選項卡:"
+
+#: WikidPad.xrc:0
+msgid "Order pages:"
+msgstr "頁排序："
+
+#: WikidPad.xrc:0
+msgid "Order:"
+msgstr "排序："
+
+#: WikidPad.xrc:0
+msgid "Orphaned files"
+msgstr "孤立文件"
+
+#: WikidPad.xrc:0
+msgid "PNG"
+msgstr "PNG"
+
+#: WikidPad.xrc:0
+msgid "Page Setup"
+msgstr "頁面設置"
+
+#: WikidPad.xrc:0
+msgid "Page file names ASCII only"
+msgstr "頁文件名僅為ASCII"
+
+#: WikidPad.xrc:0
+msgid "Page names matching regular expression:"
+msgstr "頁名匹配正則表達式:"
+
+#: WikidPad.xrc:0
+msgid "Page separator:"
+msgstr "頁分隔符:"
+
+#: WikidPad.xrc:0
+msgid "Pages in list and "
+msgstr "列表頁面與"
+
+#: WikidPad.xrc:0
+msgid "Paste File"
+msgstr "粘貼文件"
+
+#: WikidPad.xrc:0
+msgid "Paste Image"
+msgstr "粘貼圖像"
+
+#: WikidPad.xrc:0
+msgid "Paste from clipboard:"
+msgstr "從剪貼板粘貼:"
+
+#: WikidPad.xrc:0
+msgid "Paste type order"
+msgstr "粘貼類型次序"
+
+#: WikidPad.xrc:0
+msgid "Path or URL:"
+msgstr "路徑或URL:"
+
+#: WikidPad.xrc:0
+msgid "Path to file launcher:"
+msgstr "文件加載路徑:"
+
+#: WikidPad.xrc:0
+msgid "Plain text color:"
+msgstr "普通文本顏色:"
+
+#: WikidPad.xrc:0
+msgid "Position main tree:"
+msgstr "主干樹位置:"
+
+#: WikidPad.xrc:0
+msgid "Position view tree:"
+msgstr "視圖樹位置:"
+
+#: WikidPad.xrc:0
+msgid "Position:"
+msgstr "位置:"
+
+#: WikidPad.xrc:0
+msgid "Prefer memory where possible"
+msgstr "盡可能優先使用內存"
+
+#: WikidPad.xrc:0
+msgid "Prepend before clipboard snippet:"
+msgstr "插入剪貼板片段:"
+
+#: WikidPad.xrc:0
+msgid "Prepend before links:"
+msgstr "鏈接前插入:"
+
+#: WikidPad.xrc:0
+msgid "Prepend wiki word"
+msgstr "插入維基字"
+
+#: WikidPad.xrc:0
+msgid "Preview"
+msgstr "預覽"
+
+#: WikidPad.xrc:0
+msgid "Preview renderer*:"
+msgstr "預覽渲染："
+
+#: WikidPad.xrc:0
+msgid "Preview:"
+msgstr "預覽:"
+
+#: WikidPad.xrc:0
+msgid "Print"
+msgstr "打印"
+
+#: WikidPad.xrc:0
+msgid "Print as:"
+msgstr "打印為:"
+
+#: WikidPad.xrc:0
+msgid "Process auto-generated areas"
+msgstr "進程自動生成區域"
+
+#: WikidPad.xrc:0
+msgid "Process insertion scripts"
+msgstr "進程插入腳本"
+
+#: WikidPad.xrc:0
+msgid "Quality:"
+msgstr "質量:"
+
+#: WikidPad.xrc:0
+msgid "R&egular expression"
+msgstr "正則表達式(&E)"
+
+#: WikidPad.xrc:0
+msgid "Re&place by:"
+msgstr "替換為(&R)："
+
+#: WikidPad.xrc:0
+msgid "Read-only wiki"
+msgstr "只讀維基"
+
+#: WikidPad.xrc:0
+msgid "Rebuild:"
+msgstr "重建："
+
+#: WikidPad.xrc:0
+msgid "Recent wikis list length:"
+msgstr "最近維基列表長度:"
+
+#: WikidPad.xrc:0
+msgid "Reduce update handling in HTML preview"
+msgstr "減少更新HTML預覽處理"
+
+#: WikidPad.xrc:0
+msgid "Referencing directory in filestorage keeps everything in it"
+msgstr "保留全部內容在存儲區關聯目錄"
+
+#: WikidPad.xrc:0
+msgid "Relative URL"
+msgstr "相對URL"
+
+#: WikidPad.xrc:0
+msgid "Remember expanded tree nodes:"
+msgstr "記住已展開樹結點:"
+
+#: WikidPad.xrc:0
+msgid "Rename"
+msgstr "改名"
+
+#: WikidPad.xrc:0
+msgid "Rename Word:"
+msgstr "改字："
+
+#: WikidPad.xrc:0
+msgid "Rename dialog defaults"
+msgstr "修改對話框默認值"
+
+#: WikidPad.xrc:0
+msgid "Rename trashcan entry to:"
+msgstr "重命名垃圾箱條目為："
+
+#: WikidPad.xrc:0
+msgid "Rename wiki element to:"
+msgstr "重命名維基元素為："
+
+#: WikidPad.xrc:0
+msgid "Replace &All"
+msgstr "全部替換(&A)"
+
+#: WikidPad.xrc:0
+msgid "Replace By"
+msgstr "替換"
+
+#: WikidPad.xrc:0
+msgid "Replace with:"
+msgstr "替換為:"
+
+#: WikidPad.xrc:0
+msgid "Result"
+msgstr "結果"
+
+#: WikidPad.xrc:0
+msgid "Reverse script search order (global imports first)"
+msgstr "反序查找(全局導入優先)"
+
+#: WikidPad.xrc:0
+msgid "Reverse wheel zoom"
+msgstr "反轉滾輪縮放"
+
+#: WikidPad.xrc:0
+msgid "Right"
+msgstr "向右"
+
+#: WikidPad.xrc:0
+msgid "Same Tab"
+msgstr "相同標簽頁"
+
+#: WikidPad.xrc:0
+msgid "Saved Exports:"
+msgstr "已保存導出:"
+
+#: WikidPad.xrc:0
+msgid "Saved Searches:"
+msgstr "已保存搜索:"
+
+#: WikidPad.xrc:0
+msgid "Script security:"
+msgstr "腳本安全性:"
+
+#: WikidPad.xrc:0
+msgid "Scroll under pointer (Windows only, exp.)"
+msgstr "自光標往下滾動（僅Windows）"
+
+#: WikidPad.xrc:0
+msgid "Search Page"
+msgstr "搜索頁"
+
+#: WikidPad.xrc:0
+msgid "Search Wiki"
+msgstr "搜索維基"
+
+#: WikidPad.xrc:0
+msgid "Search from"
+msgstr "搜索于"
+
+#: WikidPad.xrc:0
+msgid "Search text"
+msgstr "搜索文本"
+
+#: WikidPad.xrc:0
+msgid "Select facename"
+msgstr "選擇字體名"
+
+#: WikidPad.xrc:0
+msgid "Selection bg. color:"
+msgstr "選區背景色:"
+
+#: WikidPad.xrc:0
+msgid "Selection fg. color:"
+msgstr "選區前景色:"
+
+#: WikidPad.xrc:0
+msgid "Separate files"
+msgstr "單獨文件"
+
+#: WikidPad.xrc:0
+msgid "Set As Root"
+msgstr "設為根"
+
+#: WikidPad.xrc:0
+msgid "Short hint delay:"
+msgstr "短提示延遲:"
+
+#: WikidPad.xrc:0
+msgid "Shortcut:"
+msgstr "快捷方式:"
+
+#: WikidPad.xrc:0
+msgid "Show iframes inside IE preview"
+msgstr "IE預覽時顯示嵌入框架"
+
+#: WikidPad.xrc:0
+msgid "Show in toolbar"
+msgstr "在任務欄顯示"
+
+#: WikidPad.xrc:0
+msgid "Show pics as links in export"
+msgstr "導出時顯示圖片為鏈接"
+
+#: WikidPad.xrc:0
+msgid "Show pics as links in preview"
+msgstr "預覽時顯示圖片為鏈接"
+
+#: WikidPad.xrc:0
+msgid "Show pictures as links"
+msgstr "顯示圖片為鏈接"
+
+#: WikidPad.xrc:0
+msgid "Show splash screen"
+msgstr "顯示啟動畫面"
+
+#: WikidPad.xrc:0
+msgid "Show word list on hovering"
+msgstr "懸停時顯示詞列表"
+
+#: WikidPad.xrc:0
+msgid "Show word list on select"
+msgstr "選擇時顯示詞列表"
+
+#: WikidPad.xrc:0
+msgid "Si&mple regex"
+msgstr "簡單正則表達式"
+
+#: WikidPad.xrc:0
+msgid "Single page separator lines:"
+msgstr "單個頁面分隔線:"
+
+#: WikidPad.xrc:0
+msgid "Single process per user*"
+msgstr "單用戶單進程*"
+
+#: WikidPad.xrc:0
+msgid "Skip"
+msgstr "跳過"
+
+#: WikidPad.xrc:0
+msgid "Sort"
+msgstr "排序"
+
+#: WikidPad.xrc:0
+msgid "Sort alphabetically"
+msgstr "按字母排序"
+
+#: WikidPad.xrc:0
+msgid "Sort order:"
+msgstr "排序方式:"
+
+#: WikidPad.xrc:0
+msgid "Sound"
+msgstr "聲音"
+
+#: WikidPad.xrc:0
+msgid "Sound file:"
+msgstr "音頻文件:"
+
+#: WikidPad.xrc:0
+msgid "Spell Check"
+msgstr "拼寫檢查"
+
+#: WikidPad.xrc:0
+msgid "Start browser after export"
+msgstr "導出后開始瀏覽"
+
+#: WikidPad.xrc:0
+msgid "Statusbar time format:"
+msgstr "狀態欄時間格式:"
+
+#: WikidPad.xrc:0
+msgid "Steps to complete version:"
+msgstr "距完全版本的進度:"
+
+#: WikidPad.xrc:0
+msgid "Store relative pathes to wikis"
+msgstr "存儲相對路徑到維基"
+
+#: WikidPad.xrc:0
+msgid "Structure window heading depth:"
+msgstr "大綱窗口標題深度:"
+
+#: WikidPad.xrc:0
+msgid "Structure window position:"
+msgstr "結構窗口位置:"
+
+#: WikidPad.xrc:0
+msgid "Structure window selection auto-follow"
+msgstr "結構窗口選區自動跟隨"
+
+#: WikidPad.xrc:0
+msgid "Swap From <-> To"
+msgstr "從 <-> 到交換"
+
+#: WikidPad.xrc:0
+msgid "Switch Ed./Prev"
+msgstr "切換編輯/預覽"
+
+#: WikidPad.xrc:0
+msgid "Switch Tabs in MRU order"
+msgstr "切換標簽頁按最近訪問順序"
+
+#: WikidPad.xrc:0
+msgid "Switch tab to edit"
+msgstr "切換標簽頁到編輯"
+
+#: WikidPad.xrc:0
+msgid "Sync. highlighting limit:"
+msgstr "同步高亮限制:"
+
+#: WikidPad.xrc:0
+msgid "Synchronize editor by preview selection"
+msgstr "預覽選區同步編輯器"
+
+#: WikidPad.xrc:0
+msgid "System"
+msgstr "系統"
+
+#: WikidPad.xrc:0
+msgid "Tab history"
+msgstr "瀏覽選項卡歷史"
+
+#: WikidPad.xrc:0
+msgid "Tab mode:"
+msgstr "選項卡："
+
+#: WikidPad.xrc:0
+msgid "Tab width:"
+msgstr "表格符寬度:"
+
+#: WikidPad.xrc:0
+msgid "Table of contents:"
+msgstr "表格內容:"
+
+#: WikidPad.xrc:0
+msgid "Template page names reg. exp.:"
+msgstr "模板頁面名稱正則表達式："
+
+#: WikidPad.xrc:0
+msgid "Temporary file directory:"
+msgstr "臨時文件目錄:"
+
+#: WikidPad.xrc:0
+msgid "Temporary files"
+msgstr "臨時文件"
+
+#: WikidPad.xrc:0
+msgid "Temporary path:"
+msgstr "臨時文件路徑:"
+
+#: WikidPad.xrc:0
+msgid "Test"
+msgstr "測試"
+
+#: WikidPad.xrc:0
+msgid "Text color:"
+msgstr "文本顏色:"
+
+#: WikidPad.xrc:0
+msgid "Text cursor color:"
+msgstr "文本光標色:"
+
+#: WikidPad.xrc:0
+msgid "Time coarsening:"
+msgstr "時間粗化："
+
+#: WikidPad.xrc:0
+msgid "Timeline"
+msgstr "時間軸"
+
+#: WikidPad.xrc:0
+msgid "Title of toc:"
+msgstr "目錄標題:"
+
+#: WikidPad.xrc:0
+msgid "To Word:"
+msgstr "到字:"
+
+#: WikidPad.xrc:0
+msgid "To check"
+msgstr "去檢測"
+
+#: WikidPad.xrc:0
+msgid "Top"
+msgstr "頂端"
+
+#: WikidPad.xrc:0
+msgid "Translate menu accelerators for keyboard layout* (Windows)"
+msgstr "按鍵盤布局轉化菜單加速鍵（Windows）"
+
+#: WikidPad.xrc:0
+msgid "Trashcan"
+msgstr "垃圾箱"
+
+#: WikidPad.xrc:0
+msgid "Tree auto-follow"
+msgstr "樹自動跟隨"
+
+#: WikidPad.xrc:0
+msgid "Tree auto-hide"
+msgstr "自動隱藏樹"
+
+#: WikidPad.xrc:0
+msgid "Tree timing"
+msgstr "定時樹"
+
+#: WikidPad.xrc:0
+msgid "Tree update after save"
+msgstr "保存后更新樹"
+
+#: WikidPad.xrc:0
+msgid "UI Language:"
+msgstr "界面語言:"
+
+#: WikidPad.xrc:0
+msgid "UTF-8 with BOM"
+msgstr "簽名UTF-8"
+
+#: WikidPad.xrc:0
+msgid "UTF-8 without BOM"
+msgstr "UTF-8"
+
+#: WikidPad.xrc:0
+msgid "Unordered"
+msgstr "無序"
+
+#: WikidPad.xrc:0
+msgid "Up"
+msgstr "向上"
+
+#: WikidPad.xrc:0
+msgid "Up to heading depth:"
+msgstr "標題深度上限"
+
+#: WikidPad.xrc:0
+msgid "Update ext. mod. files"
+msgstr "更新外部修改文件"
+
+#: WikidPad.xrc:0
+msgid "Update step min. delay:"
+msgstr "更新延遲分鐘數："
+
+#: WikidPad.xrc:0
+msgid "Uppercase first"
+msgstr "大寫優先"
+
+#: WikidPad.xrc:0
+msgid "Use IME workaround for editor input*"
+msgstr "編輯器使用輸入法輸入*"
+
+#: WikidPad.xrc:0
+msgid "Use link title if present"
+msgstr "如果當前使用標題鏈接"
+
+#: WikidPad.xrc:0
+msgid "Use vi keys in Webkit preview"
+msgstr "Webkit預覽使用vi關鍵字"
+
+#: WikidPad.xrc:0
+msgid "Use vi keys in editor"
+msgstr "在編輯器使用vi關鍵字"
+
+#: WikidPad.xrc:0
+msgid "User notification:"
+msgstr "用戶統治:"
+
+#: WikidPad.xrc:0
+msgid "Version Import"
+msgstr "導入版本"
+
+#: WikidPad.xrc:0
+msgid "Versioning"
+msgstr "版本化"
+
+#: WikidPad.xrc:0
+msgid "Visited link color:"
+msgstr "已訪問鏈接顏色:"
+
+#: WikidPad.xrc:0
+msgid "Warn about other processes (Windows only)"
+msgstr "對其他進程警告（僅Windows）"
+
+#: WikidPad.xrc:0
+msgid "What to export:"
+msgstr "導出范圍:"
+
+#: WikidPad.xrc:0
+msgid "What to print:"
+msgstr "打印區域:"
+
+#: WikidPad.xrc:0
+msgid "Where to store:"
+msgstr "存儲位置:"
+
+#: WikidPad.xrc:0
+msgid "While wiki open"
+msgstr "當維基打開時"
+
+#: WikidPad.xrc:0
+msgid "Whole wiki"
+msgstr "整個維基"
+
+#: WikidPad.xrc:0
+msgid "Width:"
+msgstr "寬度："
+
+#: WikidPad.xrc:0
+msgid "Wiki Search"
+msgstr "搜索維基"
+
+#: WikidPad.xrc:0
+msgid "Wiki Word"
+msgstr "維基字"
+
+#: WikidPad.xrc:0
+msgid "Wiki icon:"
+msgstr "維基圖標:"
+
+#: WikidPad.xrc:0
+msgid "Wiki language:"
+msgstr "維基語言:"
+
+#: WikidPad.xrc:0
+msgid "Wiki word to heading:"
+msgstr "維基字至標題:"
+
+#: WikidPad.xrc:0
+msgid "Wiki-bound hotkey:"
+msgstr "維基綁定熱鍵:"
+
+#: WikidPad.xrc:0
+msgid "Wiki-wide search"
+msgstr "維基廣度搜索"
+
+#: WikidPad.xrc:0
+msgid "Wrap by "
+msgstr "換行符為"
+
+#: WikidPad.xrc:0
+msgid "Write saved searches"
+msgstr "寫入保存結果"
+
+#: WikidPad.xrc:0
+msgid "Write version data of pages"
+msgstr "寫入頁面版本數據"
+
+#: WikidPad.xrc:0
+msgid "Write wiki func. pages"
+msgstr "寫入維基功能頁"
+
+#: WikidPad.xrc:0
+msgid "bytes"
+msgstr "字節"
+
+#: WikidPad.xrc:0
+msgid "c&ursor"
+msgstr "光標(&U)"
+
+#: WikidPad.xrc:0
+msgid "character"
+msgstr "字符"
+
+#: WikidPad.xrc:0
+msgid "chars"
+msgstr "字符"
+
+#: WikidPad.xrc:0
+msgid "include in export:"
+msgstr "導出包含:"
+
+#: WikidPad.xrc:0
+msgid "include in preview:"
+msgstr "預覽包含:"
+
+#: WikidPad.xrc:0
+msgid "level(s) below"
+msgstr "如下級別"
+
+#: WikidPad.xrc:0
+msgid "milliseconds"
+msgstr "微秒"
+
+#: WikidPad.xrc:0
+msgid "not  "
+msgstr "否 "
+
+#: WikidPad.xrc:0
+msgid "second(s)"
+msgstr "秒"
+
+#: WikidPad.xrc:0
+msgid "seconds"
+msgstr "秒"
+
+#: WikidPad.xrc:0
+msgid "word"
+msgstr "單詞"
+
+#: WikidPad.xrc:0 extensions\GraphvizStructureView.py:678
+#: extensions\GraphvizStructureView.py:702
+#: extensions\GraphvizStructureView.py:715
+#: extensions\GraphvizStructureView.py:728
+msgid "..."
+msgstr "..."
+
+#: WikidPad.xrc:0 lib\pwiki\AdditionalDialogs.py:804
+msgid " OK "
+msgstr "確定"
+
+#: WikidPad.xrc:0 lib\pwiki\AdditionalDialogs.py:808
+msgid " Cancel "
+msgstr "取消"
+
+#: WikidPad.xrc:0 lib\pwiki\AdditionalDialogs.py:1199
+msgid "Destination directory:"
+msgstr "目的目錄:"
+
+#: WikidPad.xrc:0 lib\pwiki\AdditionalDialogs.py:1395
+#: lib\pwiki\SearchAndReplaceDialogs.py:903
+#: lib\pwiki\SearchAndReplaceDialogs.py:1723
+msgid "Title:"
+msgstr "標題:"
+
+#: WikidPad.xrc:0 lib\pwiki\AdditionalDialogs.py:1672
+msgid "Source directory:"
+msgstr "源目錄:"
+
+#: WikidPad.xrc:0 lib\pwiki\DiffGui.py:523 lib\pwiki\PersonalWikiFrame.py:1366
+#: lib\pwiki\WikiTxtCtrl.py:4231
+msgid "Copy"
+msgstr "復制"
+
+#: WikidPad.xrc:0 lib\pwiki\DiffGui.py:524 lib\pwiki\PersonalWikiFrame.py:1382
+#: lib\pwiki\WikiTxtCtrl.py:4234
+msgid "Select All"
+msgstr "全選"
+
+#: WikidPad.xrc:0 lib\pwiki\DiffGui.py:526 lib\pwiki\WikiTxtCtrl.py:4251
+msgid "Close Tab"
+msgstr "關閉標簽卡"
+
+#: WikidPad.xrc:0 lib\pwiki\FileCleanup.py:528 lib\pwiki\FileCleanup.py:530
+#: lib\pwiki\FileCleanup.py:686 lib\pwiki\FileCleanup.py:1261
+msgid "Keep"
+msgstr "保留"
+
+#: WikidPad.xrc:0 lib\pwiki\FileCleanup.py:528 lib\pwiki\FileCleanup.py:616
+#: lib\pwiki\FileCleanup.py:686 lib\pwiki\FileCleanup.py:775
+#: lib\pwiki\MptImporterGui.py:173 lib\pwiki\MptImporterGui.py:175
+#: lib\pwiki\OptionsDialog.py:141 lib\pwiki\OptionsDialog.py:937
+msgid "Default"
+msgstr "默認"
+
+#: WikidPad.xrc:0 lib\pwiki\FileCleanup.py:529 lib\pwiki\FileCleanup.py:531
+#: lib\pwiki\FileCleanup.py:687 lib\pwiki\FileCleanup.py:1262
+#: lib\pwiki\WikiTxtCtrl.py:4233
+msgid "Delete"
+msgstr "刪除"
+
+#: WikidPad.xrc:0 lib\pwiki\FileCleanup.py:529 lib\pwiki\FileCleanup.py:531
+#: lib\pwiki\FileCleanup.py:1262
+msgid "Collect"
+msgstr "收藏"
+
+#: WikidPad.xrc:0 lib\pwiki\MptImporterGui.py:173
+#: lib\pwiki\MptImporterGui.py:175
+msgid "Yes"
+msgstr "是"
+
+#: WikidPad.xrc:0 lib\pwiki\MptImporterGui.py:174
+msgid "Overwrite"
+msgstr "覆寫"
+
+#: WikidPad.xrc:0 lib\pwiki\MptImporterGui.py:174
+#: lib\pwiki\MptImporterGui.py:175
+msgid "No"
+msgstr "否"
+
+#: WikidPad.xrc:0 lib\pwiki\MptImporterGui.py:199
+msgid "Import"
+msgstr "導入"
+
+#: WikidPad.xrc:0 lib\pwiki\OptionsDialog.py:725
+msgid "Editor"
+msgstr "編輯器"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:1341
+#: lib\pwiki\WikiTxtCtrl.py:4228
+msgid "Undo"
+msgstr "撤消"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:1345
+#: lib\pwiki\WikiTxtCtrl.py:4229
+msgid "Redo"
+msgstr "重做"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:1361
+#: lib\pwiki\WikiTxtCtrl.py:4230
+msgid "Cut"
+msgstr "剪切"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:1370
+#: lib\pwiki\WikiTxtCtrl.py:4232
+msgid "Paste"
+msgstr "粘貼"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:1696
+msgid "&Delete"
+msgstr "刪除(&D)"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:2136
+#: lib\pwiki\PersonalWikiFrame.py:2137
+msgid "Open Wiki Word"
+msgstr "打開維基字"
+
+#: WikidPad.xrc:0 lib\pwiki\PersonalWikiFrame.py:2167
+#: lib\pwiki\PersonalWikiFrame.py:2168
+msgid "Rename Wiki Word"
+msgstr "更改維基字"
+
+#: WikidPad.xrc:0 lib\pwiki\SearchAndReplaceDialogs.py:1077
+msgid "Close"
+msgstr "關閉"
+
+#: WikidPad.xrc:0 lib\pwiki\SearchAndReplaceDialogs.py:1949
+msgid "Set page list"
+msgstr "設置頁面清單"
+
+#: WikidPad.xrc:0 lib\pwiki\SearchAndReplaceDialogs.py:2225
+msgid "As Resultlist"
+msgstr "結果列表"
+
+#: WikidPad.xrc:0 lib\pwiki\SearchAndReplaceDialogs.py:2230
+#: lib\pwiki\SearchAndReplaceDialogs.py:2335
+msgid "As Full Search"
+msgstr "全文檢索"
+
+#: WikidPad.xrc:0 lib\pwiki\SearchAndReplaceDialogs.py:2637
+#: lib\pwiki\WikiHtmlView.py:735 lib\pwiki\WikiHtmlView2.py:1520
+msgid "Activate New Tab"
+msgstr "激活新標簽卡"
+
+#: WikidPad.xrc:0 lib\pwiki\timeView\TimeViewCtrl.py:58
+msgid "Wiki-wide history"
+msgstr "維基廣度搜索"
+
+#: WikidPad.xrc:0 lib\pwiki\timeView\TimelinePanel.py:798
+msgid "Show empty days"
+msgstr "顯示空日"
+
+#: WikidPad.xrc:0 lib\pwiki\timeView\TimelinePanel.py:800
+msgid "Sort dates ascending"
+msgstr "按日期升序"
+
+#: WikidPadStarter.py:212
+msgid "Error starting WikidPad"
+msgstr "WikidPad啟動出錯"
+
+#: WikidPadStarter.py:213 lib\pwiki\PersonalWikiFrame.py:5401
+#: lib\pwiki\SearchAndReplaceDialogs.py:946
+#: lib\pwiki\SearchAndReplaceDialogs.py:1241
+msgid "Error!"
+msgstr "錯誤！"
+
+#: WikidPadStarter.py:220 extensions\PrintDefault.py:776
+#: lib\pwiki\MptImporterGui.py:203
+msgid "Error"
+msgstr "錯誤"
+
+#: extensions\GnuplotClBridge.py:91
+msgid "[Please set path to Gnuplot executable]"
+msgstr "[請設置Gnuplots可執行文件路徑l]"
+
+#: extensions\GnuplotClBridge.py:140
+msgid "[Gnuplot error: %s]"
+msgstr "[Gnuplot錯誤: %s]"
+
+#: extensions\GnuplotClBridge.py:191
+msgid "Path to Gnuplot:"
+msgstr "Gnuplot路徑:"
+
+#: extensions\GraphvizClBridge.py:106
+msgid "[Please set path to GraphViz executables]"
+msgstr "[請設置GraphViz可執行文件路徑]"
+
+#: extensions\GraphvizClBridge.py:148
+msgid "[%s Error: %s]"
+msgstr "[%s 錯誤: %s]"
+
+#: extensions\GraphvizClBridge.py:249
+msgid "Directory of executables:"
+msgstr "可執行文件目錄:"
+
+#: extensions\GraphvizClBridge.py:253
+msgid "Name of dot executable:"
+msgstr "dot可執行文件名:"
+
+#: extensions\GraphvizClBridge.py:257
+msgid "Name of neato executable:"
+msgstr "neato可執行文件名:"
+
+#: extensions\GraphvizClBridge.py:261
+msgid "Name of twopi executable:"
+msgstr "twopi可執行文件名:"
+
+#: extensions\GraphvizClBridge.py:265
+msgid "Name of circo executable:"
+msgstr "circo可執行文件名:"
+
+#: extensions\GraphvizClBridge.py:269
+msgid "Name of fdp executable:"
+msgstr "fdp可執行文件名"
+
+#: extensions\GraphvizStructureView.py:366
+msgid "%s Error: %s"
+msgstr "%s 錯誤: %s"
+
+#: extensions\GraphvizStructureView.py:432
+#: extensions\GraphvizStructureView.py:433
+msgid "Show relation graph"
+msgstr "顯示關系圖"
+
+#: extensions\GraphvizStructureView.py:435
+msgid "Show rel. graph source"
+msgstr "顯示關系圖來源"
+
+#: extensions\GraphvizStructureView.py:437
+msgid "Show relation graph source"
+msgstr "顯示關系圖來源"
+
+#: extensions\GraphvizStructureView.py:439
+#: extensions\GraphvizStructureView.py:440
+msgid "Show child graph"
+msgstr "顯示子圖"
+
+#: extensions\GraphvizStructureView.py:442
+#: extensions\GraphvizStructureView.py:444
+msgid "Show child graph source"
+msgstr "顯示子圖來源"
+
+#: extensions\GraphvizStructureView.py:661
+msgid "  GraphVizStructure"
+msgstr "  GraphViz-struktur"
+
+#: extensions\GraphvizStructureView.py:681
+msgid "Node font name:"
+msgstr "結點字體名稱:"
+
+#: extensions\GraphvizStructureView.py:693
+msgid "Node font size:"
+msgstr "結點字體大小:"
+
+#: extensions\GraphvizStructureView.py:705
+msgid "Node border color:"
+msgstr "結點邊框色:"
+
+#: extensions\GraphvizStructureView.py:718
+msgid "Node background color:"
+msgstr "結點背景色:"
+
+#: extensions\GraphvizStructureView.py:731
+msgid "Edge color:"
+msgstr "邊緣色:"
+
+#: extensions\HtmlExporter.py:478
+msgid "One HTML page"
+msgstr "單個HTML文件"
+
+#: extensions\HtmlExporter.py:479
+msgid "Set of HTML pages"
+msgstr "多個HTML文件"
+
+#: extensions\HtmlExporter.py:917 extensions\HtmlExporter.py:1014
+msgid "Exporting %s"
+msgstr "正導出%s"
+
+#: extensions\HtmlExporter.py:2063
+msgid ""
+"<pre class=\"wikidpad\">[Allow evaluation of insertions in \"Options\", page "
+"\"Security\", option \"Process insertion scripts\"]</pre>"
+msgstr ""
+"<pre class=\"wikidpad\">[在 \"選項\", 頁面 \"安全性\", 選項 \"程序插入腳本"
+"\"中允許插入評估]</pre>"
+
+#: extensions\HtmlExporter.py:2493
+msgid "[Unknown parser node with name \"%s\" found]"
+msgstr "[發現未知解析結點名 \"%s\" ]"
+
+#: extensions\MimeTexCGIBridge.py:92
+msgid "[Please set path to MimeTeX executable]"
+msgstr "[請設置MimeTeX可執行文件路徑]"
+
+#: extensions\MimeTexCGIBridge.py:124
+msgid "[Invalid response from MimeTeX]"
+msgstr "[MimeTeX響應無效]"
+
+#: extensions\MimeTexCGIBridge.py:185
+msgid "Path to MimeTeX:"
+msgstr "MimeTeX路徑:"
+
+#: extensions\PloticusClBridge.py:108
+msgid "[Please set path to Ploticus executable]"
+msgstr "[設置Ploticus可執行文件路徑]"
+
+#: extensions\PloticusClBridge.py:151
+msgid "[Ploticus error: %s]"
+msgstr "[Ploticus錯誤: %s]"
+
+#: extensions\PloticusClBridge.py:211
+msgid "Path to Ploticus:"
+msgstr "Ploticus路徑:"
+
+#: extensions\PloticusClBridge.py:217
+msgid "Output format:"
+msgstr "輸出格式:"
+
+#: extensions\PrintDefault.py:249 extensions\PrintDefault.py:643
+msgid "Print Preview"
+msgstr "打印預覽"
+
+#: extensions\PrintDefault.py:262
+msgid "Printout"
+msgstr "打印輸出"
+
+#: extensions\PrintDefault.py:775
+msgid "Error loading Webkit: try a different export format)"
+msgstr "裝載Webkit錯誤：嘗試使用不同導出格式)"
+
+#: extensions\WikidPadParserStub.py:124
+msgid "Footnotes as wiki words"
+msgstr "腳注作為維基字"
+
+#: extensions\autoNew.py:58 extensions\autoNew.py:59
+msgid "Create new page"
+msgstr "創建新頁面"
+
+#: extensions\mediaWikiParser\MediaWikiParser.py:1930
+#: extensions\mediaWikiParser\MediaWikiParser.py:1957
+#: extensions\wikidPadParser\WikidPadParser.py:1797
+#: extensions\wikidPadParser\WikidPadParser.py:1824
+msgid "This is a footnote"
+msgstr "這是腳注。"
+
+#: extensions\mediaWikiParser\MediaWikiParser.py:1935
+#: extensions\mediaWikiParser\MediaWikiParser.py:1962
+#: extensions\wikidPadParser\WikidPadParser.py:1802
+#: extensions\wikidPadParser\WikidPadParser.py:1829
+msgid "This is syntactically not a wiki word"
+msgstr "在語法上這不是個維基字。"
+
+#: extensions\mediaWikiParser\MediaWikiParser.py:2594
+msgid ""
+"== Wiki Settings ==\n"
+"\n"
+"These are your default global settings.\n"
+"\n"
+"[[global.importance.low.color: grey]]\n"
+"[[global.importance.high.bold: true]]\n"
+"[[global.contact.icon: contact]]\n"
+"[[global.wrap: 70]]\n"
+"\n"
+"[[icon: cog]]\n"
+msgstr ""
+"== 維基設置 ==\n"
+"\n"
+"下面是你的全局默認設置。\n"
+"\n"
+"[[global.importance.low.color: grey]]\n"
+"[[global.importance.high.bold: true]]\n"
+"[[global.contact.icon: contact]]\n"
+"[[global.wrap: 70]]\n"
+"\n"
+"[[icon: cog]]\n"
+
+#: extensions\referrals.py:74 extensions\referrals.py:75
+#: extensions\referrals.py:109 extensions\referrals.py:129
+msgid "Insert referring pages"
+msgstr "插入引用頁"
+
+#: extensions\referrals.py:109 extensions\referrals.py:129
+msgid "Referers"
+msgstr "引用"
+
+#: extensions\referrals.py:147
+msgid "*%s page(s) referring to* %s\n"
+msgstr "*%s頁面關聯l* %s\n"
+
+#: extensions\referrals.py:156
+msgid "*%s page(s) referred to by* %s\n"
+msgstr "*%s頁面通過* %s關聯\n"
+
+#: extensions\wikidPadParser\WikidPadParser.py:2531
+msgid ""
+"++ Wiki Settings\n"
+"\n"
+"These are your default global settings.\n"
+"\n"
+"[global.importance.low.color: grey]\n"
+"[global.importance.high.bold: true]\n"
+"[global.contact.icon: contact]\n"
+"[global.wrap: 70]\n"
+"\n"
+"[icon: cog]\n"
+msgstr ""
+"++ 維基設置\n"
+"\n"
+"如下是你默認的全局設置。\n"
+"\n"
+"[global.importance.low.color: grey]\n"
+"[global.importance.high.bold: true]\n"
+"[global.contact.icon: contact]\n"
+"[global.wrap: 70]\n"
+"\n"
+"[icon: cog]\n"
+
+#: lib\pwiki\AdditionalDialogs.py:145 lib\pwiki\AdditionalDialogs.py:363
+msgid "Links to:"
+msgstr "鏈接至:"
+
+#: lib\pwiki\AdditionalDialogs.py:290 lib\pwiki\AdditionalDialogs.py:413
+msgid "'%s' is an invalid WikiWord"
+msgstr "'%s'是無效的維基字。"
+
+#: lib\pwiki\AdditionalDialogs.py:300
+msgid "'%s' is not an existing wikiword. Create?"
+msgstr "'%s' 不存在該維基字。是否新建?"
+
+#: lib\pwiki\AdditionalDialogs.py:301
+msgid "Create"
+msgstr "創建"
+
+#: lib\pwiki\AdditionalDialogs.py:419
+msgid "'%s' exists already"
+msgstr "'%s' 已存在"
+
+#: lib\pwiki\AdditionalDialogs.py:435 lib\pwiki\AdditionalDialogs.py:540
+msgid "Do you want to delete %i wiki page(s)?"
+msgstr "你確定要刪除%i維基頁嗎?"
+
+#: lib\pwiki\AdditionalDialogs.py:700
+msgid ""
+"Can't process renaming:\n"
+"%s"
+msgstr ""
+"無法處理如下內容：\n"
+"%s"
+
+#: lib\pwiki\AdditionalDialogs.py:701
+msgid "Can't rename"
+msgstr "無法改名"
+
+#: lib\pwiki\AdditionalDialogs.py:739
+msgid "Can't rename to itself"
+msgstr "無法改成原名"
+
+#: lib\pwiki\AdditionalDialogs.py:742 lib\pwiki\TrashcanGui.py:375
+#: lib\pwiki\WikiExceptions.py:82
+msgid "Word already exists"
+msgstr "字已存在"
+
+#: lib\pwiki\AdditionalDialogs.py:777
+msgid "Select Icon"
+msgstr "選擇圖標"
+
+#: lib\pwiki\AdditionalDialogs.py:786
+msgid "Icon"
+msgstr "圖標"
+
+#: lib\pwiki\AdditionalDialogs.py:846
+msgid ""
+"<html>\n"
+"<body bgcolor=\"#FFFFFF\">\n"
+"\n"
+"<table border=\"1\" align=\"center\" style=\"border-collapse: collapse\">\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><b>Directive</b></td>\n"
+"        <td align=\"left\"><b>Meaning</b></td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%a</code></td>\n"
+"        <td align=\"left\">Locale's abbreviated weekday name.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%A</code></td>\n"
+"        <td align=\"left\">Locale's full weekday name.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%b</code></td>\n"
+"        <td align=\"left\">Locale's abbreviated month name.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%B</code></td>\n"
+"        <td align=\"left\">Locale's full month name.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%c</code></td>\n"
+"        <td align=\"left\">Locale's appropriate date and time representation."
+"</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%d</code></td>\n"
+"        <td align=\"left\">Day of the month as a decimal number [01,31].</"
+"td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%H</code></td>\n"
+"        <td align=\"left\">Hour (24-hour clock) as a decimal number [00,23]."
+"</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%I</code></td>\n"
+"        <td align=\"left\">Hour (12-hour clock) as a decimal number [01,12]."
+"</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%j</code></td>\n"
+"        <td align=\"left\">Day of the year as a decimal number [001,366].</"
+"td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%m</code></td>\n"
+"        <td align=\"left\">Month as a decimal number [01,12].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%M</code></td>\n"
+"        <td align=\"left\">Minute as a decimal number [00,59].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%p</code></td>\n"
+"        <td align=\"left\">Locale's equivalent of either AM or PM.</td></"
+"tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%S</code></td>\n"
+"        <td align=\"left\">Second as a decimal number [00,61].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%u</code></td>\n"
+"        <td align=\"left\">Weekday as a decimal number [1(Monday),7].</td></"
+"tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%U</code></td>\n"
+"        <td align=\"left\">Week number of the year (Sunday as the first day "
+"of the\n"
+"                week) as a decimal number [00,53].  All days in a new year\n"
+"                preceding the first Sunday are considered to be in week 0.</"
+"td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%w</code></td>\n"
+"        <td align=\"left\">Weekday as a decimal number [0(Sunday),6].</td></"
+"tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%W</code></td>\n"
+"        <td align=\"left\">Week number of the year (Monday as the first day "
+"of the\n"
+"                week) as a decimal number [00,53].  All days in a new year\n"
+"                preceding the first Monday are considered to be in week 0.</"
+"td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%x</code></td>\n"
+"        <td align=\"left\">Locale's appropriate date representation.</td></"
+"tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%X</code></td>\n"
+"        <td align=\"left\">Locale's appropriate time representation.</td></"
+"tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%y</code></td>\n"
+"        <td align=\"left\">Year without century as a decimal number [00,99]."
+"</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%Y</code></td>\n"
+"        <td align=\"left\">Year with century as a decimal number.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%Z</code></td>\n"
+"        <td align=\"left\">Time zone name (no characters if no time zone "
+"exists).</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%%</code></td>\n"
+"        <td align=\"left\">A literal \"<tt class=\"character\">%</tt>\" "
+"character.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>\\n</code></td>\n"
+"        <td align=\"left\">A newline.</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>\\\\</code></td>\n"
+"        <td align=\"left\">A literal \"<tt class=\"character\">\\</tt>\" "
+"character.</td></tr>\n"
+"    </tbody>\n"
+"</table>\n"
+"</body>\n"
+"</html>\n"
+msgstr ""
+"<html>\n"
+"<body bgcolor=\"#FFFFFF\">\n"
+"\n"
+"<table border=\"1\" align=\"center\" style=\"border-collapse: collapse\">\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><b>Directive</b></td>\n"
+"        <td align=\"left\"><b>含義</b></td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%a</code></td>\n"
+"        <td align=\"left\">本土化平日名</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%A</code></td>\n"
+"        <td align=\"left\">本土化平日全名</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%b</code></td>\n"
+"        <td align=\"left\">本土化月份名</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%B</code></td>\n"
+"        <td align=\"left\">本土化月份全名</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%c</code></td>\n"
+"        <td align=\"left\">本土化日期</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%d</code></td>\n"
+"        <td align=\"left\">天數（按月）十進制數 [01,31]</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%H</code></td>\n"
+"        <td align=\"left\">小時(24小時制)十進制數[00,23]</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%I</code></td>\n"
+"        <td align=\"left\">小時(12小時制)十進制數 [01,12]</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%j</code></td>\n"
+"        <td align=\"left\">天數（按年）十進制數 [001,366]</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%m</code></td>\n"
+"        <td align=\"left\">月份十進制數 [01,12]</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%M</code></td>\n"
+"        <td align=\"left\">分鐘十進制數 [00,59]</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%p</code></td>\n"
+"        <td align=\"left\">本土化等價于AM（上午）或PM（下午）</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%S</code></td>\n"
+"        <td align=\"left\">秒鐘十進制數 [00,61].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%u</code></td>\n"
+"        <td align=\"left\">平日十進制數[1(周一),7].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%U</code></td>\n"
+"        <td align=\"left\">周數(周日作為一周的首日\n"
+"                ) 十進制數 [00,53]. 新年所有天數\n"
+"                前述的第一個周日作為第0個周。</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%w</code></td>\n"
+"        <td align=\"left\">平日十進制數 [0(周日),6].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%W</code></td>\n"
+"        <td align=\"left\">周數(周一作為一周的首日\n"
+"                )十進制數[00,53].  新年所有天數\n"
+"                前述的第一個周一作為第0個周。</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%x</code></td>\n"
+"        <td align=\"left\">本土化日期</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%X</code></td>\n"
+"        <td align=\"left\">本土化時間</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%y</code></td>\n"
+"        <td align=\"left\">年份（取消世紀數）十進制[00,99].</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%Y</code></td>\n"
+"        <td align=\"left\">年份十進制</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%Z</code></td>\n"
+"        <td align=\"left\">時區名稱(無時區顯示空白).</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>%%</code></td>\n"
+"        <td align=\"left\">序數 \"<tt class=\"character\">%</tt>\" </td></"
+"tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>\\n</code></td>\n"
+"        <td align=\"left\">新行</td></tr>\n"
+"    <tr><td align=\"center\" valign=\"baseline\"><code>\\\\</code></td>\n"
+"        <td align=\"left\">序數\"<tt class=\"character\">\\</tt>\"</td></"
+"tr>\n"
+"    </tbody>\n"
+"</table>\n"
+"</body>\n"
+"</html>\n"
+
+#: lib\pwiki\AdditionalDialogs.py:956
+msgid "<invalid>"
+msgstr "<無效>"
+
+#: lib\pwiki\AdditionalDialogs.py:1086
+msgid "Continuous Export"
+msgstr "連續導出"
+
+#: lib\pwiki\AdditionalDialogs.py:1202
+msgid "Destination file:"
+msgstr "目的文件:"
+
+#: lib\pwiki\AdditionalDialogs.py:1238
+msgid "Destination directory does not exist"
+msgstr "目的目錄必須存在"
+
+#: lib\pwiki\AdditionalDialogs.py:1243
+msgid "Destination must be a directory"
+msgstr "目的必須是目錄"
+
+#: lib\pwiki\AdditionalDialogs.py:1249
+msgid "Destination must be a file"
+msgstr "目的必須是文件"
+
+#: lib\pwiki\AdditionalDialogs.py:1259 lib\pwiki\PersonalWikiFrame.py:4918
+msgid "Exporting"
+msgstr "導出中"
+
+#: lib\pwiki\AdditionalDialogs.py:1261 lib\pwiki\PersonalWikiFrame.py:4920
+msgid "Preparing"
+msgstr "準備中"
+
+#: lib\pwiki\AdditionalDialogs.py:1281
+msgid "Error while exporting"
+msgstr "導出時出錯"
+
+#: lib\pwiki\AdditionalDialogs.py:1297 lib\pwiki\PersonalWikiFrame.py:4861
+msgid "Select Export Directory"
+msgstr "選擇導出目錄"
+
+#: lib\pwiki\AdditionalDialogs.py:1311 lib\pwiki\AdditionalDialogs.py:1745
+msgid "All files (*.*)"
+msgstr "所有文件(*.*)"
+
+#: lib\pwiki\AdditionalDialogs.py:1316
+msgid "Select Export File"
+msgstr "選擇導出文件"
+
+#: lib\pwiki\AdditionalDialogs.py:1343 lib\pwiki\PersonalWikiFrame.py:4885
+#: lib\pwiki\PersonalWikiFrame.py:4901 lib\pwiki\Printing.py:273
+msgid "No real wiki word selected as root"
+msgstr "沒有真正的維基字選定為根"
+
+#: lib\pwiki\AdditionalDialogs.py:1396
+msgid "Choose export title"
+msgstr "選擇導出標題"
+
+#: lib\pwiki\AdditionalDialogs.py:1405
+msgid "Do you want to overwrite existing export '%s'?"
+msgstr "你確定要覆寫已經存在的'%s'導出文件嗎?"
+
+#: lib\pwiki\AdditionalDialogs.py:1406
+msgid "Overwrite export"
+msgstr "覆蓋導出"
+
+#: lib\pwiki\AdditionalDialogs.py:1445
+msgid "Do you want to delete %i export(s)?"
+msgstr "你確定要刪除%i導出文件?"
+
+#: lib\pwiki\AdditionalDialogs.py:1446
+msgid "Delete export"
+msgstr "刪除導出"
+
+#: lib\pwiki\AdditionalDialogs.py:1483
+msgid "Selected export type does not support saving"
+msgstr "所選導出類型不支持保存"
+
+#: lib\pwiki\AdditionalDialogs.py:1524 lib\pwiki\CmdLineAction.py:222
+msgid "Export type '%s' of saved export is not supported"
+msgstr "已保存導出不支持導出類型 '%s'"
+
+#: lib\pwiki\AdditionalDialogs.py:1535 lib\pwiki\CmdLineAction.py:233
+msgid ""
+"Saved export uses different version for additional options than current "
+"export\n"
+"Export type: '%s'\n"
+"Saved export version: %i\n"
+"Current export version: %i"
+msgstr ""
+"已保存導出與當前導出使用不同版本的附加選項\n"
+"導出類型: '%s'\n"
+"已導出版本: %i\n"
+"當前導出版本: %i"
+
+#: lib\pwiki\AdditionalDialogs.py:1543 lib\pwiki\CmdLineAction.py:242
+msgid "Type of additional option storage ('%s') is unknown"
+msgstr "附加存儲選項類型 ('%s')未知"
+
+#: lib\pwiki\AdditionalDialogs.py:1567 lib\pwiki\CmdLineAction.py:264
+msgid "Error during retrieving saved export: "
+msgstr "獲取保存導出時出錯:"
+
+#: lib\pwiki\AdditionalDialogs.py:1675
+msgid "Source file:"
+msgstr "源文件:"
+
+#: lib\pwiki\AdditionalDialogs.py:1691
+msgid "Source does not exist"
+msgstr "源必須存在"
+
+#: lib\pwiki\AdditionalDialogs.py:1701
+msgid "Source must be a directory"
+msgstr "源必須是目錄"
+
+#: lib\pwiki\AdditionalDialogs.py:1706
+msgid "Source must be a file"
+msgstr "源必須是文件"
+
+#: lib\pwiki\AdditionalDialogs.py:1717
+msgid "Error while importing"
+msgstr "導入時出錯"
+
+#: lib\pwiki\AdditionalDialogs.py:1731
+msgid "Select Import Directory"
+msgstr "選擇導入目錄"
+
+#: lib\pwiki\AdditionalDialogs.py:1746
+msgid "*"
+msgstr "*"
+
+#: lib\pwiki\AdditionalDialogs.py:1750
+msgid "Select Import File"
+msgstr "選擇導入文件"
+
+#: lib\pwiki\AdditionalDialogs.py:1884
+msgid "Okay"
+msgstr "好的"
+
+#: lib\pwiki\AdditionalDialogs.py:1915
+msgid ""
+"\n"
+"<html>\n"
+"<body bgcolor=\"#FFFFFF\">\n"
+"    <center>\n"
+"        <table bgcolor=\"#CCCCCC\" width=\"100%%\" cellspacing=\"0\" "
+"cellpadding=\"0\" border=\"1\">\n"
+"            <tr>\n"
+"                <td align=\"center\"><h2>%s</h2></td>\n"
+"            </tr>\n"
+"        </table>\n"
+"\n"
+"        <p>\n"
+"wikidPad is a Wiki-like notebook for storing your thoughts, ideas, todo "
+"lists, contacts, or anything else you can think of to write down.\n"
+"What makes wikidPad different from other notepad applications is the ease "
+"with which you can cross-link your information.        </p>        \n"
+"        <br><br>\n"
+"\n"
+"        <table border=0 cellpadding=1 cellspacing=0>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Author:</b></font></td><td nowrap><font size=\"3\">Michael "
+"Butscher</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>Email:"
+"</b></font></td><td nowrap><font size=\"3\">mbutscher@gmx.de</font></td></"
+"tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>URL:</"
+"b></font></td><td nowrap><font size=\"3\">http://www.mbutscher.de/software."
+"html</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Author:</b></font></td><td nowrap><font size=\"3\">Jason Horman</"
+"font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>Email:"
+"</b></font></td><td nowrap><font size=\"3\">wikidpad@jhorman.org</font></"
+"td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>URL:</"
+"b></font></td><td nowrap><font size=\"3\">http://www.jhorman.org/wikidPad/</"
+"font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Author:</b></font></td><td nowrap><font size=\"3\">Gerhard "
+"Reitmayr</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>Email:"
+"</b></font></td><td nowrap><font size=\"3\">gerhard.reitmayr@gmail.com</"
+"font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"left\" colspan=\"2\" nowrap><font "
+"size=\"3\"><b>Translations:</b></font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Chinese:</b></font></td><td nowrap><font size=\"3\">yuxiaoxu@msn."
+"com</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Hungarian:</b></font></td><td nowrap><font size=\"3\">T?r?k árpád</"
+"font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Russian:</b></font></td><td nowrap><font size=\"3\">Oleg Domanov</"
+"font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size="
+"\"3\"><b>Swedish:</b></font></td><td nowrap><font size=\"3\">Stefan Berg</"
+"font></td></tr>\n"
+"        </table>\n"
+"    </center>\n"
+"    \n"
+"    \n"
+"\n"
+"    \n"
+"    <hr />\n"
+"    \n"
+"    <p>Your configuration directory is: <b>%s</b><br />\n"
+"    Sqlite version: <b>%s</b><br />\n"
+"    wxPython version: <b>%s</b>\n"
+"    </p>\n"
+"    \n"
+"</body>\n"
+"</html>\n"
+msgstr ""
+"\n"
+"<html>\n"
+"<body bgcolor=\"#FFFFFF\">\n"
+"    <center>\n"
+"        <table bgcolor=\"#CCCCCC\" width=\"100%%\" cellspacing=\"0\" "
+"cellpadding=\"0\" border=\"1\">\n"
+"            <tr>\n"
+"                <td align=\"center\"><h2>%s</h2></td>\n"
+"            </tr>\n"
+"        </table>\n"
+"\n"
+"        <p align=left>\n"
+"wikidPad是一款維基式記事本，可以隨時隨地記錄您的想法\n"
+"、創意、待辦、聯系人或者任何你想要記錄下的事情。\n"
+"wikidPad與眾不同之處在于您能使用它輕松自如地\n"
+"創建信息鏈接。</p>\n"
+"        <br><br>\n"
+"\n"
+"        <table border=0 cellpadding=1 cellspacing=0>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>軟件作"
+"者：</b></font></td><td nowrap><font size=\"3\">Michael Butscher</font></"
+"td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>電子信"
+"箱：</b></font></td><td nowrap><font size=\"3\">mbutscher@gmx.de</font></"
+"td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>個人主"
+"頁：</b></font></td><td nowrap><font size=\"3\">http://www.mbutscher.de/"
+"software.html</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>軟件作"
+"者：</b></font></td><td nowrap><font size=\"3\">Jason Horman</font></td></"
+"tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>電子信"
+"箱：</b></font></td><td nowrap><font size=\"3\">wikidpad@jhorman.org</font></"
+"td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>個人主"
+"頁：</b></font></td><td nowrap><font size=\"3\">http://www.jhorman.org/"
+"wikidPad/</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>軟件作"
+"者：</b></font></td><td nowrap><font size=\"3\">Gerhard Reitmayr</font></"
+"td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>電子信"
+"箱：</b></font></td><td nowrap><font size=\"3\">gerhard.reitmayr@gmail.com</"
+"font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"left\" colspan=\"2\" nowrap><font "
+"size=\"3\"><b>翻譯：</b></font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>簡體中"
+"文：</b></font></td><td nowrap><font size=\"3\">yuxiaoxu@msn.com</font></"
+"td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>匈牙利"
+"語：</b></font></td><td nowrap><font size=\"3\">T?r?k árpád</font></td></"
+"tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>俄語："
+"</b></font></td><td nowrap><font size=\"3\">Oleg Domanov</font></td></tr>\n"
+"            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>瑞典"
+"語：</b></font></td><td nowrap><font size=\"3\">Stefan Berg</font></td></"
+"tr>\n"
+"        </table>\n"
+"    </center>\n"
+"    \n"
+"    \n"
+"\n"
+"    \n"
+"    <hr />\n"
+"    \n"
+"    <p>您的配置目錄：<b>%s</b><br />\n"
+"    Sqlite版本：<b>%s</b><br />\n"
+"    wxPython版本：<b>%s</b>\n"
+"    </p>\n"
+"    \n"
+"</body>\n"
+"</html>\n"
+
+#: lib\pwiki\AdditionalDialogs.py:1970
+msgid "N/A"
+msgstr "N/A"
+
+#: lib\pwiki\AdditionalDialogs.py:1978 lib\pwiki\PersonalWikiFrame.py:2054
+msgid "About WikidPad"
+msgstr "關于WikidPad"
+
+#: lib\pwiki\AdditionalDialogs.py:2065
+msgid "Wiki Properties"
+msgstr "維基屬性(&P)..."
+
+#: lib\pwiki\AdditionalDialogs.py:2072
+msgid "No wiki loaded"
+msgstr "沒有裝載維基"
+
+#: lib\pwiki\AdditionalDialogs.py:2076
+msgid "Wiki config. path:"
+msgstr "維基文件配置路徑:"
+
+#: lib\pwiki\AdditionalDialogs.py:2082
+msgid "Wiki database backend:"
+msgstr "維基庫后臺:"
+
+#: lib\pwiki\AdditionalDialogs.py:2090
+msgid "Number of wiki pages:"
+msgstr "維基頁總數:"
+
+#: lib\pwiki\AdditionalDialogs.py:2099
+msgid "Wiki is read-only. Reason:"
+msgstr "維基只讀原因："
+
+#: lib\pwiki\AdditionalDialogs.py:2102
+msgid "Write access to database lost. Try \"Wiki\"->\"Reconnect\""
+msgstr ""
+"數據庫寫權限丟失。\n"
+" 嘗試重新建立，然后運行\"維基\"->\"重新連接\""
+
+#: lib\pwiki\AdditionalDialogs.py:2104
+msgid "Wiki was set read-only in options dialog"
+msgstr "在選項對話框維基已被設置為只讀"
+
+#: lib\pwiki\AdditionalDialogs.py:2109 lib\pwiki\AdditionalDialogs.py:2111
+msgid "Can't write wiki config.:"
+msgstr "無法寫入維基配置文件："
+
+#: lib\pwiki\AdditionalDialogs.py:2109 lib\pwiki\AdditionalDialogs.py:2113
+msgid "Unknown reason"
+msgstr "未知原因"
+
+#: lib\pwiki\AdditionalDialogs.py:2126
+msgid "Jobs"
+msgstr "作業"
+
+#: lib\pwiki\AdditionalDialogs.py:2150
+msgid "Number of Jobs:"
+msgstr "作業數:"
+
+#: lib\pwiki\AdditionalDialogs.py:2151
+msgid "Number of Done Jobs:"
+msgstr "完成任務數："
+
+#: lib\pwiki\AttributeHandling.py:32
+msgid "AQUAMARINE"
+msgstr "碧藍色"
+
+#: lib\pwiki\AttributeHandling.py:33
+msgid "BLACK"
+msgstr "黑色"
+
+#: lib\pwiki\AttributeHandling.py:34
+msgid "BLUE VIOLET"
+msgstr "藍紫色"
+
+#: lib\pwiki\AttributeHandling.py:35
+msgid "BLUE"
+msgstr "藍色"
+
+#: lib\pwiki\AttributeHandling.py:36
+msgid "BROWN"
+msgstr "棕色"
+
+#: lib\pwiki\AttributeHandling.py:37
+msgid "CADET BLUE"
+msgstr "灰藍色"
+
+#: lib\pwiki\AttributeHandling.py:38
+msgid "CORAL"
+msgstr "珊瑚色"
+
+#: lib\pwiki\AttributeHandling.py:39
+msgid "CORNFLOWER BLUE"
+msgstr "矢車菊藍色"
+
+#: lib\pwiki\AttributeHandling.py:40
+msgid "CYAN"
+msgstr "青色"
+
+#: lib\pwiki\AttributeHandling.py:41
+msgid "DARK GREEN"
+msgstr "墨綠色"
+
+#: lib\pwiki\AttributeHandling.py:42
+msgid "DARK GREY"
+msgstr "深灰色"
+
+#: lib\pwiki\AttributeHandling.py:43
+msgid "DARK OLIVE GREEN"
+msgstr "暗橄欖綠色"
+
+#: lib\pwiki\AttributeHandling.py:44
+msgid "DARK ORCHID"
+msgstr "暗紫色"
+
+#: lib\pwiki\AttributeHandling.py:45
+msgid "DARK SLATE BLUE"
+msgstr "暗灰藍色"
+
+#: lib\pwiki\AttributeHandling.py:46
+msgid "DARK SLATE GREY"
+msgstr "暗瓦灰色"
+
+#: lib\pwiki\AttributeHandling.py:47
+msgid "DARK TURQUOISE"
+msgstr "暗青綠色"
+
+#: lib\pwiki\AttributeHandling.py:48
+msgid "DIM GREY"
+msgstr "暗灰色"
+
+#: lib\pwiki\AttributeHandling.py:49
+msgid "FIREBRICK"
+msgstr "火磚色"
+
+#: lib\pwiki\AttributeHandling.py:50
+msgid "FOREST GREEN"
+msgstr "森林綠色"
+
+#: lib\pwiki\AttributeHandling.py:51
+msgid "GOLD"
+msgstr "金色"
+
+#: lib\pwiki\AttributeHandling.py:52
+msgid "GOLDENROD"
+msgstr "麒麟色"
+
+#: lib\pwiki\AttributeHandling.py:53
+msgid "GREEN YELLOW"
+msgstr "黃綠色"
+
+#: lib\pwiki\AttributeHandling.py:54
+msgid "GREEN"
+msgstr "綠色"
+
+#: lib\pwiki\AttributeHandling.py:55
+msgid "GREY"
+msgstr "灰色"
+
+#: lib\pwiki\AttributeHandling.py:56
+msgid "INDIAN RED"
+msgstr "印第安紅"
+
+#: lib\pwiki\AttributeHandling.py:57
+msgid "KHAKI"
+msgstr "黃褐色"
+
+#: lib\pwiki\AttributeHandling.py:58
+msgid "LIGHT BLUE"
+msgstr "亮藍色"
+
+#: lib\pwiki\AttributeHandling.py:59
+msgid "LIGHT GREY"
+msgstr "亮灰色"
+
+#: lib\pwiki\AttributeHandling.py:60
+msgid "LIGHT STEEL BLUE"
+msgstr "亮鋼蘭色"
+
+#: lib\pwiki\AttributeHandling.py:61
+msgid "LIME GREEN"
+msgstr "橙綠色"
+
+#: lib\pwiki\AttributeHandling.py:62
+msgid "MAGENTA"
+msgstr "洋紅色"
+
+#: lib\pwiki\AttributeHandling.py:63
+msgid "MAROON"
+msgstr "栗色"
+
+#: lib\pwiki\AttributeHandling.py:64
+msgid "MEDIUM AQUAMARINE"
+msgstr "間綠色"
+
+#: lib\pwiki\AttributeHandling.py:65
+msgid "MEDIUM BLUE"
+msgstr "間藍色"
+
+#: lib\pwiki\AttributeHandling.py:66
+msgid "MEDIUM FOREST GREEN"
+msgstr "間森林綠"
+
+#: lib\pwiki\AttributeHandling.py:67
+msgid "MEDIUM GOLDENROD"
+msgstr "間麒麟色"
+
+#: lib\pwiki\AttributeHandling.py:68
+msgid "MEDIUM ORCHID"
+msgstr "間淡紫色"
+
+#: lib\pwiki\AttributeHandling.py:69
+msgid "MEDIUM SEA GREEN"
+msgstr "間海綠色"
+
+#: lib\pwiki\AttributeHandling.py:70
+msgid "MEDIUM SLATE BLUE"
+msgstr "間灰藍色"
+
+#: lib\pwiki\AttributeHandling.py:71
+msgid "MEDIUM SPRING GREEN"
+msgstr "間春綠色"
+
+#: lib\pwiki\AttributeHandling.py:72
+msgid "MEDIUM TURQUOISE"
+msgstr "間青綠色"
+
+#: lib\pwiki\AttributeHandling.py:73
+msgid "MEDIUM VIOLET RED"
+msgstr "間紫紅色"
+
+#: lib\pwiki\AttributeHandling.py:74
+msgid "MIDNIGHT BLUE"
+msgstr "深藍色"
+
+#: lib\pwiki\AttributeHandling.py:75
+msgid "NAVY"
+msgstr "藏青色"
+
+#: lib\pwiki\AttributeHandling.py:76
+msgid "ORANGE RED"
+msgstr "橘紅色"
+
+#: lib\pwiki\AttributeHandling.py:77
+msgid "ORANGE"
+msgstr "橘黃色"
+
+#: lib\pwiki\AttributeHandling.py:78
+msgid "ORCHID"
+msgstr "淡紫色"
+
+#: lib\pwiki\AttributeHandling.py:79
+msgid "PALE GREEN"
+msgstr "淡綠色"
+
+#: lib\pwiki\AttributeHandling.py:80
+msgid "PINK"
+msgstr "粉紅色"
+
+#: lib\pwiki\AttributeHandling.py:81
+msgid "PLUM"
+msgstr "深紫色"
+
+#: lib\pwiki\AttributeHandling.py:82
+msgid "PURPLE"
+msgstr "紫色"
+
+#: lib\pwiki\AttributeHandling.py:83
+msgid "RED"
+msgstr "紅色"
+
+#: lib\pwiki\AttributeHandling.py:84
+msgid "SALMON"
+msgstr "鮮肉色"
+
+#: lib\pwiki\AttributeHandling.py:85
+msgid "SEA GREEN"
+msgstr "海藍色"
+
+#: lib\pwiki\AttributeHandling.py:86
+msgid "SIENNA"
+msgstr "赭色"
+
+#: lib\pwiki\AttributeHandling.py:87
+msgid "SKY BLUE"
+msgstr "天藍色"
+
+#: lib\pwiki\AttributeHandling.py:88
+msgid "SLATE BLUE"
+msgstr "暗藍灰色"
+
+#: lib\pwiki\AttributeHandling.py:89
+msgid "SPRING GREEN"
+msgstr "春綠色"
+
+#: lib\pwiki\AttributeHandling.py:90
+msgid "STEEL BLUE"
+msgstr "鋼青色"
+
+#: lib\pwiki\AttributeHandling.py:91
+msgid "TAN"
+msgstr "黃褐色"
+
+#: lib\pwiki\AttributeHandling.py:92
+msgid "THISTLE"
+msgstr "薊花色"
+
+#: lib\pwiki\AttributeHandling.py:93
+msgid "TURQUOISE"
+msgstr "青綠色"
+
+#: lib\pwiki\AttributeHandling.py:94
+msgid "VIOLET RED"
+msgstr "紫紅色"
+
+#: lib\pwiki\AttributeHandling.py:95
+msgid "VIOLET"
+msgstr "紫羅蘭色"
+
+#: lib\pwiki\AttributeHandling.py:96
+msgid "WHEAT"
+msgstr "淡黃色"
+
+#: lib\pwiki\AttributeHandling.py:97
+msgid "WHITE"
+msgstr "白色"
+
+#: lib\pwiki\AttributeHandling.py:98
+msgid "YELLOW GREEN"
+msgstr "黃綠色"
+
+#: lib\pwiki\AttributeHandling.py:99
+msgid "YELLOW"
+msgstr "黃色"
+
+#: lib\pwiki\AttributeHandling.py:370
+msgid "Parent wikiword does not exist: [%s: %s]"
+msgstr "父維基字不存在:[%s: %s]"
+
+#: lib\pwiki\AttributeHandling.py:381
+msgid "Multiple parent attributes found on page: [%s: %s]"
+msgstr "頁面出現多次父屬性：[%s: %s]"
+
+#: lib\pwiki\AttributeHandling.py:417
+msgid "Alias value isn't a valid wikiword: [%s: %s], %s"
+msgstr "別名不是有效維基字: [%s: %s],  %s"
+
+#: lib\pwiki\AttributeHandling.py:428
+msgid "A real wikiword with the alias name exists already: [%s: %s]"
+msgstr "該別名維基字已存在: [%s: %s]"
+
+#: lib\pwiki\AttributeHandling.py:480
+msgid "Template value isn't a valid wikiword: [%s: %s], %s"
+msgstr "摸板值不是有效的維基字: [%s: %s], %s"
+
+#: lib\pwiki\AttributeHandling.py:491
+msgid "Template value isn't an existing wikiword: [%s: %s]"
+msgstr "模板值不是已存在的維基字: [%s: %s]"
+
+#: lib\pwiki\AttributeHandling.py:538
+msgid "The attribute %s was already set differently on this page"
+msgstr "屬性 %s 已在本頁不同處設置"
+
+#: lib\pwiki\AttributeHandling.py:550
+msgid "Attribute '%s' is already defined on the wiki page(s): %s"
+msgstr "屬性'%s'已定義于維基頁: %s"
+
+#: lib\pwiki\AttributeHandling.py:559
+msgid "Icon name doesn't exist: [%s: %s]"
+msgstr "圖標名不存在: [%s: %s]"
+
+#: lib\pwiki\AttributeHandling.py:566
+msgid "Color name doesn't exist: [%s: %s]"
+msgstr "顏色名不存在: [%s: %s]"
+
+#: lib\pwiki\AttributeHandling.py:613
+msgid ""
+"The attribute 'global.graph.relations.exclude' (e.g. on page '%s') overrides "
+"the '...include' attribute"
+msgstr ""
+"屬性 'global.graph.relations.exclude' (例如：在頁 '%s') 覆蓋 '...include'屬"
+"性。"
+
+#: lib\pwiki\AttributeHandling.py:736
+msgid "Same attribute twice: [%s: %s]"
+msgstr "同一屬性值出現兩次: [%s: %s]"
+
+#: lib\pwiki\CmdLineAction.py:208
+msgid "Saved export '%s' is unknown."
+msgstr "未知輸出：%s。"
+
+#: lib\pwiki\CmdLineAction.py:295
+msgid "If saved export is given, 'what', 'type' and 'dest' aren't allowed."
+msgstr "如給定已保存輸出，不允許使用what、type、dest參數。"
+
+#: lib\pwiki\CmdLineAction.py:306
+msgid ""
+"To export, all three export options ('what', 'type' and 'dest') must be set."
+msgstr "用于導出時，所有三個導出選項（what、type、dest）必須設置。"
+
+#: lib\pwiki\CmdLineAction.py:324
+msgid "Value for --export-what can be 'page', 'subtree' or 'wiki'."
+msgstr "--export-what參數值可以為頁、子樹或維基。"
+
+#: lib\pwiki\CmdLineAction.py:348
+msgid ""
+"Value for --export-type can be one of:\n"
+"%s"
+msgstr ""
+"--export-type參數值可以為如下之一：\n"
+"%s"
+
+#: lib\pwiki\CmdLineAction.py:369
+msgid "Combination of --exit and --continuous-export-saved isn't allowed"
+msgstr "--exit與--continuous-export-saved參數不能聯合使用。"
+
+#: lib\pwiki\CmdLineAction.py:377
+msgid ""
+"Options:\n"
+"\n"
+"    -h, --help: Show this message box\n"
+"    -w, --wiki  <wiki path>: set the wiki to open on startup\n"
+"    -p, --page  <page name>: set the page to open on startup\n"
+"    -x, --exit: exit immediately after performing command line actions\n"
+"    --export-what <what>: choose if you want to export page, subtree or "
+"wiki\n"
+"    --export-type <type>: tag of the export type\n"
+"    --export-dest <destination path>: path of destination directory for "
+"export\n"
+"    --export-saved <name of saved export>: alternatively name of saved "
+"export to run\n"
+"    --export-compfn: Use compatible filenames on export\n"
+"    --continuous-export-saved <name of saved export>: continuous export to "
+"start with\n"
+"    --rebuild: rebuild the Wiki database\n"
+"    --update-ext: update externally modified wiki files\n"
+"    --no-recent: Do not record opened wikis in recently opened wikis list\n"
+"    --preview: If no pages are given, all opened pages from previous "
+"session\n"
+"               are opened in preview mode. Otherwise all pages given after "
+"that\n"
+"               option are opened in preview mode.\n"
+"    --editor: Same as --preview but opens in text editor mode.\n"
+"\n"
+msgstr ""
+"參數：\n"
+"\n"
+"    -h, --help：顯示幫助提示框\n"
+"    -w, --wiki  <wiki path>：設置啟動時打開此維基\n"
+"    -p, --page  <page name>：設置啟動時打開此頁面\n"
+"    -x, --exit：執行完命令行操作后立即退出\n"
+"    --export-what <what>：選擇你想要導出的頁面、子樹或維基\n"
+"    --export-type <type>：導出類型\n"
+"    --export-dest <destination path>：導出目錄路徑\n"
+"    --export-saved <name of saved export>：已保存導出運行時替代名\n"
+"    --export-compfn：導出時使用兼容文件名\n"
+"    --continuous-export-saved <name of saved export>：設置連續導出的起始位"
+"置\n"
+"    --rebuild：重建維基庫\n"
+"    --update-ext：更新外部修改維基文件\n"
+"    --no-recent:：在最近打開維基列表不記錄已打開維基頁\n"
+"    --preview：如果沒有給定頁面，將以預覽模式打開上次會話所有頁面。\n"
+"                     否則以預覽模式打開該參數后所有指定頁面。\n"
+"    --editor：與 --preview類似，但以文本編輯模式打開。\n"
+"\n"
+
+#: lib\pwiki\CmdLineAction.py:403
+msgid "Usage information"
+msgstr "使用信息"
+
+#: lib\pwiki\Configuration.py:150 lib\pwiki\Configuration.py:181
+#: lib\pwiki\Configuration.py:222 lib\pwiki\Configuration.py:340
+#: lib\pwiki\Configuration.py:346 lib\pwiki\Configuration.py:385
+#: lib\pwiki\Configuration.py:391 lib\pwiki\Configuration.py:450
+msgid "Unknown option %s:%s"
+msgstr "未知選項%s:%s"
+
+#: lib\pwiki\Configuration.py:249
+msgid "Config file not found"
+msgstr "配置文件沒有找到"
+
+#: lib\pwiki\Configuration.py:442
+msgid "Ambiguos option set %s:%s"
+msgstr "歧義選項設置%s:%s"
+
+#: lib\pwiki\DiffGui.py:185
+msgid "<Diff from %s to %s>"
+msgstr "<從 %s 到 %s 有差異>"
+
+#: lib\pwiki\DocPagePresenter.py:238
+msgid "'%s' is an invalid wiki word. %s."
+msgstr "'%s' 是無效維基字。 %s."
+
+#: lib\pwiki\DocPagePresenter.py:272
+msgid "Wiki page not found, a new page will be created"
+msgstr "維基頁沒有找到，新頁將被創建。"
+
+#: lib\pwiki\DocPagePresenter.py:467 lib\pwiki\DocPagePresenter.py:468
+msgid "History"
+msgstr "歷史"
+
+#: lib\pwiki\DocPages.py:2334
+msgid "Func. tag %s does not exist"
+msgstr "功能標簽%s不存在"
+
+#: lib\pwiki\DocPages.py:2644
+msgid "Global text blocks"
+msgstr "全局文本區"
+
+#: lib\pwiki\DocPages.py:2645
+msgid "Wiki text blocks"
+msgstr "維基文本區"
+
+#: lib\pwiki\DocPages.py:2646
+msgid "Global spell list"
+msgstr "全局拼寫列表"
+
+#: lib\pwiki\DocPages.py:2647
+msgid "Wiki spell list"
+msgstr "維基拼寫列表"
+
+#: lib\pwiki\DocPages.py:2648
+msgid "Global cc. blacklist"
+msgstr "全局cc.黑名單"
+
+#: lib\pwiki\DocPages.py:2649
+msgid "Wiki cc. blacklist"
+msgstr "維基cc.黑名單"
+
+#: lib\pwiki\DocPages.py:2650
+msgid "Global ncc. blacklist"
+msgstr "全局ncc.黑名單"
+
+#: lib\pwiki\DocPages.py:2651
+msgid "Wiki ncc. blacklist"
+msgstr "維基ncc.黑名單"
+
+#: lib\pwiki\DocPages.py:2652
+msgid "Favorite wikis"
+msgstr "維基收藏夾"
+
+#: lib\pwiki\Exporters.py:242
+msgid "Set of *.wiki files"
+msgstr "多個*.wiki文件"
+
+#: lib\pwiki\Exporters.py:560 lib\pwiki\Exporters.py:847
+#: lib\pwiki\Exporters.py:1099
+msgid "No usable separator found"
+msgstr "沒有發現可用分隔符"
+
+#: lib\pwiki\Exporters.py:592 lib\pwiki\Importers.py:62
+msgid "Multipage text"
+msgstr "多頁文本文件"
+
+#: lib\pwiki\Exporters.py:626 lib\pwiki\Importers.py:75
+msgid "Multipage files (*.mpt)"
+msgstr "多頁文件 (*.mpt)"
+
+#: lib\pwiki\Exporters.py:627 lib\pwiki\Importers.py:76
+msgid "Text file (*.txt)"
+msgstr "文本文件 (*.txt)"
+
+#: lib\pwiki\FileCleanup.py:203
+msgid "Scan links in %s"
+msgstr "從%s掃描鏈接"
+
+#: lib\pwiki\FileCleanup.py:554 lib\pwiki\FileCleanup.py:710
+msgid "Path"
+msgstr "路徑"
+
+#: lib\pwiki\FileCleanup.py:555 lib\pwiki\MptImporterGui.py:197
+msgid "Type"
+msgstr "類型"
+
+#: lib\pwiki\FileCleanup.py:556
+msgid "Action"
+msgstr "操作"
+
+#: lib\pwiki\FileCleanup.py:557
+msgid "Calc. action"
+msgstr "計算操作"
+
+#: lib\pwiki\FileCleanup.py:617
+msgid "Directory"
+msgstr "目錄"
+
+#: lib\pwiki\FileCleanup.py:617
+msgid "File"
+msgstr "文件"
+
+#: lib\pwiki\GtkHacks.py:372 lib\pwiki\WindowsHacks.py:904
+msgid "Only a real wiki page can be a clipboard catcher"
+msgstr "只有真實的維基頁才能被剪貼板捕獲"
+
+#: lib\pwiki\Importers.py:178
+msgid "Opening import file failed"
+msgstr "打開導入文件失敗"
+
+#: lib\pwiki\Importers.py:209 lib\pwiki\Importers.py:224
+msgid "Bad file format, header not detected"
+msgstr "錯誤文件格式，文件頭無法識別"
+
+#: lib\pwiki\Importers.py:217
+msgid "File format number %i is not supported"
+msgstr "不支持文件格式數%i"
+
+#: lib\pwiki\Importers.py:483
+msgid "Bad wiki word: %s, %s"
+msgstr "維基壞字: %s, %s"
+
+#: lib\pwiki\LogWindow.py:80
+msgid "Message"
+msgstr "信息"
+
+#: lib\pwiki\MainApp.py:137
+msgid "Error initializing environment, couldn't locate global config directory"
+msgstr "初始化環境失敗，無法加載全局配置目錄。"
+
+#: lib\pwiki\MainApp.py:272
+msgid ""
+"Invalid AppLock.lock file.\n"
+"Ensure that WikidPad is not running,\n"
+"then delete file \"%s\" if present yet.\n"
+msgstr ""
+"AppLock.lock文件無效.\n"
+"確保WikidPad沒有運行，\n"
+"然后如果存在刪除文件\"%s\"。\n"
+
+#: lib\pwiki\MainApp.py:330
+msgid ""
+"Other WikidPad process(es) seem(s) to run already\n"
+"Process identifier(s): %s\n"
+"Continue?"
+msgstr ""
+"其他WikidPad進程可能已在運行\n"
+"進程標識符： %s\n"
+"是否繼續？"
+
+#: lib\pwiki\MainApp.py:332 lib\pwiki\MainApp.py:355 lib\pwiki\MainApp.py:365
+#: lib\pwiki\PersonalWikiFrame.py:3229
+msgid "Continue?"
+msgstr "是否繼續？"
+
+#: lib\pwiki\MainApp.py:353
+msgid ""
+"WikidPad couldn't detect if other processes are already running.\n"
+"Continue anyway?"
+msgstr ""
+"如果其他進程仍在運行，WikidPad將無法探測 。\n"
+"確認是否繼續？"
+
+#: lib\pwiki\MainApp.py:363
+msgid ""
+"WikidPad couldn't detect if other processes are already running.\n"
+"Socket error: %s\n"
+"Continue anyway?"
+msgstr ""
+"如果其他進程仍在運行，WikidPad將無法探測。\n"
+"套接字（Socket）錯誤：%s\n"
+"確認是否繼續？"
+
+#: lib\pwiki\MainApp.py:668
+msgid ""
+"An error occurred during this session\n"
+"See file %s"
+msgstr ""
+"當前會話發生錯誤\n"
+"參見文件%s"
+
+#: lib\pwiki\MainApp.py:857
+msgid "Plugin options"
+msgstr "插件選項"
+
+#: lib\pwiki\MainApp.py:906 lib\pwiki\OptionsDialog.py:742
+msgid "Wiki language"
+msgstr "維基語言"
+
+#: lib\pwiki\MainApp.py:929
+msgid "Plugins"
+msgstr "插件"
+
+#: lib\pwiki\MainAreaPanel.py:747 lib\pwiki\MainAreaPanelImplPlain.py:678
+#: lib\pwiki\WikiTxtCtrl.py:2802
+msgid "This can only be done for the page of a wiki word"
+msgstr "僅維基字頁面可完成"
+
+#: lib\pwiki\MainAreaPanel.py:748 lib\pwiki\MainAreaPanelImplPlain.py:679
+#: lib\pwiki\WikiTxtCtrl.py:2803
+msgid "Not a wiki page"
+msgstr "不是維基頁"
+
+#: lib\pwiki\MptImporterGui.py:177
+msgid "Wiki page"
+msgstr "維基頁"
+
+#: lib\pwiki\MptImporterGui.py:178
+msgid "Func. page"
+msgstr "功能頁"
+
+#: lib\pwiki\MptImporterGui.py:179
+msgid "Saved search"
+msgstr "保存搜索"
+
+#: lib\pwiki\MptImporterGui.py:180
+msgid "Saved page search"
+msgstr "已保存頁面搜索"
+
+#: lib\pwiki\MptImporterGui.py:198
+msgid "Name"
+msgstr "名稱"
+
+#: lib\pwiki\MptImporterGui.py:200
+msgid ""
+"Version\n"
+"Import"
+msgstr ""
+"版本\n"
+"導入"
+
+#: lib\pwiki\MptImporterGui.py:201
+msgid ""
+"Rename\n"
+"imported"
+msgstr "已導入改名"
+
+#: lib\pwiki\MptImporterGui.py:202
+msgid ""
+"Rename\n"
+"present"
+msgstr ""
+"改名\n"
+"當前"
+
+#: lib\pwiki\MptImporterGui.py:390
+msgid "You can't rename imported and present item at the same time"
+msgstr "你不能同時對已導入與當前項目進行改名"
+
+#: lib\pwiki\MptImporterGui.py:403
+msgid "Rename imported"
+msgstr "已導入改名"
+
+#: lib\pwiki\MptImporterGui.py:412
+msgid "Rename present"
+msgstr "修改當前"
+
+#: lib\pwiki\MptImporterGui.py:423 lib\pwiki\MptImporterGui.py:447
+msgid "Name collision: Item '%s' will be imported already"
+msgstr "名稱沖突：項'%s'將要被導入。"
+
+#: lib\pwiki\MptImporterGui.py:429 lib\pwiki\MptImporterGui.py:458
+msgid "Name collision: Item '%s' will already be created by renaming '%s'"
+msgstr "名稱沖突：項'%s'將要被創建為'%s'"
+
+#: lib\pwiki\MptImporterGui.py:438 lib\pwiki\MptImporterGui.py:452
+msgid "Name collision: Item '%s' exists already in database"
+msgstr "名稱沖突：項'%s'已存在于數據庫"
+
+#: lib\pwiki\OptionsDialog.py:719
+msgid "Application"
+msgstr "應用程序"
+
+#: lib\pwiki\OptionsDialog.py:720
+msgid "User interface"
+msgstr "用戶界面"
+
+#: lib\pwiki\OptionsDialog.py:721
+msgid "Security"
+msgstr "安全性"
+
+#: lib\pwiki\OptionsDialog.py:722
+msgid "Tree"
+msgstr "樹"
+
+#: lib\pwiki\OptionsDialog.py:723
+msgid "HTML preview/export"
+msgstr "HTML預覽/導出"
+
+#: lib\pwiki\OptionsDialog.py:724
+msgid "HTML header"
+msgstr "網頁標題"
+
+#: lib\pwiki\OptionsDialog.py:726
+msgid "Editor Paste/Drag'n'Drop"
+msgstr "編輯器 粘貼/拖放"
+
+#: lib\pwiki\OptionsDialog.py:727
+msgid "Editor Colors"
+msgstr "編輯器顏色"
+
+#: lib\pwiki\OptionsDialog.py:728
+msgid "Clipboard Catcher"
+msgstr "剪貼板監視器"
+
+#: lib\pwiki\OptionsDialog.py:729
+msgid "File Launcher"
+msgstr "文件裝載器"
+
+#: lib\pwiki\OptionsDialog.py:730
+msgid "Mouse"
+msgstr "鼠標"
+
+#: lib\pwiki\OptionsDialog.py:731
+msgid "Chron. view"
+msgstr "時序圖"
+
+#: lib\pwiki\OptionsDialog.py:732
+msgid "Searching"
+msgstr "檢索中"
+
+#: lib\pwiki\OptionsDialog.py:733
+msgid "New wiki defaults"
+msgstr "新維基默認參數"
+
+#: lib\pwiki\OptionsDialog.py:734 lib\pwiki\OptionsDialog.py:744
+msgid "Advanced"
+msgstr "高級"
+
+#: lib\pwiki\OptionsDialog.py:735
+msgid "Timing"
+msgstr "時間軸"
+
+#: lib\pwiki\OptionsDialog.py:736
+msgid "Autosave"
+msgstr "自動保存"
+
+#: lib\pwiki\OptionsDialog.py:738
+msgid "Current Wiki"
+msgstr "當前維基"
+
+#: lib\pwiki\OptionsDialog.py:739
+msgid "On Open"
+msgstr "打開時"
+
+#: lib\pwiki\OptionsDialog.py:740
+msgid "Headings"
+msgstr "標題"
+
+#: lib\pwiki\OptionsDialog.py:741
+msgid "Chronological"
+msgstr "按時間順序"
+
+#: lib\pwiki\OptionsDialog.py:853
+msgid "IE"
+msgstr "IE"
+
+#: lib\pwiki\OptionsDialog.py:855
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: lib\pwiki\OptionsDialog.py:859
+msgid "Webkit"
+msgstr "Webkit"
+
+#: lib\pwiki\OptionsDialog.py:863
+msgid "Webview"
+msgstr "網絡預覽"
+
+#: lib\pwiki\OptionsDialog.py:1020
+msgid "Wave files (*.wav)|*.wav"
+msgstr "Wave文件(*.wav)|*.wav"
+
+#: lib\pwiki\OptionsDialog.py:1031 lib\pwiki\OptionsDialog.py:1362
+msgid "All files (*.*)|*"
+msgstr "所有文件(*.*)|*"
+
+#: lib\pwiki\OptionsDialog.py:1352
+msgid "Select Directory"
+msgstr "選擇目錄"
+
+#: lib\pwiki\OptionsDialog.py:1360
+msgid "Select File"
+msgstr "選擇文件"
+
+#: lib\pwiki\PWikiNonCore.py:47
+msgid "Choose a file to create URL for"
+msgstr "選擇文件用于創建URL用于"
+
+#: lib\pwiki\PWikiNonCore.py:76 lib\pwiki\PWikiNonCore.py:77
+msgid "     Scanning     "
+msgstr "     掃描"
+
+#: lib\pwiki\PWikiNonCore.py:119
+msgid "Wiki file"
+msgstr "維基文件"
+
+#: lib\pwiki\PWikiNonCore.py:126
+msgid "MPT export target file"
+msgstr "MPT導出目標文件"
+
+#: lib\pwiki\PWikiNonCore.py:194
+msgid "&File URL..."
+msgstr "文件URL(&F)..."
+
+#: lib\pwiki\PWikiNonCore.py:194
+msgid "Use file dialog to add URL"
+msgstr "使用文件對話框增加URL"
+
+#: lib\pwiki\PWikiNonCore.py:198
+msgid "Current &Date"
+msgstr "當前日期(&D)"
+
+#: lib\pwiki\PWikiNonCore.py:198
+msgid "Insert current date"
+msgstr "插入當前日期"
+
+#: lib\pwiki\PWikiNonCore.py:204
+msgid "File cleanup..."
+msgstr "清理文件..."
+
+#: lib\pwiki\PWikiNonCore.py:204
+msgid "Remove orphaned files and dead links"
+msgstr "移除孤立文件與死鏈接"
+
+#: lib\pwiki\PWikiNonCore.py:209
+msgid "Page read only"
+msgstr "頁面只讀"
+
+#: lib\pwiki\PWikiNonCore.py:209
+msgid "Set current page read only"
+msgstr "將當前頁面設為只讀"
+
+#: lib\pwiki\PWikiNonCore.py:215 lib\pwiki\PWikiNonCore.py:216
+msgid "Open trashcan"
+msgstr "打開垃圾箱"
+
+#: lib\pwiki\PWikiNonCore.py:220
+msgid "Recover DB"
+msgstr "修復數據庫"
+
+#: lib\pwiki\PWikiNonCore.py:221
+msgid "Recover wiki database"
+msgstr "修復維基庫"
+
+#: lib\pwiki\PWikiNonCore.py:223
+msgid "Selection to &Link"
+msgstr "選擇設為鏈接(&L)"
+
+#: lib\pwiki\PWikiNonCore.py:224
+msgid "Remove non-allowed characters and make sel. a wiki word link"
+msgstr "移除非法字符并設選擇為維基字鏈接"
+
+#: lib\pwiki\PersonalWikiFrame.py:155
+msgid "Bad formatted command line."
+msgstr "錯誤命令行格式。"
+
+#: lib\pwiki\PersonalWikiFrame.py:395 lib\pwiki\PersonalWikiFrame.py:403
+#: lib\pwiki\PersonalWikiFrame.py:1236
+msgid "Wiki doesn't exist: %s"
+msgstr "不存在維基: %s"
+
+#: lib\pwiki\PersonalWikiFrame.py:773
+msgid "&New"
+msgstr "新建(&N)"
+
+#: lib\pwiki\PersonalWikiFrame.py:774
+msgid "Create new wiki"
+msgstr "創建新維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:777
+msgid "&Open"
+msgstr "打開(&O)"
+
+#: lib\pwiki\PersonalWikiFrame.py:779
+msgid "In &This Window..."
+msgstr "在本窗口(&T)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:781
+msgid "Open wiki in this window"
+msgstr "在本窗口打開維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:783
+msgid "In &New Window..."
+msgstr "在新窗口(&N)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:785
+msgid "Open wiki in a new window"
+msgstr "在新窗口打開維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:787
+msgid "&Current in New Window"
+msgstr "當前新窗口(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:789
+msgid "Create new window for same wiki"
+msgstr "為同一維基創建新窗口"
+
+#: lib\pwiki\PersonalWikiFrame.py:794
+msgid "&Recent"
+msgstr "最近(&R)"
+
+#: lib\pwiki\PersonalWikiFrame.py:801
+msgid "F&avorites"
+msgstr "收藏夾(&A)"
+
+#: lib\pwiki\PersonalWikiFrame.py:807
+msgid "&Search Wiki..."
+msgstr "搜索維基(&S)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:808
+msgid "Search whole wiki"
+msgstr "搜索整個維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:816
+msgid "Publish as HTML"
+msgstr "發布為HTML"
+
+#: lib\pwiki\PersonalWikiFrame.py:819
+msgid "Wiki as Single HTML Page"
+msgstr "維基為單個HTML文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:820
+msgid "Publish Wiki as Single HTML Page"
+msgstr "發布維基為單個HTML文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:824
+msgid "Wiki as Set of HTML Pages"
+msgstr "維基為多個HTML文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:825
+msgid "Publish Wiki as Set of HTML Pages"
+msgstr "發布維基為多個HTML文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:829
+msgid "Current Wiki Word as HTML Page"
+msgstr "當前維基字為HTML頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:830
+msgid "Publish Current Wiki Word as HTML Page"
+msgstr "發布當前維基字為HTML頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:834
+msgid "Sub-Tree as Single HTML Page"
+msgstr "子樹為單個HTML頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:835
+msgid "Publish Sub-Tree as Single HTML Page"
+msgstr "發布子樹為單個HTML頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:839
+msgid "Sub-Tree as Set of HTML Pages"
+msgstr "子樹為多個HTML頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:840
+msgid "Publish Sub-Tree as Set of HTML Pages"
+msgstr "發布子樹為多個HTML頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:848
+msgid "Other Export..."
+msgstr "其他導出..."
+
+#: lib\pwiki\PersonalWikiFrame.py:849 lib\pwiki\PersonalWikiFrame.py:1956
+msgid "Open general export dialog"
+msgstr "打開一般導出對話框"
+
+#: lib\pwiki\PersonalWikiFrame.py:853
+msgid "Print..."
+msgstr "打印..."
+
+#: lib\pwiki\PersonalWikiFrame.py:854
+msgid "Show the print dialog"
+msgstr "顯示打印對話框"
+
+#: lib\pwiki\PersonalWikiFrame.py:864
+msgid "&Properties..."
+msgstr "屬性(&P)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:865
+msgid "Show general information about current wiki"
+msgstr "顯示當前維基一般信息"
+
+#: lib\pwiki\PersonalWikiFrame.py:869
+msgid "Maintenance"
+msgstr "維護"
+
+#: lib\pwiki\PersonalWikiFrame.py:875
+msgid "Update ext. modif. wiki files"
+msgstr "更新外部修改*.wiki文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:876
+msgid "Check for externally modified files and update cache in background"
+msgstr "檢查外部修改文件與后臺更新緩存"
+
+#: lib\pwiki\PersonalWikiFrame.py:882
+msgid "&Rebuild Wiki..."
+msgstr "重構維基(&R)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:883
+msgid "Rebuild this wiki and its cache completely"
+msgstr "完全重構該維基及緩存"
+
+#: lib\pwiki\PersonalWikiFrame.py:888
+msgid "&Update cache..."
+msgstr "更新緩存(&U)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:889
+msgid "Update cache where marked as not up to date"
+msgstr "更新沒有最新更新標記的緩存"
+
+#: lib\pwiki\PersonalWikiFrame.py:894
+msgid "&Initiate update..."
+msgstr "更新初始化(&I)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:895
+msgid "Initiate full cache update which is done mainly in background"
+msgstr "完成初始化更新全緩存主要在后臺進行"
+
+#: lib\pwiki\PersonalWikiFrame.py:915
+msgid "Show job count..."
+msgstr "顯示作業數..."
+
+#: lib\pwiki\PersonalWikiFrame.py:916
+msgid "Show how many update jobs are waiting in background"
+msgstr "顯示后臺正在等待更新作業數"
+
+#: lib\pwiki\PersonalWikiFrame.py:922
+msgid "Open as &Type..."
+msgstr "打開為(&T)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:923
+msgid "Open wiki with a specified wiki database type"
+msgstr "使用指定的維基數據庫類型打開維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:927
+msgid "Reconnect..."
+msgstr "重新鏈接..."
+
+#: lib\pwiki\PersonalWikiFrame.py:928
+msgid "Reconnect to database after connection failure"
+msgstr "連接失敗后重新連接到數據庫"
+
+#: lib\pwiki\PersonalWikiFrame.py:934
+msgid "&Optimise Database"
+msgstr "數據庫優化(&O)"
+
+#: lib\pwiki\PersonalWikiFrame.py:935
+msgid "Free unused space in database"
+msgstr "釋放數據庫空間"
+
+#: lib\pwiki\PersonalWikiFrame.py:942
+msgid "&Copy .wiki files to database"
+msgstr "復制.wiki文件到數據庫(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:943
+msgid "Copy .wiki files to database"
+msgstr "復制.wiki文件到數據庫"
+
+#: lib\pwiki\PersonalWikiFrame.py:960
+msgid "E&xit"
+msgstr "退出(&X)"
+
+#: lib\pwiki\PersonalWikiFrame.py:960 lib\pwiki\PersonalWikiFrame.py:6013
+msgid "Exit"
+msgstr "退出"
+
+#: lib\pwiki\PersonalWikiFrame.py:1128
+msgid "Reread text blocks"
+msgstr "重讀文本塊"
+
+#: lib\pwiki\PersonalWikiFrame.py:1129
+msgid "Reread the text block file(s) and recreate menu"
+msgstr "重讀文本塊文件并重建菜單"
+
+#: lib\pwiki\PersonalWikiFrame.py:1183
+msgid "Add wiki"
+msgstr "添加維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:1184
+msgid "Add a wiki to the favorites"
+msgstr "添加維基到收藏夾"
+
+#: lib\pwiki\PersonalWikiFrame.py:1189 lib\pwiki\PersonalWikiFrame.py:1190
+msgid "Manage favorites"
+msgstr "管理收藏夾"
+
+#: lib\pwiki\PersonalWikiFrame.py:1222 lib\pwiki\PersonalWikiFrame.py:2011
+#: lib\pwiki\PersonalWikiFrame.py:2532 lib\pwiki\PersonalWikiFrame.py:4040
+#: lib\pwiki\PersonalWikiFrame.py:5136 lib\pwiki\PersonalWikiFrame.py:5568
+msgid "Error while starting new WikidPad instance"
+msgstr "當開啟新WikidPad實例發生錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:1329
+msgid "W&iki"
+msgstr "維基(&W)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1340
+msgid "&Undo"
+msgstr "撤消(&U)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1344
+msgid "&Redo"
+msgstr "重做(&R)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1352
+msgid "&Search and Replace..."
+msgstr "查找與替換(&S)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1354
+msgid "Search and replace inside current page"
+msgstr "在當前頁查找與替換"
+
+#: lib\pwiki\PersonalWikiFrame.py:1360
+msgid "Cu&t"
+msgstr "剪切(&T)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1365
+msgid "&Copy"
+msgstr "復制(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1369
+msgid "&Paste"
+msgstr "粘貼(&P)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1374
+msgid "&Paste Raw HTML"
+msgstr "粘貼原始HTML(&P)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1376
+msgid "Paste HTML data as is if available"
+msgstr "粘貼HTML格式（如果可用）"
+
+#: lib\pwiki\PersonalWikiFrame.py:1381
+msgid "Select &All"
+msgstr "全選(&A)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1387
+msgid "Copy to Sc&ratchPad"
+msgstr "復制到便箋(&R)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1389
+msgid "Copy selected text to ScratchPad"
+msgstr "復制所選文本到便箋"
+
+#: lib\pwiki\PersonalWikiFrame.py:1395
+msgid "Paste T&extblock"
+msgstr "粘貼文本塊(&E)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1403
+msgid "C&lipboard Catcher"
+msgstr "剪貼板監視器(&L)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1406 lib\pwiki\PersonalWikiFrame.py:4449
+msgid "Set at Page"
+msgstr "在頁面設置"
+
+#: lib\pwiki\PersonalWikiFrame.py:1408
+msgid "Text copied to clipboard is also appended to this page"
+msgstr "復制到剪貼板文本同樣追加到本頁"
+
+#: lib\pwiki\PersonalWikiFrame.py:1414
+msgid "Set at Cursor"
+msgstr "在光標設置"
+
+#: lib\pwiki\PersonalWikiFrame.py:1416
+msgid "Text copied to clipboard is also added to cursor position"
+msgstr "復制到剪貼板的文本同時在光標位置插入"
+
+#: lib\pwiki\PersonalWikiFrame.py:1422
+msgid "Set Off"
+msgstr "關閉"
+
+#: lib\pwiki\PersonalWikiFrame.py:1424
+msgid "Switch off clipboard catcher"
+msgstr "關閉剪貼板監視器"
+
+#: lib\pwiki\PersonalWikiFrame.py:1432
+msgid "&Line Move"
+msgstr "行移動(&L)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1434
+msgid "&Up"
+msgstr "上移（&U）"
+
+#: lib\pwiki\PersonalWikiFrame.py:1436
+msgid "Move line upward"
+msgstr "上移一行"
+
+#: lib\pwiki\PersonalWikiFrame.py:1439
+msgid "Up with indented"
+msgstr "上移并縮進"
+
+#: lib\pwiki\PersonalWikiFrame.py:1441
+msgid "Move line with more indented lines below upward"
+msgstr "上移更多行"
+
+#: lib\pwiki\PersonalWikiFrame.py:1445
+msgid "&Down"
+msgstr "下移（&D）"
+
+#: lib\pwiki\PersonalWikiFrame.py:1447
+msgid "Move line downward"
+msgstr "下移一行"
+
+#: lib\pwiki\PersonalWikiFrame.py:1450
+msgid "Down with indented"
+msgstr "下移并縮進"
+
+#: lib\pwiki\PersonalWikiFrame.py:1452
+msgid "Move line with more indented lines below downward"
+msgstr "下移更多行"
+
+#: lib\pwiki\PersonalWikiFrame.py:1460
+msgid "Spell Check..."
+msgstr "拼寫檢查..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1462
+msgid "Spell check current and possibly further pages"
+msgstr "當前或更遠一級頁面拼寫檢查"
+
+#: lib\pwiki\PersonalWikiFrame.py:1466
+msgid "Spell Check While Type"
+msgstr "輸入時拼寫檢查"
+
+#: lib\pwiki\PersonalWikiFrame.py:1467
+msgid "Set if editor should do spell checking during typing"
+msgstr "輸入狀態編輯器進行拼寫檢查時設置"
+
+#: lib\pwiki\PersonalWikiFrame.py:1472
+msgid "Clear Ignore List"
+msgstr "清除忽略列表"
+
+#: lib\pwiki\PersonalWikiFrame.py:1474
+msgid "Clear the list of words to ignore for spell check while type"
+msgstr "清除詞列表用于輸入時忽略拼寫檢查"
+
+#: lib\pwiki\PersonalWikiFrame.py:1483
+msgid "&Insert"
+msgstr "插入(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1507
+msgid "&Settings"
+msgstr "設置(&S)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1510
+msgid "&Date Format..."
+msgstr "日期格式(&D)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1511
+msgid "Set date format for inserting current date"
+msgstr "設置日期格式用于插入當前日期"
+
+#: lib\pwiki\PersonalWikiFrame.py:1515
+msgid "Auto-&Wrap"
+msgstr "自動折行(&W)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1516
+msgid "Set if editor should wrap long lines"
+msgstr "設置編輯器折疊長行"
+
+#: lib\pwiki\PersonalWikiFrame.py:1530
+msgid "Auto-&Indent"
+msgstr "自動縮進(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1531
+msgid "Auto indentation"
+msgstr "自動縮進"
+
+#: lib\pwiki\PersonalWikiFrame.py:1537
+msgid "Auto-&Bullets"
+msgstr "自動編號(&B)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1538
+msgid "Show bullet on next line if current has one"
+msgstr "如果當前擁有編號，下一行將顯示編號"
+
+#: lib\pwiki\PersonalWikiFrame.py:1544
+msgid "Tabs to spaces"
+msgstr "制表符添加空格"
+
+#: lib\pwiki\PersonalWikiFrame.py:1545
+msgid "Write spaces when hitting TAB key"
+msgstr "按TAB鍵添加空格"
+
+#: lib\pwiki\PersonalWikiFrame.py:1553
+msgid "Show T&oolbar"
+msgstr "顯示工具欄(&O)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1555
+msgid "Show toolbar"
+msgstr "顯示工具欄"
+
+#: lib\pwiki\PersonalWikiFrame.py:1562
+msgid "Show &Tree View"
+msgstr "顯示樹型視圖(&T)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1564
+msgid "Show Tree Control"
+msgstr "顯示樹控件"
+
+#: lib\pwiki\PersonalWikiFrame.py:1571
+msgid "Show &Chron. View"
+msgstr "按時間順序查看(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1573
+msgid "Show chronological view"
+msgstr "按時間順序查看"
+
+#: lib\pwiki\PersonalWikiFrame.py:1580
+msgid "Show &Page Structure"
+msgstr "顯示頁面結構(&P)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1582
+msgid "Show structure (headings) of the page"
+msgstr "顯示頁面結構（標題）"
+
+#: lib\pwiki\PersonalWikiFrame.py:1594
+msgid "Show &Indentation Guides"
+msgstr "顯示縮進符(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1595
+msgid "Show indentation guides in editor"
+msgstr "在編輯器顯示縮進符"
+
+#: lib\pwiki\PersonalWikiFrame.py:1600
+msgid "Show Line &Numbers"
+msgstr "顯示行號(&N)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1601
+msgid "Show line numbers in editor"
+msgstr "在編輯器顯示行號"
+
+#: lib\pwiki\PersonalWikiFrame.py:1608
+msgid "Stay on Top"
+msgstr "保持最上"
+
+#: lib\pwiki\PersonalWikiFrame.py:1610
+msgid "Stay on Top of all other windows"
+msgstr "保持在其他所有窗口最上面"
+
+#: lib\pwiki\PersonalWikiFrame.py:1618
+msgid "&Zoom In"
+msgstr "縮小(&Z)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1619 lib\pwiki\PersonalWikiFrame.py:2206
+msgid "Zoom In"
+msgstr "縮小"
+
+#: lib\pwiki\PersonalWikiFrame.py:1622
+msgid "Zoo&m Out"
+msgstr "放大(&M)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1623 lib\pwiki\PersonalWikiFrame.py:2211
+msgid "Zoom Out"
+msgstr "放大"
+
+#: lib\pwiki\PersonalWikiFrame.py:1645
+msgid "Toggle Ed./Prev"
+msgstr "切換編輯/預覽"
+
+#: lib\pwiki\PersonalWikiFrame.py:1647 lib\pwiki\PersonalWikiFrame.py:2202
+msgid "Switch between editor and preview"
+msgstr "在編輯/預覽間切換"
+
+#: lib\pwiki\PersonalWikiFrame.py:1651
+msgid "Enter Edit Mode"
+msgstr "進入編輯模式"
+
+#: lib\pwiki\PersonalWikiFrame.py:1652
+msgid "Show editor in tab"
+msgstr "在標簽頁顯示編輯器"
+
+#: lib\pwiki\PersonalWikiFrame.py:1656
+msgid "Enter Preview Mode"
+msgstr "進入預覽模式"
+
+#: lib\pwiki\PersonalWikiFrame.py:1658
+msgid "Show preview in tab"
+msgstr "在標簽頁顯示預覽"
+
+#: lib\pwiki\PersonalWikiFrame.py:1682
+msgid "&Save"
+msgstr "保存(&S)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1683
+msgid "Save all open pages"
+msgstr "保存所有打開頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:1690
+msgid "&Rename"
+msgstr "改名(&R)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1691
+msgid "Rename current wiki word"
+msgstr "更改當前維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1697
+msgid "Delete current wiki word"
+msgstr "刪除當前維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1704
+msgid "Set as Roo&t"
+msgstr "設為根(&T)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1706
+msgid "Set current wiki word as tree root"
+msgstr "將當前維基字設為樹根"
+
+#: lib\pwiki\PersonalWikiFrame.py:1710
+msgid "R&eset Root"
+msgstr "重設根(&E)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1711
+msgid "Set home wiki word as tree root"
+msgstr "設置首頁維基字為樹根"
+
+#: lib\pwiki\PersonalWikiFrame.py:1715
+msgid "S&ynchronise Tree"
+msgstr "同步樹(&Y)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1716
+msgid "Find the current wiki word in the tree"
+msgstr "在樹中查找當前維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1722
+msgid "&Follow Link"
+msgstr "鏈接(&F)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1723
+msgid "Activate link/word"
+msgstr "激活鏈接/字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1728
+msgid "Follow Link in &New Tab"
+msgstr "在新選項卡打開鏈接(&N)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1730
+msgid "Activate link/word in new tab"
+msgstr "在新選項卡激活鏈接與字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1735
+msgid "Follow Link in New &Window"
+msgstr "在新窗口打開鏈接(&T)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1737
+msgid "Activate link/word in new window"
+msgstr "在新窗口激活鏈接與關鍵字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1742
+msgid "Copy &URL to Clipboard"
+msgstr "復制 (&U)RL 到剪貼板"
+
+#: lib\pwiki\PersonalWikiFrame.py:1744
+msgid "Copy full \"wiki:\" URL of the word to clipboard"
+msgstr "復制該維基字完整 \"wiki:\" URL到剪貼板 "
+
+#: lib\pwiki\PersonalWikiFrame.py:1750
+msgid "&Add version"
+msgstr "增加版本(&A)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1751
+msgid "Add new version"
+msgstr "增加新版本"
+
+#: lib\pwiki\PersonalWikiFrame.py:1765
+msgid "&Bold"
+msgstr "加粗(&B)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1766 lib\pwiki\PersonalWikiFrame.py:2187
+msgid "Bold"
+msgstr "加粗"
+
+#: lib\pwiki\PersonalWikiFrame.py:1772
+msgid "&Italic"
+msgstr "斜體(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1773 lib\pwiki\PersonalWikiFrame.py:2193
+msgid "Italic"
+msgstr "斜體"
+
+#: lib\pwiki\PersonalWikiFrame.py:1779
+msgid "&Heading"
+msgstr "標題(&H)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1780
+msgid "Add Heading"
+msgstr "增加標題"
+
+#: lib\pwiki\PersonalWikiFrame.py:1788
+msgid "&Rewrap Text"
+msgstr "文本重新折行(&R)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1790
+msgid "Rewrap Text"
+msgstr "文本重新折行"
+
+#: lib\pwiki\PersonalWikiFrame.py:1795
+msgid "&Convert"
+msgstr "轉換(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1810
+msgid "Selection to &Wiki Word"
+msgstr "選擇設為維基字(&W)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1812
+msgid "Put selected text in a new or existing wiki word"
+msgstr "將選擇文本置為新的或已存在的維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1817
+msgid "Absolute/Relative &File URL"
+msgstr "絕對/相對文件URL(&F)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1819
+msgid "Convert file URL from absolute to relative and vice versa"
+msgstr "轉換絕對文件URL到相對，反之亦然。"
+
+#: lib\pwiki\PersonalWikiFrame.py:1833
+msgid "&Icon Name"
+msgstr "圖標名(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1845
+msgid "&Color Name"
+msgstr "顏色名(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1853
+msgid "&Add Attribute"
+msgstr "增加屬性(&A)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1862
+msgid "&Icon Attribute"
+msgstr "圖標屬性(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1872
+msgid "&Color Attribute"
+msgstr "顏色屬性(&C)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1881
+msgid "&Back"
+msgstr "后退(&B)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1882
+msgid "Go backward"
+msgstr "后退"
+
+#: lib\pwiki\PersonalWikiFrame.py:1887
+msgid "&Forward"
+msgstr "前進(&F)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1888
+msgid "Go forward"
+msgstr "前進"
+
+#: lib\pwiki\PersonalWikiFrame.py:1893
+msgid "&Wiki Home"
+msgstr "維基主頁(&W)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1894
+msgid "Go to wiki homepage"
+msgstr "轉至維基主頁"
+
+#: lib\pwiki\PersonalWikiFrame.py:1899
+msgid "Up&ward"
+msgstr "向上(&W)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1901 lib\pwiki\PersonalWikiFrame.py:2154
+#: lib\pwiki\PersonalWikiFrame.py:2155
+msgid "Go upward from a subpage"
+msgstr "從子頁往上查找"
+
+#: lib\pwiki\PersonalWikiFrame.py:1906
+msgid "Go to &Page..."
+msgstr "轉至頁(&P)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1907
+msgid "Open wiki word"
+msgstr "打開維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:1912
+msgid "Go to P&arent..."
+msgstr "轉至父結點(&A)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1914
+msgid "List parents of current wiki word"
+msgstr "顯示當前維基字父結點"
+
+#: lib\pwiki\PersonalWikiFrame.py:1917
+msgid "List &Children..."
+msgstr "顯示子結點(&C)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1919
+msgid "List children of current wiki word"
+msgstr "顯示當前維基字子結點"
+
+#: lib\pwiki\PersonalWikiFrame.py:1922
+msgid "List Pa&rentless Pages"
+msgstr "顯示葉子頁面(&P)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1924
+msgid "List nodes with no parent relations"
+msgstr "結點清單不帶父子關系"
+
+#: lib\pwiki\PersonalWikiFrame.py:1929
+msgid "Show &History..."
+msgstr "顯示歷史(&H)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1930
+msgid "View tab history"
+msgstr "顯示歷史選項卡"
+
+#: lib\pwiki\PersonalWikiFrame.py:1933
+msgid "&Up History..."
+msgstr "向上歷史(&U)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1934
+msgid "Up in tab history"
+msgstr "選項卡歷史向上"
+
+#: lib\pwiki\PersonalWikiFrame.py:1937
+msgid "&Down History..."
+msgstr "向下歷史(&D)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1938
+msgid "Down in tab history"
+msgstr "選項卡歷史向下"
+
+#: lib\pwiki\PersonalWikiFrame.py:1943
+msgid "Add B&ookmark"
+msgstr "增加書簽(&O)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1944
+msgid "Add bookmark to page"
+msgstr "增加頁書簽"
+
+#: lib\pwiki\PersonalWikiFrame.py:1948
+msgid "Go to &Bookmark..."
+msgstr "轉至書簽(&B)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1949
+msgid "List bookmarks"
+msgstr "書簽列表"
+
+#: lib\pwiki\PersonalWikiFrame.py:1955
+msgid "&Export..."
+msgstr "導出(&E)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1959
+msgid "&Continuous Export..."
+msgstr "連續導出(&C)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1960
+msgid "Open export dialog for continuous export of changes"
+msgstr "打開導出對話框用于連續導出"
+
+#: lib\pwiki\PersonalWikiFrame.py:1966
+msgid "&Import..."
+msgstr "導入(&I)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1967
+msgid "Import dialog"
+msgstr "導入對話框"
+
+#: lib\pwiki\PersonalWikiFrame.py:1973
+msgid "Scripts"
+msgstr "腳本"
+
+#: lib\pwiki\PersonalWikiFrame.py:1974
+msgid "Run scripts, evaluate expressions"
+msgstr "運行腳本，計算表達式"
+
+#: lib\pwiki\PersonalWikiFrame.py:1976
+msgid "&Eval"
+msgstr "運算(&E)"
+
+#: lib\pwiki\PersonalWikiFrame.py:1977
+msgid "Evaluate script blocks"
+msgstr "運行腳本塊"
+
+#: lib\pwiki\PersonalWikiFrame.py:1982
+msgid "Run Function &%i\tCtrl-%i"
+msgstr "運行函數 &%i\tCtrl-%i"
+
+#: lib\pwiki\PersonalWikiFrame.py:1983
+msgid "Run script function %i"
+msgstr "運行腳本函數 %i"
+
+#: lib\pwiki\PersonalWikiFrame.py:1988
+msgid "Optional component &log..."
+msgstr "可選日志組件(&L)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1989
+msgid "Show error while initializing optional components"
+msgstr "初始化可選組件時顯示錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:1994
+msgid "O&ptions..."
+msgstr "選項(&P)..."
+
+#: lib\pwiki\PersonalWikiFrame.py:1995
+msgid "Set options"
+msgstr "設置選項"
+
+#: lib\pwiki\PersonalWikiFrame.py:2015
+msgid "&Open help wiki"
+msgstr "打開幫助(&O)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2016
+msgid "Open WikidPadHelp, the help wiki"
+msgstr "打開WikidPadHelp，維基幫助文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:2025
+msgid "&Visit Homepage"
+msgstr "訪問主頁(&V)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2026
+msgid "Visit wikidPad homepage"
+msgstr "訪問WikidPad主頁"
+
+#: lib\pwiki\PersonalWikiFrame.py:2036
+msgid "Show &License"
+msgstr "顯示許可(&L)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2037
+msgid "Show license of WikidPad and used components"
+msgstr "顯示WikidPad 許可與用戶組件"
+
+#: lib\pwiki\PersonalWikiFrame.py:2054
+msgid "&About"
+msgstr "關于(&A)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2058
+msgid "&Wiki"
+msgstr "維基(&W)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2059
+msgid "&Edit"
+msgstr "編輯(&E)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2060
+msgid "&View"
+msgstr "視圖(&V)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2061
+msgid "&Tabs"
+msgstr "標簽頁(&T)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2062
+msgid "Wiki &Page"
+msgstr "維基頁(&P)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2063
+msgid "&Format"
+msgstr "格式(&F)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2064
+msgid "&Navigate"
+msgstr "導航(&N)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2065
+msgid "E&xtra"
+msgstr "高級(&X)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2081
+msgid "Pl&ugins"
+msgstr "插件(&U)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2087
+msgid "&Help"
+msgstr "幫助(&H)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2089
+msgid "He&lp"
+msgstr "幫助(&L)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2115 lib\pwiki\PersonalWikiFrame.py:2116
+msgid "Back"
+msgstr "后退"
+
+#: lib\pwiki\PersonalWikiFrame.py:2121 lib\pwiki\PersonalWikiFrame.py:2122
+msgid "Forward"
+msgstr "前進"
+
+#: lib\pwiki\PersonalWikiFrame.py:2127 lib\pwiki\PersonalWikiFrame.py:2128
+msgid "Wiki Home"
+msgstr "維基主頁"
+
+#: lib\pwiki\PersonalWikiFrame.py:2142 lib\pwiki\PersonalWikiFrame.py:2143
+msgid "Search"
+msgstr "搜索"
+
+#: lib\pwiki\PersonalWikiFrame.py:2148 lib\pwiki\PersonalWikiFrame.py:2149
+msgid "Find current word in tree"
+msgstr "在樹中查找當前關鍵字"
+
+#: lib\pwiki\PersonalWikiFrame.py:2158 lib\pwiki\PersonalWikiFrame.py:2177
+#: lib\pwiki\PersonalWikiFrame.py:2197
+msgid "Separator"
+msgstr "分隔符"
+
+#: lib\pwiki\PersonalWikiFrame.py:2162 lib\pwiki\PersonalWikiFrame.py:2163
+msgid "Save Wiki Word"
+msgstr "保存維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:2173 lib\pwiki\PersonalWikiFrame.py:2174
+#: lib\pwiki\PersonalWikiFrame.py:4595
+msgid "Delete Wiki Word"
+msgstr "刪除維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:2181
+msgid "Heading"
+msgstr "標題"
+
+#: lib\pwiki\PersonalWikiFrame.py:2201
+msgid "Switch Editor/Preview"
+msgstr "切換編輯/預覽"
+
+#: lib\pwiki\PersonalWikiFrame.py:2222
+msgid "Wikize Selected Word "
+msgstr "選中詞維基化"
+
+#: lib\pwiki\PersonalWikiFrame.py:2223
+msgid "Wikize Selected Word"
+msgstr "選中詞維基化"
+
+#: lib\pwiki\PersonalWikiFrame.py:2295
+msgid "Line: 9999 Col: 9999 Pos: 9999999988888"
+msgstr "行: 9999 列: 9999 位置: 9999999988888"
+
+#: lib\pwiki\PersonalWikiFrame.py:2469
+msgid "Regular expression error"
+msgstr "錯誤正則表達式"
+
+#: lib\pwiki\PersonalWikiFrame.py:2478
+msgid ""
+"Are you sure you want to reconnect? You may lose some data by this process."
+msgstr "你確定想要重新連接嗎？該過程可能會丟失數據。"
+
+#: lib\pwiki\PersonalWikiFrame.py:2480
+msgid "Reconnect database"
+msgstr "重連數據庫"
+
+#: lib\pwiki\PersonalWikiFrame.py:2494 lib\pwiki\PersonalWikiFrame.py:3635
+msgid "Error while trying to reconnect:\n"
+msgstr "正嘗試重新連接時發生錯誤:\n"
+
+#: lib\pwiki\PersonalWikiFrame.py:2496
+msgid ""
+"There was an error while reconnecting the database\n"
+"\n"
+"Would you like to try it again?\n"
+"%s"
+msgstr ""
+"當重新連接數據庫時發生錯誤。\n"
+"\n"
+"你想重新嘗試再次連接嗎？\n"
+"%s"
+
+#: lib\pwiki\PersonalWikiFrame.py:2499
+msgid "Error reconnecting!"
+msgstr "重新連接時發生錯誤!"
+
+#: lib\pwiki\PersonalWikiFrame.py:2515 lib\pwiki\PersonalWikiFrame.py:3682
+msgid "Error while trying to write:\n"
+msgstr "嘗試寫入時發生錯誤:\n"
+
+#: lib\pwiki\PersonalWikiFrame.py:2517
+msgid ""
+"There was an error while writing to the database\n"
+"\n"
+"Would you like to try it again?\n"
+"%s"
+msgstr ""
+"寫入數據庫時發生錯誤\n"
+"\n"
+"你想要重新嘗試寫入嗎?\n"
+"%s"
+
+#: lib\pwiki\PersonalWikiFrame.py:2520
+msgid "Error writing!"
+msgstr "寫入錯誤!"
+
+#: lib\pwiki\PersonalWikiFrame.py:2641
+msgid "There was an error loading the icons for the tree control."
+msgstr "裝載樹控件所需圖標時發生錯誤。"
+
+#: lib\pwiki\PersonalWikiFrame.py:2936
+msgid "No data handler available to create database."
+msgstr "創建數據庫時無可用數據句柄。"
+
+#: lib\pwiki\PersonalWikiFrame.py:2948
+msgid ""
+"A wiki already exists in '%s', overwrite? (This deletes everything in and "
+"below this directory!)"
+msgstr "維基在'%s'里已存在，覆寫嗎？ (這將刪除該目錄下所有內容！)"
+
+#: lib\pwiki\PersonalWikiFrame.py:2950
+msgid "Warning"
+msgstr "警告"
+
+#: lib\pwiki\PersonalWikiFrame.py:2991
+msgid "A wiki database already exists in this location, overwrite?"
+msgstr "維基數據庫在該位置已存在，覆寫嗎？"
+
+#: lib\pwiki\PersonalWikiFrame.py:2993
+msgid "Wiki DB Exists"
+msgstr "維基數據庫已存在"
+
+#: lib\pwiki\PersonalWikiFrame.py:3004
+msgid "There was an error creating the wiki database."
+msgstr "創建維基數據庫發生錯誤。"
+
+#: lib\pwiki\PersonalWikiFrame.py:3081 lib\pwiki\PersonalWikiFrame.py:3082
+msgid "Choose database type"
+msgstr "選擇數據庫類型"
+
+#: lib\pwiki\PersonalWikiFrame.py:3121
+msgid "Inaccessible or missing file: %s"
+msgstr "無效訪問或缺失文件：%s。"
+
+#: lib\pwiki\PersonalWikiFrame.py:3172 lib\pwiki\PersonalWikiFrame.py:3257
+msgid "Error connecting to database in '%s'"
+msgstr "連接數據庫'%s'發生錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:3177
+msgid ""
+"The wiki needs an update to work with this version of WikidPad. Older "
+"versions of WikidPad may be unable to read the wiki after an update."
+msgstr "當前版本WikidPad需要升級，舊版本WikidPad升級后可能無法讀取維基。"
+
+#: lib\pwiki\PersonalWikiFrame.py:3180
+msgid "Update database?"
+msgstr "要升級數據庫嗎?"
+
+#: lib\pwiki\PersonalWikiFrame.py:3215
+msgid ""
+"Wiki '%s' is probably in use by different\n"
+"instance of WikidPad. Connect anyway (dangerous!)?"
+msgstr ""
+"維基'%s'正被不同WikidPad實例使用。\n"
+"要強制連接嗎（危險！）？"
+
+#: lib\pwiki\PersonalWikiFrame.py:3217
+msgid "Wiki already in use"
+msgstr "維基正被使用"
+
+#: lib\pwiki\PersonalWikiFrame.py:3226
+msgid ""
+"Configuration file '%s' is corrupted or missing.\n"
+"You may have to change some settings in configuration page \"Current Wiki\" "
+"and below which were lost."
+msgstr ""
+"配置文件'%s'沖突或缺失。.\n"
+"你可能需要修改配置頁中的一些設置，\"當前維基\"及子結點丟失內容。"
+
+#: lib\pwiki\PersonalWikiFrame.py:3264
+msgid "Can't write to database '%s'"
+msgstr "無法寫入數據庫'%s'"
+
+#: lib\pwiki\PersonalWikiFrame.py:3277 lib\pwiki\PersonalWikiFrame.py:5488
+msgid "Performing background jobs..."
+msgstr "后臺任務..."
+
+#: lib\pwiki\PersonalWikiFrame.py:3506
+msgid ""
+"There is no (write-)access to underlying wiki\n"
+"Close anyway and loose possible changes?"
+msgstr ""
+"沒有寫入該維基的權限\n"
+"強制關閉，放棄可能的修改?"
+
+#: lib\pwiki\PersonalWikiFrame.py:3508
+msgid "Close anyway"
+msgstr "強制關閉"
+
+#: lib\pwiki\PersonalWikiFrame.py:3605
+msgid "This operation requires an open database"
+msgstr "當前操作需要打開數據庫"
+
+#: lib\pwiki\PersonalWikiFrame.py:3606
+msgid "No open database"
+msgstr "沒有打開的數據庫"
+
+#: lib\pwiki\PersonalWikiFrame.py:3618
+msgid "No connection to database. Try to reconnect?"
+msgstr "數據庫無連接。嘗試重新連接嗎？"
+
+#: lib\pwiki\PersonalWikiFrame.py:3619
+msgid "Reconnect database?"
+msgstr "重新連接數據庫?"
+
+#: lib\pwiki\PersonalWikiFrame.py:3625
+msgid "Trying to reconnect database..."
+msgstr "正在重新連接數據庫..."
+
+#: lib\pwiki\PersonalWikiFrame.py:3638
+msgid "Error while reconnecting database"
+msgstr "重新連接數據庫時發生錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:3663
+msgid ""
+"This operation needs write access to database\n"
+"Try to write?"
+msgstr ""
+"當前操作需要數據庫寫權限\n"
+"嘗試寫入嗎?"
+
+#: lib\pwiki\PersonalWikiFrame.py:3664
+msgid "Try writing?"
+msgstr "嘗試寫入?"
+
+#: lib\pwiki\PersonalWikiFrame.py:3670
+msgid "Trying to write to database..."
+msgstr "正在嘗試寫入數據庫..."
+
+#: lib\pwiki\PersonalWikiFrame.py:3685
+msgid "Error while writing to database"
+msgstr "嘗試寫入數據庫時發生錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:3709
+msgid ""
+"Database connection error: %s.\n"
+"Try to re-establish, then run \"Wiki\"->\"Reconnect\""
+msgstr ""
+"數據庫連節錯誤： %s.\n"
+"嘗試重新建立，然后運行\"維基\"->\"重新連接\""
+
+#: lib\pwiki\PersonalWikiFrame.py:3711 lib\pwiki\PersonalWikiFrame.py:3728
+msgid "Connection lost"
+msgstr "連接丟失"
+
+#: lib\pwiki\PersonalWikiFrame.py:3726
+msgid ""
+"No write access to database: %s.\n"
+" Try to re-establish, then run \"Wiki\"->\"Reconnect\""
+msgstr ""
+"數據庫: %s，無寫入權限。\n"
+" 嘗試重新建立，然后運行\"維基\"->\"重新連接\""
+
+#: lib\pwiki\PersonalWikiFrame.py:3745
+msgid "Trying to reconnect ..."
+msgstr "正嘗試重新連接..."
+
+#: lib\pwiki\PersonalWikiFrame.py:3754
+msgid "Error while trying to reconnect:"
+msgstr "重新連接時發生錯誤:"
+
+#: lib\pwiki\PersonalWikiFrame.py:3865
+msgid "Saving page"
+msgstr "保存頁面"
+
+#: lib\pwiki\PersonalWikiFrame.py:4012
+msgid "Couldn't start file"
+msgstr "無法起用文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:4020
+msgid "Couldn't open wiki: %s"
+msgstr "無法打開維基: %s"
+
+#: lib\pwiki\PersonalWikiFrame.py:4071
+msgid "Mod.: %s"
+msgstr "修改: %s"
+
+#: lib\pwiki\PersonalWikiFrame.py:4072
+msgid "; Crea.: %s"
+msgstr "; 創建: %s"
+
+#: lib\pwiki\PersonalWikiFrame.py:4121
+msgid "Parent nodes of '%s'"
+msgstr "'%s'父結點"
+
+#: lib\pwiki\PersonalWikiFrame.py:4133
+msgid "Parentless nodes"
+msgstr "葉子結點"
+
+#: lib\pwiki\PersonalWikiFrame.py:4145
+msgid "Child nodes of '%s'"
+msgstr "'%s'子結點"
+
+#: lib\pwiki\PersonalWikiFrame.py:4158
+msgid "Bookmarks"
+msgstr "書簽"
+
+#: lib\pwiki\PersonalWikiFrame.py:4305
+msgid "Wiki: %s"
+msgstr "維基: %s"
+
+#: lib\pwiki\PersonalWikiFrame.py:4444
+msgid "Set at Page: %s\t%s"
+msgstr "設置于頁: %s\t%s"
+
+#: lib\pwiki\PersonalWikiFrame.py:4460
+msgid "Error saving global configuration"
+msgstr "保存全局設置時發生錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:4471
+msgid "Error saving current configuration"
+msgstr "保存當前設置時發生錯誤"
+
+#: lib\pwiki\PersonalWikiFrame.py:4493
+msgid "No real wiki word selected to rename"
+msgstr "沒有選擇真實的維基字用于修改"
+
+#: lib\pwiki\PersonalWikiFrame.py:4497
+msgid "The scratch pad cannot be renamed."
+msgstr "本便箋無法改名"
+
+#: lib\pwiki\PersonalWikiFrame.py:4521
+msgid "Description:"
+msgstr "描述:"
+
+#: lib\pwiki\PersonalWikiFrame.py:4522
+msgid "Store new version"
+msgstr "保存新版本"
+
+#: lib\pwiki\PersonalWikiFrame.py:4536
+msgid "Do you want to delete all stored versions?"
+msgstr "你想要刪除所有已保存版本嗎?"
+
+#: lib\pwiki\PersonalWikiFrame.py:4537
+msgid "Delete All Versions"
+msgstr "刪除所有版本"
+
+#: lib\pwiki\PersonalWikiFrame.py:4582
+msgid "The scratch pad cannot be deleted"
+msgstr "本便箋無法刪除"
+
+#: lib\pwiki\PersonalWikiFrame.py:4586
+msgid "No real wiki word to delete"
+msgstr "沒有真實的維基字可供刪除"
+
+#: lib\pwiki\PersonalWikiFrame.py:4594
+msgid "Are you sure you want to delete wiki word '%s'?"
+msgstr "你確定要刪除維基字'%s'嗎?"
+
+#: lib\pwiki\PersonalWikiFrame.py:4626
+msgid "No real wiki word to modify"
+msgstr "沒有真實的維基字可供修改"
+
+#: lib\pwiki\PersonalWikiFrame.py:4647
+msgid "Replace text by WikiWord:"
+msgstr "替換文本為維基字:"
+
+#: lib\pwiki\PersonalWikiFrame.py:4648
+msgid "Replace by Wiki Word"
+msgstr "替換為維基字"
+
+#: lib\pwiki\PersonalWikiFrame.py:4657
+msgid "'%s' is an invalid wiki word."
+msgstr "'%s'是無效維基字。"
+
+#: lib\pwiki\PersonalWikiFrame.py:4669
+msgid ""
+"Wiki word %s exists already\n"
+"Would you like to append to the word?"
+msgstr ""
+"維基字%s已存在\n"
+"你想要追加該維基字嗎?"
+
+#: lib\pwiki\PersonalWikiFrame.py:4672
+msgid "Word exists"
+msgstr "維基字已存在"
+
+#: lib\pwiki\PersonalWikiFrame.py:4926
+msgid "Error on export"
+msgstr "導出出錯"
+
+#: lib\pwiki\PersonalWikiFrame.py:4998
+msgid "Are you sure you want to start a full rebuild of wiki in background?"
+msgstr "確認你想要開始在后臺完全重建維基嗎?"
+
+#: lib\pwiki\PersonalWikiFrame.py:5000
+msgid "Initiate update"
+msgstr "初始化升級"
+
+#: lib\pwiki\PersonalWikiFrame.py:5007 lib\pwiki\PersonalWikiFrame.py:5008
+msgid "     Initiating update     "
+msgstr "     初始化升級"
+
+#: lib\pwiki\PersonalWikiFrame.py:5022
+msgid "Error initiating update"
+msgstr "初始化升級時出錯"
+
+#: lib\pwiki\PersonalWikiFrame.py:5031
+msgid ""
+"Are you sure you want to rebuild this wiki? You may want to backup your data "
+"first!"
+msgstr "確認你要重建該維基嗎?首先你應該備份數據!"
+
+#: lib\pwiki\PersonalWikiFrame.py:5033
+msgid "Rebuild wiki"
+msgstr "重建維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:5040 lib\pwiki\PersonalWikiFrame.py:5041
+msgid "     Rebuilding wiki     "
+msgstr "     重建維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:5056
+msgid "Error rebuilding wiki"
+msgstr "重建維基出錯"
+
+#: lib\pwiki\PersonalWikiFrame.py:5146
+msgid "This could overwrite pages in the database. Continue?"
+msgstr "這些操作可能會覆寫數據庫中的頁面。是否繼續?"
+
+#: lib\pwiki\PersonalWikiFrame.py:5147
+msgid "Import pagefiles"
+msgstr "導入頁面文件"
+
+#: lib\pwiki\PersonalWikiFrame.py:5249
+msgid "No list of strings passed to \"listmcstr\" dialog"
+msgstr "沒有字符串列表傳送到\"listmcstr\"對話框"
+
+#: lib\pwiki\PersonalWikiFrame.py:5272
+msgid "Unknown dialog type"
+msgstr "未知對話框類型"
+
+#: lib\pwiki\PersonalWikiFrame.py:5418
+msgid "Optional component error log"
+msgstr "可選錯誤日志組件"
+
+#: lib\pwiki\PersonalWikiFrame.py:5536 lib\pwiki\PersonalWikiFrame.py:5554
+#: lib\pwiki\PersonalWikiFrame.py:5579
+msgid "Choose a Wiki to open"
+msgstr "選擇需要打開的維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:5593
+msgid "Name for new wiki (must be in the form of a WikiWord):"
+msgstr "新維基名(必須是維基字的形式):"
+
+#: lib\pwiki\PersonalWikiFrame.py:5594
+msgid "Create New Wiki"
+msgstr "創建新維基"
+
+#: lib\pwiki\PersonalWikiFrame.py:5609
+msgid "Directory to store new wiki"
+msgstr "存儲新維基的目錄"
+
+#: lib\pwiki\PersonalWikiFrame.py:5620
+#: lib\pwiki\wikidata\WikiDataManager.py:1560
+#: lib\pwiki\wikidata\WikiDataManager.py:1616
+msgid "'%s' is an invalid wiki word. %s"
+msgstr "'%s'是無效維基字。 %s"
+
+#: lib\pwiki\PersonalWikiFrame.py:5946
+msgid "Clipboard Catcher at Cursor"
+msgstr "在光標處開始剪貼板捕獲"
+
+#: lib\pwiki\PersonalWikiFrame.py:5950
+msgid "Clipboard Catcher off"
+msgstr "關閉剪貼板監視器"
+
+#: lib\pwiki\PersonalWikiFrame.py:6011
+msgid "Restore"
+msgstr "還原"
+
+#: lib\pwiki\PersonalWikiFrame.py:6012
+msgid "Save"
+msgstr "保存"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:161
+msgid "Searching... (click into field to abort)"
+msgstr "搜索中... (在域中單擊取消)"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:163
+msgid "Not found"
+msgstr "沒有發現"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:687
+msgid "More >>"
+msgstr "更多>>"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:694
+msgid "<< Less"
+msgstr "<<小于"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:838
+#: lib\pwiki\SearchAndReplaceDialogs.py:1850
+msgid "Do you want to delete %i search(es)?"
+msgstr "你想要刪除%i個搜索結果嗎?"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:839
+#: lib\pwiki\SearchAndReplaceDialogs.py:1851
+msgid "Delete search"
+msgstr "刪除搜索"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:892
+#: lib\pwiki\SearchAndReplaceDialogs.py:995
+#: lib\pwiki\SearchAndReplaceDialogs.py:1008
+#: lib\pwiki\SearchAndReplaceDialogs.py:1262
+#: lib\pwiki\SearchAndReplaceDialogs.py:1487
+#: lib\pwiki\SearchAndReplaceDialogs.py:1513
+#: lib\pwiki\SearchAndReplaceDialogs.py:1570
+#: lib\pwiki\SearchAndReplaceDialogs.py:1584
+#: lib\pwiki\SearchAndReplaceDialogs.py:1663
+#: lib\pwiki\SearchAndReplaceDialogs.py:1712
+#: lib\pwiki\SearchAndReplaceDialogs.py:1873
+#: lib\pwiki\SearchAndReplaceDialogs.py:2529
+msgid "Error in regular expression"
+msgstr "正則表達式錯誤"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:896
+#: lib\pwiki\SearchAndReplaceDialogs.py:1490
+#: lib\pwiki\SearchAndReplaceDialogs.py:1517
+#: lib\pwiki\SearchAndReplaceDialogs.py:1573
+#: lib\pwiki\SearchAndReplaceDialogs.py:1588
+#: lib\pwiki\SearchAndReplaceDialogs.py:1666
+#: lib\pwiki\SearchAndReplaceDialogs.py:1716
+#: lib\pwiki\SearchAndReplaceDialogs.py:1876
+#: lib\pwiki\SearchAndReplaceDialogs.py:2532
+msgid "Error in boolean expression"
+msgstr "錯誤布爾正則表達式"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:904
+#: lib\pwiki\SearchAndReplaceDialogs.py:1724
+msgid "Choose search title"
+msgstr "選擇搜索標題"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:914
+#: lib\pwiki\SearchAndReplaceDialogs.py:1734
+msgid "Do you want to overwrite existing search '%s'?"
+msgstr "你想要覆寫已存在檢索'%s'嗎?"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:915
+#: lib\pwiki\SearchAndReplaceDialogs.py:1735
+msgid "Overwrite search"
+msgstr "覆寫檢索"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:939
+#: lib\pwiki\SearchAndReplaceDialogs.py:1750
+msgid "Invalid search string, can't save as view"
+msgstr "無效搜索串，不能保存為視圖"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:967
+msgid "End of document reached. Continue at beginning?"
+msgstr "已到達文檔尾。是否在文檔開始處繼續？"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:969
+msgid "Continue at beginning?"
+msgstr "在開始處繼續?"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:980
+#: lib\pwiki\SearchAndReplaceDialogs.py:981
+msgid "No matches found"
+msgstr "沒有發現匹配結果"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:1036
+#: lib\pwiki\SearchAndReplaceDialogs.py:1657
+msgid "%i replacements done"
+msgstr "完成 %i 次替換"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:1037
+#: lib\pwiki\SearchAndReplaceDialogs.py:1597
+#: lib\pwiki\SearchAndReplaceDialogs.py:1658
+msgid "Replace All"
+msgstr "全部替換"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:1261
+msgid ""
+"Bad regular expression '%s':\n"
+"%s"
+msgstr ""
+"不良正則表達式 '%s':\n"
+"%s"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:1493
+#: lib\pwiki\SearchAndReplaceDialogs.py:1521
+#: lib\pwiki\SearchAndReplaceDialogs.py:1669
+#: lib\pwiki\SearchAndReplaceDialogs.py:1879
+#: lib\pwiki\SearchAndReplaceDialogs.py:2535
+msgid "Error. Maybe wiki rebuild is needed"
+msgstr "錯誤：可能需要維基重建。"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:1597
+msgid "Replace all occurrences?"
+msgstr "替換所有匹配結果？"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:1951
+msgid "*Set page list*"
+msgstr "*設置頁面列表*"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:2263
+msgid "<Search: %s>"
+msgstr "<檢索:  %s>"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:2313
+msgid "Fast Search"
+msgstr "快速檢索"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:2339
+msgid "As Tab"
+msgstr "作為標簽頁"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:2384
+msgid "Search: %s"
+msgstr "搜索: %s"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:2636 lib\pwiki\WikiHtmlView.py:734
+#: lib\pwiki\WikiHtmlView2.py:1519
+msgid "Activate"
+msgstr "激活"
+
+#: lib\pwiki\SearchAndReplaceDialogs.py:2638 lib\pwiki\WikiHtmlView.py:736
+#: lib\pwiki\WikiHtmlView2.py:1521
+msgid "Activate New Tab Backgrd."
+msgstr "在后臺激活新選項卡"
+
+#: lib\pwiki\SpellChecker.py:121
+msgid "No wiki open or current page is a functional page"
+msgstr "沒有打開的維基或當前頁為功能頁"
+
+#: lib\pwiki\SpellChecker.py:135
+msgid "Current page is not modified yet"
+msgstr "當前頁還沒有被修改"
+
+#: lib\pwiki\SpellChecker.py:142 lib\pwiki\SpellChecker.py:176
+#: lib\pwiki\SpellChecker.py:184
+msgid "No (more) misspelled words found"
+msgstr "沒有發現更多拼寫錯誤單詞"
+
+#: lib\pwiki\SpellChecker.py:152
+msgid "No dictionary found for this page"
+msgstr "本頁面沒有發現字典"
+
+#: lib\pwiki\StringOps.py:930
+msgid "Inval. timestamp"
+msgstr "無效時間戳"
+
+#: lib\pwiki\TextTree.py:205 lib\pwiki\TextTree.py:240
+msgid "<No title>"
+msgstr "<無標題>"
+
+#: lib\pwiki\TextTree.py:361
+msgid "Select wiki for favorites"
+msgstr "選擇放入收藏夾的維基"
+
+#: lib\pwiki\Trashcan.py:262
+msgid "Trashcan data damaged"
+msgstr "垃圾箱數據被損壞"
+
+#: lib\pwiki\TrashcanGui.py:201
+msgid "Delete %i elements from trashcan?"
+msgstr "是否從垃圾箱刪除%i？"
+
+#: lib\pwiki\TrashcanGui.py:202 lib\pwiki\TrashcanGui.py:228
+msgid "Delete from trashcan"
+msgstr "從垃圾箱刪除"
+
+#: lib\pwiki\TrashcanGui.py:227
+msgid "Delete all elements from trashcan?"
+msgstr "是否清空垃圾箱？"
+
+#: lib\pwiki\ViHelper.py:409 lib\pwiki\WikiTxtCtrl.py:3426
+msgid "No more fields in this 'form' page"
+msgstr "在該“表單”頁沒有更多域。"
+
+#: lib\pwiki\ViHelper.py:1486
+msgid "Follow Hint:"
+msgstr "按照提示："
+
+#: lib\pwiki\ViHelper.py:2514 lib\pwiki\ViHelper.py:2539
+msgid "Enter wikiword..."
+msgstr "輸入維基字..."
+
+#: lib\pwiki\ViHelper.py:2532
+msgid "Enter wikiword (or text) to search for..."
+msgstr "輸入維基字（或文本）用于檢索..."
+
+#: lib\pwiki\ViHelper.py:2598
+msgid "Page has no parents"
+msgstr "頁面沒有上一級"
+
+#: lib\pwiki\WikiExceptions.py:81
+msgid "Multiple words rename to same word"
+msgstr "多個單詞修改為同一單詞"
+
+#: lib\pwiki\WikiHtmlView.py:616 lib\pwiki\WikiHtmlView2.py:1499
+#: lib\pwiki\WikiTxtCtrl.py:2636
+msgid "Folder does not exist"
+msgstr "文件夾不存在"
+
+#: lib\pwiki\WikiHtmlView.py:712 lib\pwiki\WikiHtmlViewIE.py:536
+#: lib\pwiki\WikiHtmlViewWK.py:1032 lib\pwiki\WikiHtmlViewWKNew.py:1036
+#: lib\pwiki\WikiTxtCtrl.py:3687
+msgid "Link to page: %s"
+msgstr "鏈接頁面: %s"
+
+#: lib\pwiki\WikiHtmlView.py:737
+msgid "Activate New Window"
+msgstr "激活新窗口"
+
+#: lib\pwiki\WikiHtmlView2.py:84 lib\pwiki\WikiHtmlViewWK.py:75
+#: lib\pwiki\WikiHtmlViewWKNew.py:75 lib\pwiki\WikiTxtDialogs.py:48
+msgid "Incremental search (ENTER/ESC to finish)"
+msgstr "增量查找(按ENTER/ESC完成)"
+
+#: lib\pwiki\WikiHtmlViewWK.py:802 lib\pwiki\WikiHtmlViewWKNew.py:806
+msgid "Open Link (External)"
+msgstr "打開（外部）鏈接"
+
+#: lib\pwiki\WikiHtmlViewWK.py:805 lib\pwiki\WikiHtmlViewWKNew.py:809
+msgid "Follow &Link"
+msgstr "打開鏈接(&L)"
+
+#: lib\pwiki\WikiHtmlViewWK.py:817 lib\pwiki\WikiHtmlViewWKNew.py:821
+msgid "Follow Link in New &Tab"
+msgstr "在新選項卡打開鏈接(&T)"
+
+#: lib\pwiki\WikiHtmlViewWK.py:824 lib\pwiki\WikiHtmlViewWKNew.py:828
+msgid "Follow Link in New Back&ground Tab"
+msgstr "在新背景選項卡打開鏈接(&G)"
+
+#: lib\pwiki\WikiTreeCtrl.py:562
+msgid "Views"
+msgstr "視圖"
+
+#: lib\pwiki\WikiTreeCtrl.py:1001 lib\pwiki\WikiTreeCtrl.py:1008
+msgid "searches"
+msgstr "檢索結果"
+
+#: lib\pwiki\WikiTreeCtrl.py:1090
+msgid "modified-within"
+msgstr "修改范圍"
+
+#: lib\pwiki\WikiTreeCtrl.py:1118
+msgid "1 day"
+msgstr "1天"
+
+#: lib\pwiki\WikiTreeCtrl.py:1120
+msgid "%i days"
+msgstr "%i 天"
+
+#: lib\pwiki\WikiTreeCtrl.py:1158 lib\pwiki\WikiTreeCtrl.py:1165
+msgid "parentless-nodes"
+msgstr "葉子結點"
+
+#: lib\pwiki\WikiTreeCtrl.py:1198 lib\pwiki\WikiTreeCtrl.py:1205
+msgid "undefined-nodes"
+msgstr "未定義結點"
+
+#: lib\pwiki\WikiTreeCtrl.py:1235
+msgid "Func. pages"
+msgstr "功能頁"
+
+#: lib\pwiki\WikiTreeCtrl.py:1369
+msgid "Add icon attribute"
+msgstr "增加圖標屬性"
+
+#: lib\pwiki\WikiTreeCtrl.py:1376
+msgid "Add color attribute"
+msgstr "增加顏色屬性"
+
+#: lib\pwiki\WikiTreeCtrl.py:2003
+msgid "Append Wiki Word"
+msgstr "追加維基字"
+
+#: lib\pwiki\WikiTreeCtrl.py:2018
+msgid "Prepend Wiki Word"
+msgstr "插入關鍵字"
+
+#: lib\pwiki\WikiTxtCtrl.py:450
+msgid "File(s)"
+msgstr "文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:451
+msgid "Bitmap image"
+msgstr "位圖"
+
+#: lib\pwiki\WikiTxtCtrl.py:452
+msgid "Windows meta file"
+msgstr "Windows元文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:453
+msgid "Plain text"
+msgstr "普通文本"
+
+#: lib\pwiki\WikiTxtCtrl.py:454
+msgid "HTML"
+msgstr "HTML"
+
+#: lib\pwiki\WikiTxtCtrl.py:1558
+msgid "Select Template"
+msgstr "選擇模板"
+
+#: lib\pwiki\WikiTxtCtrl.py:1560
+msgid "Select Template (deletes current content!)"
+msgstr "選擇模板（清除當前內容！）"
+
+#: lib\pwiki\WikiTxtCtrl.py:1696
+msgid "Use Template"
+msgstr "使用模板"
+
+#: lib\pwiki\WikiTxtCtrl.py:2666 lib\pwiki\WikiTxtCtrl.py:2705
+msgid "File does not exist"
+msgstr "文件不存在"
+
+#: lib\pwiki\WikiTxtCtrl.py:2672
+msgid "Are you sure you want to delete the file: %s"
+msgstr "你確定要刪除文件'%s'嗎?"
+
+#: lib\pwiki\WikiTxtCtrl.py:2673
+msgid "Delete File"
+msgstr "刪除文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:2714
+msgid "Enter new name for file: {0}"
+msgstr "輸入新文件名：{0}"
+
+#: lib\pwiki\WikiTxtCtrl.py:2715
+msgid "Rename File"
+msgstr "改名文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:2730
+msgid "Target is not a file"
+msgstr "目標不是一個文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:2734
+msgid "Target file exists already. Overwrite?"
+msgstr "目標文件已存在。是否覆蓋？"
+
+#: lib\pwiki\WikiTxtCtrl.py:2735
+msgid "Overwrite File"
+msgstr "覆寫文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:2824
+msgid ""
+"Set in menu \"Wiki\", item \"Options...\", options page \"Security\", \n"
+"item \"Script security\" an appropriate value to execute a script."
+msgstr ""
+"在菜單\"維基\"，菜單項\"選項...\"，選項卡\"安全性\", \n"
+"項目\"腳本安全性\"選擇相應的數據用于執行腳本。"
+
+#: lib\pwiki\WikiTxtCtrl.py:2827
+msgid "Script execution disabled"
+msgstr "腳本執行被禁用"
+
+#: lib\pwiki\WikiTxtCtrl.py:2899
+msgid ""
+"\n"
+"Exception: %s"
+msgstr ""
+"\n"
+"異常: %s"
+
+#: lib\pwiki\WikiTxtCtrl.py:3637
+msgid "Line: %d Col: %d Pos: %d"
+msgstr "行: %d 列: %d 位置: %d"
+
+#: lib\pwiki\WikiTxtCtrl.py:3743
+msgid "Not a valid image"
+msgstr "不是有效圖像"
+
+#: lib\pwiki\WikiTxtCtrl.py:3746
+msgid "Image does not exist"
+msgstr "圖片不存在"
+
+#: lib\pwiki\WikiTxtCtrl.py:3924
+msgid "Couldn't copy file"
+msgstr "無法復制文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:4224
+msgid "Ignore"
+msgstr "忽略"
+
+#: lib\pwiki\WikiTxtCtrl.py:4225
+msgid "Add Globally"
+msgstr "全局增加"
+
+#: lib\pwiki\WikiTxtCtrl.py:4226
+msgid "Add Locally"
+msgstr "本地增加"
+
+#: lib\pwiki\WikiTxtCtrl.py:4236
+msgid "Follow Link"
+msgstr "打開鏈接"
+
+#: lib\pwiki\WikiTxtCtrl.py:4237
+msgid "Follow Link New Tab"
+msgstr "新標簽頁打開鏈接"
+
+#: lib\pwiki\WikiTxtCtrl.py:4238
+msgid "Follow Link New Tab Backgrd."
+msgstr "新標簽頁打開鏈接在后臺"
+
+#: lib\pwiki\WikiTxtCtrl.py:4239
+msgid "Follow Link New Window"
+msgstr "在新窗口打開鏈接"
+
+#: lib\pwiki\WikiTxtCtrl.py:4241
+msgid "Convert Absolute/Relative File URL"
+msgstr "轉換絕對/相對文件URL"
+
+#: lib\pwiki\WikiTxtCtrl.py:4242
+msgid "Open Containing Folder"
+msgstr "打開所在文件夾"
+
+#: lib\pwiki\WikiTxtCtrl.py:4243
+msgid "Rename file"
+msgstr "重命名文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:4244
+msgid "Delete file"
+msgstr "刪除文件"
+
+#: lib\pwiki\WikiTxtCtrl.py:4246
+msgid "Copy anchor URL to clipboard"
+msgstr "復制錨點URL到剪貼板"
+
+#: lib\pwiki\WikiTxtCtrl.py:4248
+msgid "Other..."
+msgstr "其他..."
+
+#: lib\pwiki\WikiTxtCtrl.py:4249
+msgid "Use Template..."
+msgstr "使用模板..."
+
+#: lib\pwiki\WikiTxtCtrl.py:4253
+msgid "Show folding"
+msgstr "顯示折疊"
+
+#: lib\pwiki\WikiTxtCtrl.py:4254
+msgid "Show folding marks and allow folding"
+msgstr "顯示折疊標記并允許折疊"
+
+#: lib\pwiki\WikiTxtCtrl.py:4255
+msgid "&Toggle current folding"
+msgstr "切換當前折疊(&T)"
+
+#: lib\pwiki\WikiTxtCtrl.py:4256
+msgid "Toggle folding of the current line"
+msgstr "切換當前行的折疊狀態"
+
+#: lib\pwiki\WikiTxtCtrl.py:4257
+msgid "&Unfold All"
+msgstr "全部展開(&U)"
+
+#: lib\pwiki\WikiTxtCtrl.py:4258
+msgid "Unfold everything in current editor"
+msgstr "展開當前編輯器所有內容"
+
+#: lib\pwiki\WikiTxtCtrl.py:4259
+msgid "&Fold All"
+msgstr "全部折疊(&F)"
+
+#: lib\pwiki\WikiTxtCtrl.py:4260
+msgid "Fold everything in current editor"
+msgstr "折疊當前編輯器所有內容"
+
+#: lib\pwiki\WindowsHacks.py:318
+msgid "Copying from %s to %s failed. SHFileOperation result no. %s"
+msgstr "從 %s 向 %s 復制失敗。SHFileOperation返回結果. %s"
+
+#: lib\pwiki\WindowsHacks.py:322
+msgid "Moving from %s to %s failed. SHFileOperation result no. %s"
+msgstr "從 %s 向 %s 移動失敗。SHFileOperation返回結果. %s"
+
+#: lib\pwiki\WindowsHacks.py:326
+msgid "Deleting %s failed. SHFileOperation result no. %s"
+msgstr "刪除失敗：%s。SHFileOperation返回結果. %s"
+
+#: lib\pwiki\timeView\DatedWikiWordFilters.py:131
+msgid "Modified"
+msgstr "修改"
+
+#: lib\pwiki\timeView\TimeViewCtrl.py:50
+msgid "Versions"
+msgstr "版本集"
+
+#: lib\pwiki\timeView\TimelinePanel.py:799
+msgid "Show dates without associated wiki words"
+msgstr "顯示日期（不關聯維基字）"
+
+#: lib\pwiki\timeView\TimelinePanel.py:801
+msgid "List dates ascending or descending"
+msgstr "日期列表升序或降序排列"
+
+#: lib\pwiki\timeView\Versioning.py:176 lib\pwiki\timeView\Versioning.py:443
+#: lib\pwiki\timeView\Versioning.py:455
+msgid "Versioning data damaged"
+msgstr "版本化數據被損壞"
+
+#: lib\pwiki\timeView\VersioningGui.py:225
+msgid "Deleting in-between versions is not supported yet"
+msgstr "刪除區間版本目前尚未支持"
+
+#: lib\pwiki\timeView\VersioningGui.py:228
+msgid "Do you want to delete this version?"
+msgstr "你想要刪除該版本嗎?"
+
+#: lib\pwiki\timeView\VersioningGui.py:229
+#: lib\pwiki\timeView\VersioningGui.py:814
+msgid "Delete version"
+msgstr "刪除版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:241
+#: lib\pwiki\timeView\VersioningGui.py:273
+msgid "Do you want to delete all version data of this page?"
+msgstr "你想要刪除本頁所有版本數據嗎?"
+
+#: lib\pwiki\timeView\VersioningGui.py:242
+#: lib\pwiki\timeView\VersioningGui.py:274
+#: lib\pwiki\timeView\VersioningGui.py:819
+msgid "Delete all versions"
+msgstr "刪除所有版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:288
+#: lib\pwiki\timeView\VersioningGui.py:349
+#: lib\pwiki\timeView\VersioningGui.py:577
+msgid "Current"
+msgstr "當前"
+
+#: lib\pwiki\timeView\VersioningGui.py:806
+msgid "Diff inline"
+msgstr "內部差異"
+
+#: lib\pwiki\timeView\VersioningGui.py:807
+msgid "Show the difference between two versions inline"
+msgstr "查看兩種版本之間的內在差異"
+
+#: lib\pwiki\timeView\VersioningGui.py:809
+msgid "Set diff from"
+msgstr "設置差異于"
+
+#: lib\pwiki\timeView\VersioningGui.py:810
+msgid "Set the \"from\" version in diff"
+msgstr "設置差異比較“源”版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:811
+msgid "Set diff to"
+msgstr "設置差異到"
+
+#: lib\pwiki\timeView\VersioningGui.py:812
+msgid "Set the \"to\" version in diff"
+msgstr "設置差異比較“目的”版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:815
+msgid "Delete selected version"
+msgstr "刪除已選版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:817
+msgid "Add version"
+msgstr "增加版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:818
+msgid "Add a new version"
+msgstr "增加新版本"
+
+#: lib\pwiki\timeView\VersioningGui.py:820
+msgid "Delete all versions of current page"
+msgstr "刪除當前頁所有版本"
+
+#: lib\pwiki\timeView\WikiWideHistoryGui.py:20
+msgid "Page Name"
+msgstr "頁面名"
+
+#: lib\pwiki\timeView\WikiWideHistoryGui.py:21
+msgid "Visited"
+msgstr "已訪問過"
+
+#: lib\pwiki\timeView\WikiWideHistoryGui.py:380
+msgid "Clear history"
+msgstr "清空歷史記錄"
+
+#: lib\pwiki\wikidata\FileStorage.py:194
+msgid "File compare error, file not readable or changed during compare"
+msgstr "文件比較錯誤，文件不可讀或比較時被修改"
+
+#: lib\pwiki\wikidata\FileStorage.py:216
+msgid "Path '%s' must point to an existing file"
+msgstr "路徑'%s'必須指向已存在文件"
+
+#: lib\pwiki\wikidata\FileStorage.py:233
+msgid "Internal error: Bad source file name"
+msgstr "內部錯誤：錯誤源文件名"
+
+#: lib\pwiki\wikidata\FileStorage.py:298
+msgid "Copy of file '%s' couldn't be created"
+msgstr "無法創建文件副本'%s'"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:70
+msgid "Database exists already and is currently in use"
+msgstr "數據庫已經存在并且正被使用"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:75
+#: lib\pwiki\wikidata\WikiDataManager.py:2234
+msgid "Data handler %s not available"
+msgstr "數據句柄“%s”不可用"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:96
+msgid ""
+"Database is already in use with database handler \"%s\". Can't open with "
+"different handler."
+msgstr "數據庫已被數據庫句柄'%s'使用。無法使用不同句柄打開。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:102
+msgid ""
+"Database is already in use with wiki language handler \"%s\". Can't open "
+"with different handler."
+msgstr "數據庫已被維基語言句柄'%s'使用。無法使用不同句柄打開。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:306
+msgid "Wiki is probably already in use by other instance"
+msgstr "維基很可能被其他實例使用。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:330
+#: lib\pwiki\wikidata\WikiDataManager.py:340
+msgid "Wiki configuration file is corrupted"
+msgstr "維基配置文件沖突"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:373
+msgid ""
+"No data handler information found, probably \"Original Gadfly\" is right."
+msgstr "沒有發現數據句柄信息，可能\"原始的Gadfly\"是正確的。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:379
+msgid "Required data handler \"%s\" unknown to WikidPad"
+msgstr "WikidPad遇到未知請求數據句柄 \"%s\""
+
+#: lib\pwiki\wikidata\WikiDataManager.py:385
+msgid "Error on initializing data handler \"%s\""
+msgstr "初始化數據句柄\"%s\"出錯"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:396
+msgid "Required wiki language handler \"%s\" not available"
+msgstr "請求的維基語言句柄\"%s\"不可用。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:420
+msgid "Recovery mode not supported"
+msgstr "不支持修復模式"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1046
+msgid "Word '%s' not in wiki"
+msgstr "字'%s'不存在于維基"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1352
+#: lib\pwiki\wikidata\WikiDataManager.py:1441
+msgid "Update basic link info"
+msgstr "更新基本鏈接信息"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1368
+msgid "Starting update thread"
+msgstr "開始更新進程"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1461
+msgid "Update attributes of %s"
+msgstr "更新%s屬性集"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1485
+msgid "Update syntax of %s"
+msgstr "更新語法于：%s。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1506
+msgid "Update index of %s"
+msgstr "更新索引于：%s。"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1526
+msgid "Final cleanup"
+msgstr "清除完成"
+
+#: lib\pwiki\wikidata\WikiDataManager.py:1621
+msgid "Cannot rename '%s' to '%s', '%s' already exists"
+msgstr "無法修改'%s'為'%s'，%s'已存在。"
+
+#: lib\pwiki\wikidata\compact_sqlite\DbStructure.py:734
+#: lib\pwiki\wikidata\original_gadfly\DbStructure.py:734
+#: lib\pwiki\wikidata\original_sqlite\DbStructure.py:706
+msgid "database already exists at location: %s"
+msgstr "數據庫已存在于位置： %s"
+
+#: lib\pwiki\wikidata\compact_sqlite\DbStructure.py:924
+#: lib\pwiki\wikidata\original_gadfly\DbStructure.py:790
+msgid "Update needed"
+msgstr "需要升級"
+
+#: lib\pwiki\wikidata\compact_sqlite\DbStructure.py:927
+#: lib\pwiki\wikidata\original_gadfly\DbStructure.py:793
+#: lib\pwiki\wikidata\original_sqlite\DbStructure.py:836
+msgid "Database has unknown format branchtag='%s'"
+msgstr "數據庫含有未知格式分支標簽='%s'"
+
+#: lib\pwiki\wikidata\compact_sqlite\DbStructure.py:936
+#: lib\pwiki\wikidata\original_gadfly\DbStructure.py:802
+#: lib\pwiki\wikidata\original_sqlite\DbStructure.py:845
+msgid "Database has unknown format version='%i'"
+msgstr "數據庫含有未知格式版本='%i'"
+
+#: lib\pwiki\wikidata\compact_sqlite\DbStructure.py:940
+#: lib\pwiki\wikidata\original_gadfly\DbStructure.py:806
+#: lib\pwiki\wikidata\original_sqlite\DbStructure.py:849
+msgid "Update needed, current format version='%i'"
+msgstr "需要升級，當前格式版本='%i'"
+
+#: lib\pwiki\wikidata\compact_sqlite\DbStructure.py:943
+#: lib\pwiki\wikidata\original_gadfly\DbStructure.py:809
+#: lib\pwiki\wikidata\original_sqlite\DbStructure.py:852
+msgid "Database format is up to date"
+msgstr "數據庫格式已更新"
+
+#: lib\pwiki\wikidata\compact_sqlite\WikiData.py:231
+msgid "Wiki page not found: %s"
+msgstr "沒有發現維基頁: %s"
+
+#: lib\pwiki\wikidata\compact_sqlite\WikiData.py:554
+#: lib\pwiki\wikidata\original_gadfly\WikiData.py:525
+#: lib\pwiki\wikidata\original_sqlite\WikiData.py:579
+msgid "You cannot delete the root wiki node"
+msgstr "你不能刪除維基根結點"
+
+#: lib\pwiki\wikidata\original_gadfly\WikiData.py:1157
+#: lib\pwiki\wikidata\original_sqlite\WikiData.py:1326
+msgid "Wiki page not found (no path information) for word: %s"
+msgstr "沒有找到匹配維基字“%s”的相關維基頁(無路徑信息)。"
+
+#: lib\pwiki\wikidata\original_gadfly\WikiData.py:1175
+#: lib\pwiki\wikidata\original_gadfly\WikiData.py:1189
+#: lib\pwiki\wikidata\original_sqlite\WikiData.py:1344
+#: lib\pwiki\wikidata\original_sqlite\WikiData.py:1358
+msgid "Wiki page not found (bad path information) for word: %s"
+msgstr "沒有找到匹配維基字“%s”的相關維基頁(不良路徑信息)。"
+
+#~ msgid "File dropping"
+#~ msgstr "丟失文件"
+
+#~ msgid ""
+#~ "\n"
+#~ "<html>\n"
+#~ "<body bgcolor=\"#FFFFFF\">\n"
+#~ "    <center>\n"
+#~ "        <table bgcolor=\"#CCCCCC\" width=\"100%%\" cellspacing=\"0\" "
+#~ "cellpadding=\"0\" border=\"1\">\n"
+#~ "            <tr>\n"
+#~ "                <td align=\"center\"><h2>%s</h2></td>\n"
+#~ "            </tr>\n"
+#~ "        </table>\n"
+#~ "\n"
+#~ "        <p>\n"
+#~ "wikidPad is a Wiki-like notebook for storing your thoughts, ideas, todo "
+#~ "lists, contacts, or anything else you can think of to write down.\n"
+#~ "What makes wikidPad different from other notepad applications is the ease "
+#~ "with which you can cross-link your information.        </p>        \n"
+#~ "        <br><br>\n"
+#~ "\n"
+#~ "        <table border=0 cellpadding=1 cellspacing=0>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Author:</b></font></td><td nowrap><font size=\"3\">Michael "
+#~ "Butscher</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Email:</b></font></td><td nowrap><font size=\"3\">mbutscher@gmx."
+#~ "de</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>URL:</b></font></td><td nowrap><font size=\"3\">http://www."
+#~ "mbutscher.de/software.html</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Author:</b></font></td><td nowrap><font size=\"3\">Jason Horman</"
+#~ "font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Email:</b></font></td><td nowrap><font size="
+#~ "\"3\">wikidpad@jhorman.org</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>URL:</b></font></td><td nowrap><font size=\"3\">http://www."
+#~ "jhorman.org/wikidPad/</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Author:</b></font></td><td nowrap><font size=\"3\">Gerhard "
+#~ "Reitmayr</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Email:</b></font></td><td nowrap><font size=\"3\">gerhard."
+#~ "reitmayr@gmail.com</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"left\" colspan=\"2\" "
+#~ "nowrap><font size=\"3\"><b>Translations:</b></font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Chinese:</b></font></td><td nowrap><font size=\"3\">yuxiaoxu@msn."
+#~ "com</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Hungarian:</b></font></td><td nowrap><font size=\"3\">Trk rpd</"
+#~ "font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Russian:</b></font></td><td nowrap><font size=\"3\">Oleg "
+#~ "Domanov</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size="
+#~ "\"3\"><b>Swedish:</b></font></td><td nowrap><font size=\"3\">Stefan Berg</"
+#~ "font></td></tr>\n"
+#~ "        </table>\n"
+#~ "    </center>\n"
+#~ "    \n"
+#~ "    \n"
+#~ "\n"
+#~ "    \n"
+#~ "    <hr />\n"
+#~ "    \n"
+#~ "    <p>Your configuration directory is: <b>%s</b><br />\n"
+#~ "    Sqlite version: <b>%s</b><br />\n"
+#~ "    wxPython version: <b>%s</b>\n"
+#~ "    </p>\n"
+#~ "    \n"
+#~ "</body>\n"
+#~ "</html>\n"
+#~ msgstr ""
+#~ "\n"
+#~ "<html>\n"
+#~ "<body bgcolor=\"#FFFFFF\">\n"
+#~ "    <center>\n"
+#~ "        <table bgcolor=\"#CCCCCC\" width=\"100%%\" cellspacing=\"0\" "
+#~ "cellpadding=\"0\" border=\"1\">\n"
+#~ "            <tr>\n"
+#~ "                <td align=\"center\"><h2>%s</h2></td>\n"
+#~ "            </tr>\n"
+#~ "        </table>\n"
+#~ "\n"
+#~ "        <p align=left>\n"
+#~ "wikidPad是維基風格化筆記，用于保存你的思想、方法、待辦<BR>事項、往來以及任"
+#~ "何其他你想記錄下來的。<BR>\n"
+#~ "wikidPad與其他筆記類應用軟件相比與眾不同的地方是<BR>你可以很方便地對你的信"
+#~ "息進行超鏈接。</p>        \n"
+#~ "        <br><br>\n"
+#~ "\n"
+#~ "        <table border=0 cellpadding=1 cellspacing=0>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>作"
+#~ "者：</b></font></td><td nowrap><font size=\"3\">Michael Butscher</font></"
+#~ "td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>電"
+#~ "子信箱：</b></font></td><td nowrap><font size=\"3\">mbutscher@gmx.de</"
+#~ "font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>主"
+#~ "頁：</b></font></td><td nowrap><font size=\"3\">http://www.mbutscher.de/"
+#~ "software.html</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>作"
+#~ "者：</b></font></td><td nowrap><font size=\"3\">Jason Horman</font></td></"
+#~ "tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>電"
+#~ "子信箱：</b></font></td><td nowrap><font size=\"3\">wikidpad@jhorman.org</"
+#~ "font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>主"
+#~ "頁：</b></font></td><td nowrap><font size=\"3\">http://www.jhorman.org/"
+#~ "wikidPad/</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>作"
+#~ "者：</b></font></td><td nowrap><font size=\"3\">Gerhard Reitmayr</font></"
+#~ "td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>電"
+#~ "子信箱：</b></font></td><td nowrap><font size=\"3\">gerhard."
+#~ "reitmayr@gmail.com</font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\">&nbsp;</td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"left\" colspan=\"2\" "
+#~ "nowrap><font size=\"3\"><b>翻譯:</b></font></td></tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>簡"
+#~ "體中文:</b></font></td><td nowrap><font size=\"3\">yuxiaoxu@msn.com</"
+#~ "font></td></tr>\n"
+#~ "              <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b匈"
+#~ "牙利語:</b></font></td><td nowrap><font size=\"3\">Trk rpd</font></td></"
+#~ "tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>俄"
+#~ "語:</b></font></td><td nowrap><font size=\"3\">Oleg Domanov</font></td></"
+#~ "tr>\n"
+#~ "            <tr><td width=\"30%%\" align=\"right\"><font size=\"3\"><b>瑞"
+#~ "典語:</b></font></td><td nowrap><font size=\"3\">Stefan Berg</font></td></"
+#~ "tr>\n"
+#~ "        </table>\n"
+#~ "    </center>\n"
+#~ "    \n"
+#~ "    \n"
+#~ "    \n"
+#~ "    \n"
+#~ "    <hr />\n"
+#~ "    \n"
+#~ "    <p>你的配置文件目錄： <b>%s</b><br />\n"
+#~ "    Sqlite版本號：<b>%s</b><br />\n"
+#~ "    wxPython版本號：<b>%s</b>\n"
+#~ "    </p>\n"
+#~ "    \n"
+#~ "</body>\n"
+#~ "</html>\n"
+
+#~ msgid ""
+#~ "Options:\n"
+#~ "\n"
+#~ "    -h, --help: Show this message box\n"
+#~ "    -w, --wiki  <wiki path>: set the wiki to open on startup\n"
+#~ "    -p, --page  <page name>: set the page to open on startup\n"
+#~ "    -x, --exit: exit immediately after performing command line actions\n"
+#~ "    --export-what <what>: choose if you want to export page, subtree or "
+#~ "wiki\n"
+#~ "    --export-type <type>: tag of the export type\n"
+#~ "    --export-dest <destination path>: path of destination directory for "
+#~ "export\n"
+#~ "    --export-saved <name of saved export>: alternatively name of saved "
+#~ "export to run\n"
+#~ "    --export-compfn: Use compatible filenames on export\n"
+#~ "    --continuous-export-saved <name of saved export>: continuous export "
+#~ "to start with\n"
+#~ "    --rebuild: rebuild the Wiki database\n"
+#~ "    --no-recent: Do not record opened wikis in recently opened wikis "
+#~ "list\n"
+#~ "    --preview: If no pages are given, all opened pages from previous "
+#~ "session\n"
+#~ "               are opened in preview mode. Otherwise all pages given "
+#~ "after that\n"
+#~ "               option are opened in preview mode.\n"
+#~ "    --editor: Same as --preview but opens in text editor mode.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "選項:\n"
+#~ "\n"
+#~ "    -h, --help: 顯示本對話框\n"
+#~ "    -w, --wiki  <維基路徑>: 設置啟動時打開維基文件路徑\n"
+#~ "    -p, --page  <頁面名>: 設置啟動時打開維基頁名稱\n"
+#~ "    -x, --exit: 執行完命令行操作后立即退出\n"
+#~ "    --export-what <what>: 選擇你想導出的頁面、子樹或維基\n"
+#~ "    --export-type <類型>: 導出類型標簽\n"
+#~ "    --export-dest <目標路徑>: 導出目的文件夾路徑\n"
+#~ "    --export-saved <已保存輸出名稱>: 用于運行的備選輸出文件名\n"
+#~ "    --export-compfn: 導出時使用兼容文件名\n"
+#~ "    --continuous-export-saved <已保存輸出名稱>：從何處開始陸續導出\n"
+#~ "    --rebuild: 重建維基庫\n"
+#~ "    --no-recent:在最近打開維基列表中不記錄已打開維基\n"
+#~ "    --preview: 如果沒有給定頁面，上一次運行時所有打開頁將按預覽模式打"
+#~ "開。\n"
+#~ "               否則將根據選項后的給定頁面按預覽模式打開。\n"
+#~ "    --editor: 與“--preview”相似，只是打開時進入文本編輯模式。\n"
+#~ "\n"
+
+#~ msgid "HTML (Webkit)"
+#~ msgstr "HTML（Webkit）"
+
+#~ msgid "Enter new name"
+#~ msgstr "輸入新名稱"
+
+#~ msgid "Update page %s"
+#~ msgstr "更新頁%s"
+
+#~ msgid "Set page &list"
+#~ msgstr "設置頁面列表(&L)"
+
+#~ msgid "'%s' is already alias for the wiki word(s): %s"
+#~ msgstr "'%s'已存在于維基字別名列表: %s"
+
+#~ msgid "New Tab"
+#~ msgstr "新標簽頁"
+
+#~ msgid "Opened wiki word '%s'"
+#~ msgstr "已打開維基字 '%s'"
+
+#~ msgid "Internal Error"
+#~ msgstr "內部錯誤"
+
+#~ msgid "Rename links when renaming wiki word:"
+#~ msgstr "Byt namn p? l?nkar vid namnbyte p? wikiord:"
+
+#~ msgid "Cannot rename to '%s', word already exists"
+#~ msgstr "Kan inte byta namn till '%s', ordet finns redan"
+
+#~ msgid "\"And&ed\" regex"
+#~ msgstr "R&egex med \"and\""
+
+#~ msgid "C&ount Occurrences"
+#~ msgstr "R?kna f?rek&omster"
+
+#~ msgid "Context characters"
+#~ msgstr "Angr?nsande tecken"
+
+#~ msgid "Search Options"
+#~ msgstr "S?kalternativ"
+
+#~ msgid "Searching..."
+#~ msgstr "S?ker..."
+
+#~ msgid "Time view auto-hide"
+#~ msgstr "D?lj tidsvy automatiskt"
+
+#~ msgid "Time view pos.:"
+#~ msgstr "Tidsvyns position:"
+
+#~ msgid "Time view"
+#~ msgstr "Tidsvy"
+
+#~ msgid "Invalid AppLock.lock file\n"
+#~ msgstr "Ogiltig AppLock.lock-fil\n"
+
+#~ msgid "Calling PropertyChecker.appendLogMessage while outside of checkPage"
+#~ msgstr "Calling PropertyChecker.appendLogMessage while outside of checkPage"
+
+#~ msgid "Sample"
+#~ msgstr "Exempel"
+
+#~ msgid "    Clipboard Catcher"
+#~ msgstr "    Urklippsf?ngare"
+
+#~ msgid "  Headings"
+#~ msgstr "  Rubriker"

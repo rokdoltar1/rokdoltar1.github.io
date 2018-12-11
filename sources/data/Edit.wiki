@@ -1,0 +1,5 @@
+﻿++ Edit
+
+file:///C:/WikidPad/appbase.css
+file:///C:/WikidPad/export/wikistyle.css
+

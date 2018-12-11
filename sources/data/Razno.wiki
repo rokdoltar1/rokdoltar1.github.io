@@ -1,0 +1,20 @@
+﻿++ Razno
+
+
++++ Avtobus Vozni Red
+
+http://www.lpp.si/sites/default/files/lpp_vozniredi/iskalnik/index.php?stop=0&l=25
+http://www.lpp.si/sites/default/files/lpp_vozniredi/iskalnik/index.php?stop=0&l=11
+http://www.lpp.si/sites/default/files/lpp_vozniredi/iskalnik/index.php?stop=0&l=11B
+
++++ googleSluzba
+
+https://careers.google.com/jobs#!t=jo&jid=/google/lead-software-engineer-kubernetes-warsaw-financial-center-emilii-plater-53-3873500119&
+https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-345-spear-st-san-francisco-ca-94105-usa-2683110138&f=true&
+https://careers.google.com/jobs#!t=jo&jid=/google/software-developer-university-graduate-waterloo-on-canada-2778780184&
+https://careers.google.com/jobs#!t=jo&jid=/youtube/software-engineer-university-graduate-google-building-901-901-cherry-ave-san-2787210317&
+https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-university-graduate-scholle-center-building-4-19510-jamboree-3603280693&
+https://careers.google.com/jobs#!t=jo&jid=/google/full-stack-software-engineer-haifa-israel-6470016&
+https://careers.google.com/jobs#!t=jo&jid=/chronicle/software-engineer-guardian-of-the-ui-google-building-41-1600-amphitheatre-3681910288&
+https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-audio-and-signal-345-spear-st-san-francisco-ca-94105-usa-3710340031&
+https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-audio-and-signal-1160-n-mathilda-ave-sunnyvale-ca-94089-3709890022&

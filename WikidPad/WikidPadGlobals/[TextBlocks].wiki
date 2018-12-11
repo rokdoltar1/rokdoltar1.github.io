@@ -1,0 +1,5 @@
+﻿importance: high;a=[importance: high]\n
+importance: low;a=[importance: low]\n
+tree_position: 0;a=[tree_position: 0]\n
+wrap: 80;a=[wrap: 80]\n
+camelCaseWordsEnabled: false;a=[camelCaseWordsEnabled: false]\n
