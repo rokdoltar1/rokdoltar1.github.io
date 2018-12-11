@@ -148,11 +148,11 @@ a[title]:hover:after {
 }
 
 #main-content a:visited:before {
-	content: "\21E2 ";
+	content: "\21E2  ";
 }
 
 li::before {
-	content: "\21E2 ";
+	content: "\21E2  ";
 	font-weight: bold;
 }
 
@@ -163,7 +163,7 @@ li::before {
 
 li.todo::before {
 	/* content: "\2714 "; */
-	content: "\21E2 ";
+	content: "\21E2  ";
 	/* font-weight: bold; */
 }
 
