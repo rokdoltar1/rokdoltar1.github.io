@@ -1,0 +1,8 @@
+
+
+Version: 'wikidPad 2.4alpha01' Session start: 2018-12-11 06:06:33
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 1969, in <lambda>
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4727, in showOptionsDialog
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\OptionsDialog.py", line 951, in __init__
+AttributeError: 'Panel' object has no attribute 'SetValue'
