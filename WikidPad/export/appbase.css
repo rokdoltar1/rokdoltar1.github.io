@@ -1,10 +1,17 @@
+
+
+
+	/* TO NE VALJA */
+
+
 body {
 	font-size: 12px;
 	/* font-family: Courier New; */
 	/* font-family: Consolas; */
 	font-family: Courier New, monospace;
 	text-shadow: hsla(200, 20%, 90%, 1) 1px 0 5px;
-	background: #f0f0f0;
+	/* background: #f0f0f0; */
+	background: #A00;
 
 }
 

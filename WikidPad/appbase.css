@@ -1,9 +1,9 @@
 body {
 	font-size: 12px;
 	/* font-family: Courier New; */
-	font-family: Consolas;
+	/* font-family: Consolas; */
+	font-family: Courier New, monospace;
 	text-shadow: hsla(200, 20%, 90%, 1) 1px 0 5px;
-
 	background: #f0f0f0;
 
 }
@@ -151,7 +151,7 @@ li::before {
 }
 
 ::selection {
-    color: red; 
+    color: red;
     background: hsla(200, 20%, 90%, 1);
 }
 
@@ -198,4 +198,3 @@ ul {
 .rgba-primary-2 { color: rgba( 72,101,125,1) }
 .rgba-primary-3 { color: rgba( 18, 59, 94,1) }
 .rgba-primary-4 { color: rgba(  4, 45, 78,1) }
-
