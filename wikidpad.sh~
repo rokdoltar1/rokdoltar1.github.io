@@ -1,0 +1,7 @@
+
+# nohup wine ./WikidPad/WikidPad.exe > /dev/null 2>&1 &
+# nohup wine ./WikidPad/WikidPad.exe &
+
+nohup wine /home/rok/development/GitHub/rokdoltar1.github.io/WikidPad/WikidPad.exe &
+
+

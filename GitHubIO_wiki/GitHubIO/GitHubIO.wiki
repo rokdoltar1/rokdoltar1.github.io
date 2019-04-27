@@ -1,0 +1,55 @@
+[main]
+first_wiki_word = 
+log_window_autoshow = Gray
+wikipagefiles_writefilemode = 0
+wiki_wikilanguage = wikidpad_default_2_0
+wiki_onopen_tabssubctrl = 
+wiki_readonly = False
+wiki_icon = 
+versioning_completesteps = 10
+export_default_dir = 
+filestorage_identity_moddatemustmatch = False
+trashcan_askondelete = True
+wiki_onopen_rebuild = 0
+trashcan_maxnoofbags = 200
+indexsearch_enabled = False
+tree_expandednodes_rememberduration = 2
+indexsearch_formatno = 1
+tabhistory_maxentries = 25
+wikipagefiles_maxnamelength = 120
+trashcan_storagelocation = 0
+versioning_storagelocation = 0
+wikipagetitle_fromlinktitle = False
+footnotes_as_wikiwords = False
+wiki_mainarea_auiperspective = v1/panel5cc45632000000ca00000002=*DocPagePresenter=GitHubIO=0=textedit\x7cwikipage/GitHubIO@layout2|name=dummy;caption=;state=67372030;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=698;besth=391;minw=698;minh=391;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;notebookid=-1;transparent=255|name=panel5cc45632000000ca00000002;caption=;state=67372028;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;notebookid=-1;transparent=255|dock_size(5,0,0)=202|
+further_wiki_words = 
+headingsasaliases_depth = 0
+template_pagenamesre = ^template/
+wikiwidehistory_maxentries = 100
+wikipagetitleprefix = 
+wiki_lasttabssubctrls = textedit
+tree_expandednodes_descriptorpathes_main = wikipage/GitHubIO
+tree_expandednodes_descriptorpathes_views = 
+hotkey_showhide_bywiki = 
+wiki_linkresolve_caseinsensitive = False
+wikipagetitle_headinglevel = 2
+wikipagefiles_gracefuloutsideaddandremove = True
+wiki_database_type = original_sqlite
+editor_text_mode = False
+wiki_lastactivetabno = 0
+tree_force_scratchpad_visibility = True
+wikipagetitle_creationmode = 1
+filesignature_timecoarsening = 0
+filestorage_identity_filenamemustmatch = False
+filestorage_identity_moddateisenough = False
+wikipagefiles_asciionly = True
+tabs_maxcharacters = 0
+db_pagefile_suffix = .wiki
+wiki_name = GitHubIO
+last_wiki_word = GitHubIO
+tree_last_root_wiki_word = GitHubIO
+
+[wiki_db]
+data_dir = data
+db_filename = 
+

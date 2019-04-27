@@ -34,3 +34,16 @@ Traceback (most recent call last):
   File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\WikiDocument.py", line 259, in __call__
   File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\wikidata\original_sqlite\WikiData.py", line 207, in connect
 pwiki.WikiExceptions.DbWriteAccessError: database is locked [5]
+
+
+Version: 'wikidPad 2.4alpha01' Session start: 2019-04-27 15:13:09
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Configuration.py", line 245, in loadConfig
+FileNotFoundError: [Errno 2] No such file or directory: 'Z:\\home\\rok\\Dropbox\\Public\\ideje_wiki\\Ideje\\Ideje.wiki'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\WikiDocument.py", line 143, in splitConfigPathAndWord
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Configuration.py", line 247, in loadConfig
+pwiki.WikiExceptions.MissingConfigurationFileException: Config file not found
