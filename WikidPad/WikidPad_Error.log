@@ -47,3 +47,254 @@ Traceback (most recent call last):
   File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\WikiDocument.py", line 143, in splitConfigPathAndWord
   File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Configuration.py", line 247, in loadConfig
 pwiki.WikiExceptions.MissingConfigurationFileException: Config file not found
+
+
+Version: 'wikidPad 2.4alpha01' Session start: 2019-04-27 15:23:19
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4802, in OnCmdContinuousExportDialog
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 751, in stopContinuousExport
+    self.tempFileSet.reset()
+AttributeError: 'NoneType' object has no attribute 'reset'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4802, in OnCmdContinuousExportDialog
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4802, in OnCmdContinuousExportDialog
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4802, in OnCmdContinuousExportDialog
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4802, in OnCmdContinuousExportDialog
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 950, in <lambda>
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 5809, in exitWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 5815, in _prepareExitWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 3531, in closeWiki
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 950, in <lambda>
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 5809, in exitWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 5815, in _prepareExitWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 3531, in closeWiki
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Python34\lib\site-packages\wx\core.py", line 2150, in Notify
+  File "C:\Program Files (x86)\Python34\lib\site-packages\wx\core.py", line 3314, in Notify
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 5809, in exitWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 5815, in _prepareExitWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 3531, in closeWiki
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 746, in stopContinuousExport
+    self.listPagesOperation.endWikiSearch()
+AttributeError: 'NoneType' object has no attribute 'endWikiSearch'
+
+
+Version: 'wikidPad 2.4alpha01' Session start: 2019-04-27 15:31:12
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4793, in OnCmdExportDialog
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1272, in __init__
+AttributeError: 'Panel' object has no attribute 'SetValue'
+
+
+Version: 'wikidPad 2.4alpha01' Session start: 2019-04-27 15:37:55
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4809, in OnCmdContinuousExportDialog
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1230, in __init__
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PluginManager.py", line 687, in getSupportedExportTypes
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PluginManager.py", line 657, in groupOptPanelPlugins
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 515, in getAddOptPanelsForTypes
+    ctrls.chTableOfContents.SetSelection(config.getint("main",
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1563, in OnLoadAndRunExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1563, in OnLoadAndRunExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1563, in OnLoadAndRunExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1353, in OnOk
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1381, in _runExporter
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1467, in _getEffectiveListWikiPagesOperation
+AttributeError: 'Panel' object has no attribute 'GetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1927, in OnCharToFind
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1475, in OnSearchWiki
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplaceDialogs.py", line 1679, in addCurrentToHistory
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1618, in getPackedSettings
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1551, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 1244, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 494, in _serNode
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\SearchAndReplace.py", line 432, in serializeBin
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\Serialization.py", line 107, in serInt32
+struct.error: argument out of range
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4793, in OnCmdExportDialog
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1272, in __init__
+AttributeError: 'Dialog' object has no attribute 'SetValue'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1687, in _showExportProfile
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 607, in setAddOpt
+    ctrls.cbListParents.SetValue(listParents != 0)
+AttributeError: 'Panel' object has no attribute 'SetValue'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1353, in OnOk
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1407, in _runExporter
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 585, in getAddOpt
+    listParents = boolToInt(ctrls.cbListParents.GetValue())
+AttributeError: 'Panel' object has no attribute 'GetValue'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1559, in OnLoadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1593, in _loadExport
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1685, in _showExportProfile
+AttributeError: 'Panel' object has no attribute 'SetSelection'
+
+
+Version: 'wikidPad 2.4alpha01' Session start: 2019-04-27 15:48:42
+Traceback (most recent call last):
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PersonalWikiFrame.py", line 4793, in OnCmdExportDialog
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\AdditionalDialogs.py", line 1230, in __init__
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PluginManager.py", line 687, in getSupportedExportTypes
+  File "D:\Daten\Projekte\Wikidpad\Current_next\lib\pwiki\PluginManager.py", line 657, in groupOptPanelPlugins
+  File "Z:\home\rok\development\GitHub\rokdoltar1.github.io\WikidPad\extensions\HtmlExporter.py", line 513, in getAddOptPanelsForTypes
+    ctrls.cbPicsAsLinks.SetValue(config.getboolean("main",
+AttributeError: 'Panel' object has no attribute 'SetValue'
